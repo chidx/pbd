@@ -1,0 +1,12 @@
+.\obj\pbd.o: pbd.c
+.\obj\pbd.o: D:\Keil\ARM\RV31\INC\stdio.h
+.\obj\pbd.o: .\CMSIS\CM0\DeviceSupport\Nuvoton\NUC1xx\NUC1xx.h
+.\obj\pbd.o: .\CMSIS\CM0\CoreSupport\core_cm0.h
+.\obj\pbd.o: D:\Keil\ARM\RV31\INC\stdint.h
+.\obj\pbd.o: .\CMSIS\CM0\DeviceSupport\Nuvoton\NUC1xx\system_NUC1xx.h
+.\obj\pbd.o: .\Include\System\SysInfra.h
+.\obj\pbd.o: .\Include\System\ModuleID.h
+.\obj\pbd.o: .\Include\Driver\DrvSYS.h
+.\obj\pbd.o: .\Include\Driver\DrvGPIO.h
+.\obj\pbd.o: .\Include\NUC1xx-LB_002\LCD_Driver.h
+.\obj\pbd.o: .\Include\NUC1xx-LB_002\Seven_Segment.h
