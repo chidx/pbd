@@ -6,10 +6,13 @@
 
 #include <stdio.h>
 #include "NUC1xx.h"
+#include "Driver\DrvI2C.h"
 #include "Driver\DrvSYS.h"
 #include "Driver\DrvGPIO.h"
 #include "LCD_Driver.h"
+#include "ScanKey.h"
 #include "Seven_Segment.h"
+
 void delay_loop(void)
  {
  uint32_t i,j;
@@ -74,6 +77,9 @@ void Timer_initial(void)
 
 int main(void)
 {
+	uint8_t pressed_btn = 0x00;
+	char temp[1];
+
 	 int i=0,j=0;
 	/* Unlock the protected registers */	
 	UNLOCKREG();
@@ -98,15 +104,25 @@ int main(void)
 	Initial_pannel();  //call initial pannel function
 	clr_all_pannal();
 	
-	print_lcd(0, "Welcome! Nuvoton");	  
+	/*print_lcd(0, "Welcome! Nuvoton");	  
 	print_lcd(1, "This is LB test ");
 	print_lcd(2, "FW name:        ");	  
-	print_lcd(3, "  Smp_Drv_LB.bin");	  	  
+	print_lcd(3, "  Smp_Drv_LB.bin");*/	  	  
 	Timer_initial();
+
+	OpenKeyPad();
 	
 	while(1)
 	{
-		for(i=0;i<16;i++)
+		pressed_btn = Scankey();
+		if (pressed_btn != 0) {
+			close_seven_segment();
+			show_seven_segment(0, pressed_btn);
+			//temp[0] = pressed_btn;
+			//print_lcd(0, temp);
+		}
+		delay_loop();
+		/*for(i=0;i<16;i++)
 		{
 		  for(j=0;j<4;j++)
 		  {
@@ -114,8 +130,10 @@ int main(void)
 			  show_seven_segment(j,i);
 			  delay_loop();
 		  }
-		}
-	}	  		
+		}*/
+	}
+	
+	CloseKeyPad();	  		
 }
 
 
