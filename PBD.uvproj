@@ -406,6 +406,16 @@
               <FileType>1</FileType>
               <FilePath>.\Src\NUC1xx-LB_002\Seven_Segment.c</FilePath>
             </File>
+            <File>
+              <FileName>ScanKey.c</FileName>
+              <FileType>1</FileType>
+              <FilePath>.\Src\NUC1xx-LB_002\ScanKey.c</FilePath>
+            </File>
+            <File>
+              <FileName>EEPROM_24LC64.c</FileName>
+              <FileType>1</FileType>
+              <FilePath>.\Src\NUC1xx-LB_002\EEPROM_24LC64.c</FilePath>
+            </File>
           </Files>
         </Group>
         <Group>
@@ -455,6 +465,11 @@
               <FileName>retarget.c</FileName>
               <FileType>1</FileType>
               <FilePath>.\Src\Driver\retarget.c</FilePath>
+            </File>
+            <File>
+              <FileName>DrvI2C.c</FileName>
+              <FileType>1</FileType>
+              <FilePath>.\Src\Driver\DrvI2C.c</FilePath>
             </File>
           </Files>
         </Group>
