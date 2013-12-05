@@ -9,516 +9,12 @@ Project File Date:  12/05/2013
 <h2>Output:</h2>
 Build target 'PBD'
 compiling pbd.c...
-pbd.c(242): warning:  #177-D: variable "temp" was declared but never referenced
-pbd.c(244): warning:  #177-D: variable "j" was declared but never referenced
-linking...
-Program Size: Code=4596 RO-data=228 RW-data=124 ZI-data=1236  
-User command #1: fromelf --bin ".\obj\PBD.axf" --output ".\obj\PBD.bin"
-User command #2: fromelf --text -c ".\obj\PBD.axf" --output ".\obj\PBD.txt"
-".\obj\PBD.axf" - 0 Error(s), 2 Warning(s).
-Load "C:\\Users\\ize\\Desktop\\pbd\\obj\\PBD.AXF" 
-Build target 'PBD'
-compiling pbd.c...
-pbd.c(242): warning:  #177-D: variable "temp" was declared but never referenced
-pbd.c(244): warning:  #177-D: variable "j" was declared but never referenced
-linking...
-Program Size: Code=4596 RO-data=228 RW-data=124 ZI-data=1236  
-User command #1: fromelf --bin ".\obj\PBD.axf" --output ".\obj\PBD.bin"
-User command #2: fromelf --text -c ".\obj\PBD.axf" --output ".\obj\PBD.txt"
-".\obj\PBD.axf" - 0 Error(s), 2 Warning(s).
-Load "C:\\Users\\ize\\Desktop\\pbd\\obj\\PBD.AXF" 
-Build target 'PBD'
-compiling pbd.c...
-pbd.c(242): warning:  #177-D: variable "temp" was declared but never referenced
-pbd.c(244): warning:  #177-D: variable "j" was declared but never referenced
-linking...
-Program Size: Code=4592 RO-data=228 RW-data=124 ZI-data=1236  
-User command #1: fromelf --bin ".\obj\PBD.axf" --output ".\obj\PBD.bin"
-User command #2: fromelf --text -c ".\obj\PBD.axf" --output ".\obj\PBD.txt"
-".\obj\PBD.axf" - 0 Error(s), 2 Warning(s).
-Build target 'PBD'
-compiling pbd.c...
-pbd.c(244): warning:  #177-D: variable "j" was declared but never referenced
-linking...
-Program Size: Code=5500 RO-data=228 RW-data=1644 ZI-data=1236  
-User command #1: fromelf --bin ".\obj\PBD.axf" --output ".\obj\PBD.bin"
-User command #2: fromelf --text -c ".\obj\PBD.axf" --output ".\obj\PBD.txt"
-".\obj\PBD.axf" - 0 Error(s), 1 Warning(s).
-Load "C:\\Users\\ize\\Desktop\\pbd\\obj\\PBD.AXF" 
-Load "C:\\Users\\ize\\Desktop\\pbd\\obj\\PBD.AXF" 
-Build target 'PBD'
-compiling pbd.c...
-pbd.c(247): warning:  #177-D: variable "j" was declared but never referenced
-linking...
-Program Size: Code=5504 RO-data=228 RW-data=1644 ZI-data=1236  
-User command #1: fromelf --bin ".\obj\PBD.axf" --output ".\obj\PBD.bin"
-User command #2: fromelf --text -c ".\obj\PBD.axf" --output ".\obj\PBD.txt"
-".\obj\PBD.axf" - 0 Error(s), 1 Warning(s).
-Load "C:\\Users\\ize\\Desktop\\pbd\\obj\\PBD.AXF" 
-Build target 'PBD'
-linking...
-Program Size: Code=5504 RO-data=228 RW-data=1644 ZI-data=1236  
-User command #1: fromelf --bin ".\obj\PBD.axf" --output ".\obj\PBD.bin"
-User command #2: fromelf --text -c ".\obj\PBD.axf" --output ".\obj\PBD.txt"
-".\obj\PBD.axf" - 0 Error(s), 0 Warning(s).
-Load "C:\\Users\\ize\\Desktop\\pbd\\obj\\PBD.AXF" 
-Load "C:\\Users\\ize\\Desktop\\pbd\\obj\\PBD.AXF" 
-Build target 'PBD'
-compiling pbd.c...
-pbd.c(247): warning:  #177-D: variable "j" was declared but never referenced
-linking...
-Program Size: Code=5504 RO-data=228 RW-data=1648 ZI-data=1232  
-User command #1: fromelf --bin ".\obj\PBD.axf" --output ".\obj\PBD.bin"
-User command #2: fromelf --text -c ".\obj\PBD.axf" --output ".\obj\PBD.txt"
-".\obj\PBD.axf" - 0 Error(s), 1 Warning(s).
-Load "C:\\Users\\ize\\Desktop\\pbd\\obj\\PBD.AXF" 
-Build target 'PBD'
-compiling pbd.c...
-pbd.c(244): warning:  #177-D: variable "pressed_number" was declared but never referenced
-pbd.c(247): warning:  #177-D: variable "j" was declared but never referenced
-linking...
-Program Size: Code=4744 RO-data=224 RW-data=1628 ZI-data=1236  
-User command #1: fromelf --bin ".\obj\PBD.axf" --output ".\obj\PBD.bin"
-User command #2: fromelf --text -c ".\obj\PBD.axf" --output ".\obj\PBD.txt"
-".\obj\PBD.axf" - 0 Error(s), 2 Warning(s).
-Load "C:\\Users\\ize\\Desktop\\pbd\\obj\\PBD.AXF" 
-Build target 'PBD'
-compiling pbd.c...
-pbd.c(247): warning:  #177-D: variable "j" was declared but never referenced
-linking...
-Program Size: Code=5504 RO-data=228 RW-data=1648 ZI-data=1232  
-User command #1: fromelf --bin ".\obj\PBD.axf" --output ".\obj\PBD.bin"
-User command #2: fromelf --text -c ".\obj\PBD.axf" --output ".\obj\PBD.txt"
-".\obj\PBD.axf" - 0 Error(s), 1 Warning(s).
-Load "C:\\Users\\ize\\Desktop\\pbd\\obj\\PBD.AXF" 
-Build target 'PBD'
-compiling pbd.c...
-pbd.c(247): warning:  #177-D: variable "j" was declared but never referenced
-linking...
-Program Size: Code=5524 RO-data=228 RW-data=1648 ZI-data=1232  
-User command #1: fromelf --bin ".\obj\PBD.axf" --output ".\obj\PBD.bin"
-User command #2: fromelf --text -c ".\obj\PBD.axf" --output ".\obj\PBD.txt"
-".\obj\PBD.axf" - 0 Error(s), 1 Warning(s).
-Load "C:\\Users\\ize\\Desktop\\pbd\\obj\\PBD.AXF" 
-Build target 'PBD'
-compiling pbd.c...
-pbd.c(250): warning:  #177-D: variable "j" was declared but never referenced
-linking...
-Program Size: Code=5528 RO-data=228 RW-data=1648 ZI-data=1232  
-User command #1: fromelf --bin ".\obj\PBD.axf" --output ".\obj\PBD.bin"
-User command #2: fromelf --text -c ".\obj\PBD.axf" --output ".\obj\PBD.txt"
-".\obj\PBD.axf" - 0 Error(s), 1 Warning(s).
-Load "C:\\Users\\ize\\Desktop\\pbd\\obj\\PBD.AXF" 
-Build target 'PBD'
-compiling pbd.c...
-pbd.c(250): warning:  #177-D: variable "j" was declared but never referenced
-linking...
-Program Size: Code=5504 RO-data=228 RW-data=1636 ZI-data=1236  
-User command #1: fromelf --bin ".\obj\PBD.axf" --output ".\obj\PBD.bin"
-User command #2: fromelf --text -c ".\obj\PBD.axf" --output ".\obj\PBD.txt"
-".\obj\PBD.axf" - 0 Error(s), 1 Warning(s).
-Load "C:\\Users\\ize\\Desktop\\pbd\\obj\\PBD.AXF" 
-Build target 'PBD'
-compiling pbd.c...
-pbd.c(250): warning:  #177-D: variable "j" was declared but never referenced
-linking...
-Program Size: Code=5520 RO-data=228 RW-data=1636 ZI-data=1236  
-User command #1: fromelf --bin ".\obj\PBD.axf" --output ".\obj\PBD.bin"
-User command #2: fromelf --text -c ".\obj\PBD.axf" --output ".\obj\PBD.txt"
-".\obj\PBD.axf" - 0 Error(s), 1 Warning(s).
-Load "C:\\Users\\ize\\Desktop\\pbd\\obj\\PBD.AXF" 
-Build target 'PBD'
-compiling pbd.c...
-pbd.c(250): warning:  #177-D: variable "j" was declared but never referenced
-linking...
-Program Size: Code=5520 RO-data=228 RW-data=1636 ZI-data=1236  
-User command #1: fromelf --bin ".\obj\PBD.axf" --output ".\obj\PBD.bin"
-User command #2: fromelf --text -c ".\obj\PBD.axf" --output ".\obj\PBD.txt"
-".\obj\PBD.axf" - 0 Error(s), 1 Warning(s).
-Load "C:\\Users\\ize\\Desktop\\pbd\\obj\\PBD.AXF" 
-Build target 'PBD'
-compiling pbd.c...
-pbd.c(257): warning:  #177-D: variable "j" was declared but never referenced
-linking...
-Program Size: Code=5536 RO-data=228 RW-data=1636 ZI-data=1236  
-User command #1: fromelf --bin ".\obj\PBD.axf" --output ".\obj\PBD.bin"
-User command #2: fromelf --text -c ".\obj\PBD.axf" --output ".\obj\PBD.txt"
-".\obj\PBD.axf" - 0 Error(s), 1 Warning(s).
-Load "C:\\Users\\ize\\Desktop\\pbd\\obj\\PBD.AXF" 
-Build target 'PBD'
-compiling pbd.c...
-pbd.c(257): warning:  #177-D: variable "j" was declared but never referenced
-linking...
-Program Size: Code=5536 RO-data=228 RW-data=1636 ZI-data=1236  
-User command #1: fromelf --bin ".\obj\PBD.axf" --output ".\obj\PBD.bin"
-User command #2: fromelf --text -c ".\obj\PBD.axf" --output ".\obj\PBD.txt"
-".\obj\PBD.axf" - 0 Error(s), 1 Warning(s).
-Load "C:\\Users\\ize\\Desktop\\pbd\\obj\\PBD.AXF" 
-Build target 'PBD'
-compiling pbd.c...
-pbd.c(273): warning:  #177-D: variable "j" was declared but never referenced
-linking...
-Program Size: Code=5544 RO-data=228 RW-data=1636 ZI-data=1236  
-User command #1: fromelf --bin ".\obj\PBD.axf" --output ".\obj\PBD.bin"
-User command #2: fromelf --text -c ".\obj\PBD.axf" --output ".\obj\PBD.txt"
-".\obj\PBD.axf" - 0 Error(s), 1 Warning(s).
-Load "C:\\Users\\ize\\Desktop\\pbd\\obj\\PBD.AXF" 
-Build target 'PBD'
-compiling pbd.c...
-pbd.c(279): warning:  #177-D: variable "j" was declared but never referenced
-linking...
-Program Size: Code=5568 RO-data=228 RW-data=1636 ZI-data=1236  
-User command #1: fromelf --bin ".\obj\PBD.axf" --output ".\obj\PBD.bin"
-User command #2: fromelf --text -c ".\obj\PBD.axf" --output ".\obj\PBD.txt"
-".\obj\PBD.axf" - 0 Error(s), 1 Warning(s).
-Load "C:\\Users\\ize\\Desktop\\pbd\\obj\\PBD.AXF" 
-Build target 'PBD'
-compiling pbd.c...
-pbd.c(318): warning:  #223-D: function "clear_seven_segment" declared implicitly
-pbd.c(279): warning:  #177-D: variable "j" was declared but never referenced
-linking...
-.\obj\PBD.axf: Error: L6218E: Undefined symbol clear_seven_segment (referred from pbd.o).
+pbd.c(268): error:  #20: identifier "i" is undefined
+pbd.c(275): warning:  #177-D: variable "temp" was declared but never referenced
 Target not created
 Build target 'PBD'
 compiling pbd.c...
-pbd.c(279): warning:  #177-D: variable "j" was declared but never referenced
-linking...
-Program Size: Code=5608 RO-data=228 RW-data=1636 ZI-data=1236  
-User command #1: fromelf --bin ".\obj\PBD.axf" --output ".\obj\PBD.bin"
-User command #2: fromelf --text -c ".\obj\PBD.axf" --output ".\obj\PBD.txt"
-".\obj\PBD.axf" - 0 Error(s), 1 Warning(s).
-Load "C:\\Users\\ize\\Desktop\\pbd\\obj\\PBD.AXF" 
-Build target 'PBD'
-compiling pbd.c...
-pbd.c(277): warning:  #177-D: variable "temp" was declared but never referenced
-pbd.c(279): warning:  #177-D: variable "j" was declared but never referenced
-linking...
-Program Size: Code=4620 RO-data=228 RW-data=116 ZI-data=1236  
-User command #1: fromelf --bin ".\obj\PBD.axf" --output ".\obj\PBD.bin"
-User command #2: fromelf --text -c ".\obj\PBD.axf" --output ".\obj\PBD.txt"
-".\obj\PBD.axf" - 0 Error(s), 2 Warning(s).
-Load "C:\\Users\\ize\\Desktop\\pbd\\obj\\PBD.AXF" 
-Build target 'PBD'
-compiling pbd.c...
-pbd.c(277): warning:  #177-D: variable "temp" was declared but never referenced
-pbd.c(279): warning:  #177-D: variable "j" was declared but never referenced
-linking...
-Program Size: Code=4660 RO-data=228 RW-data=116 ZI-data=1236  
-User command #1: fromelf --bin ".\obj\PBD.axf" --output ".\obj\PBD.bin"
-User command #2: fromelf --text -c ".\obj\PBD.axf" --output ".\obj\PBD.txt"
-".\obj\PBD.axf" - 0 Error(s), 2 Warning(s).
-Load "C:\\Users\\ize\\Desktop\\pbd\\obj\\PBD.AXF" 
-Build target 'PBD'
-compiling pbd.c...
-pbd.c(277): warning:  #177-D: variable "temp" was declared but never referenced
-pbd.c(279): warning:  #177-D: variable "j" was declared but never referenced
-linking...
-Program Size: Code=4592 RO-data=228 RW-data=116 ZI-data=1236  
-User command #1: fromelf --bin ".\obj\PBD.axf" --output ".\obj\PBD.bin"
-User command #2: fromelf --text -c ".\obj\PBD.axf" --output ".\obj\PBD.txt"
-".\obj\PBD.axf" - 0 Error(s), 2 Warning(s).
-Load "C:\\Users\\ize\\Desktop\\pbd\\obj\\PBD.AXF" 
-Build target 'PBD'
-compiling pbd.c...
-pbd.c(277): warning:  #177-D: variable "temp" was declared but never referenced
-pbd.c(279): warning:  #177-D: variable "j" was declared but never referenced
-linking...
-Program Size: Code=4592 RO-data=228 RW-data=116 ZI-data=1236  
-User command #1: fromelf --bin ".\obj\PBD.axf" --output ".\obj\PBD.bin"
-User command #2: fromelf --text -c ".\obj\PBD.axf" --output ".\obj\PBD.txt"
-".\obj\PBD.axf" - 0 Error(s), 2 Warning(s).
-Load "C:\\Users\\ize\\Desktop\\pbd\\obj\\PBD.AXF" 
-Build target 'PBD'
-compiling pbd.c...
-pbd.c(279): warning:  #177-D: variable "j" was declared but never referenced
-linking...
-Program Size: Code=5568 RO-data=228 RW-data=1636 ZI-data=1236  
-User command #1: fromelf --bin ".\obj\PBD.axf" --output ".\obj\PBD.bin"
-User command #2: fromelf --text -c ".\obj\PBD.axf" --output ".\obj\PBD.txt"
-".\obj\PBD.axf" - 0 Error(s), 1 Warning(s).
-Load "C:\\Users\\ize\\Desktop\\pbd\\obj\\PBD.AXF" 
-Build target 'PBD'
-compiling pbd.c...
-pbd.c(279): warning:  #177-D: variable "j" was declared but never referenced
-linking...
-Program Size: Code=5452 RO-data=228 RW-data=1616 ZI-data=1232  
-User command #1: fromelf --bin ".\obj\PBD.axf" --output ".\obj\PBD.bin"
-User command #2: fromelf --text -c ".\obj\PBD.axf" --output ".\obj\PBD.txt"
-".\obj\PBD.axf" - 0 Error(s), 1 Warning(s).
-Load "C:\\Users\\ize\\Desktop\\pbd\\obj\\PBD.AXF" 
-Build target 'PBD'
-compiling pbd.c...
-pbd.c(279): warning:  #177-D: variable "j" was declared but never referenced
-linking...
-Program Size: Code=5452 RO-data=228 RW-data=1616 ZI-data=1232  
-User command #1: fromelf --bin ".\obj\PBD.axf" --output ".\obj\PBD.bin"
-User command #2: fromelf --text -c ".\obj\PBD.axf" --output ".\obj\PBD.txt"
-".\obj\PBD.axf" - 0 Error(s), 1 Warning(s).
-Load "C:\\Users\\ize\\Desktop\\pbd\\obj\\PBD.AXF" 
-Build target 'PBD'
-compiling pbd.c...
-pbd.c(320): error:  #29: expected an expression
-pbd.c(320): error:  #137: expression must be a modifiable lvalue
-pbd.c(279): warning:  #177-D: variable "j" was declared but never referenced
-Target not created
-Build target 'PBD'
-compiling pbd.c...
-pbd.c(320): error:  #137: expression must be a modifiable lvalue
-pbd.c(279): warning:  #177-D: variable "j" was declared but never referenced
-Target not created
-Build target 'PBD'
-compiling pbd.c...
-pbd.c(320): error:  #137: expression must be a modifiable lvalue
-pbd.c(279): warning:  #177-D: variable "j" was declared but never referenced
-Target not created
-Build target 'PBD'
-compiling pbd.c...
-pbd.c(320): error:  #137: expression must be a modifiable lvalue
-pbd.c(279): warning:  #177-D: variable "j" was declared but never referenced
-Target not created
-Build target 'PBD'
-compiling pbd.c...
-pbd.c(320): error:  #137: expression must be a modifiable lvalue
-pbd.c(279): warning:  #177-D: variable "j" was declared but never referenced
-Target not created
-Build target 'PBD'
-compiling pbd.c...
-pbd.c(320): error:  #25: quoted string should contain at least one character
-pbd.c(279): warning:  #177-D: variable "j" was declared but never referenced
-Target not created
-Build target 'PBD'
-compiling pbd.c...
-pbd.c(279): warning:  #177-D: variable "j" was declared but never referenced
-linking...
-Program Size: Code=5460 RO-data=228 RW-data=1616 ZI-data=1232  
-User command #1: fromelf --bin ".\obj\PBD.axf" --output ".\obj\PBD.bin"
-User command #2: fromelf --text -c ".\obj\PBD.axf" --output ".\obj\PBD.txt"
-".\obj\PBD.axf" - 0 Error(s), 1 Warning(s).
-Load "C:\\Users\\ize\\Desktop\\pbd\\obj\\PBD.AXF" 
-Build target 'PBD'
-compiling pbd.c...
-pbd.c(279): warning:  #177-D: variable "j" was declared but never referenced
-linking...
-Program Size: Code=5452 RO-data=228 RW-data=1616 ZI-data=1232  
-User command #1: fromelf --bin ".\obj\PBD.axf" --output ".\obj\PBD.bin"
-User command #2: fromelf --text -c ".\obj\PBD.axf" --output ".\obj\PBD.txt"
-".\obj\PBD.axf" - 0 Error(s), 1 Warning(s).
-Load "C:\\Users\\ize\\Desktop\\pbd\\obj\\PBD.AXF" 
-Build target 'PBD'
-compiling pbd.c...
-pbd.c(279): warning:  #177-D: variable "j" was declared but never referenced
-linking...
-Program Size: Code=5452 RO-data=228 RW-data=1616 ZI-data=1232  
-User command #1: fromelf --bin ".\obj\PBD.axf" --output ".\obj\PBD.bin"
-User command #2: fromelf --text -c ".\obj\PBD.axf" --output ".\obj\PBD.txt"
-".\obj\PBD.axf" - 0 Error(s), 1 Warning(s).
-Load "C:\\Users\\ize\\Desktop\\pbd\\obj\\PBD.AXF" 
-Build target 'PBD'
-compiling pbd.c...
-pbd.c(273): warning:  #177-D: variable "j" was declared but never referenced
-linking...
-Program Size: Code=5428 RO-data=228 RW-data=1616 ZI-data=1232  
-User command #1: fromelf --bin ".\obj\PBD.axf" --output ".\obj\PBD.bin"
-User command #2: fromelf --text -c ".\obj\PBD.axf" --output ".\obj\PBD.txt"
-".\obj\PBD.axf" - 0 Error(s), 1 Warning(s).
-Load "C:\\Users\\ize\\Desktop\\pbd\\obj\\PBD.AXF" 
-Build target 'PBD'
-compiling pbd.c...
-pbd.c(279): warning:  #177-D: variable "j" was declared but never referenced
-linking...
-Program Size: Code=5452 RO-data=228 RW-data=1616 ZI-data=1232  
-User command #1: fromelf --bin ".\obj\PBD.axf" --output ".\obj\PBD.bin"
-User command #2: fromelf --text -c ".\obj\PBD.axf" --output ".\obj\PBD.txt"
-".\obj\PBD.axf" - 0 Error(s), 1 Warning(s).
-Load "C:\\Users\\ize\\Desktop\\pbd\\obj\\PBD.AXF" 
-Build target 'PBD'
-compiling pbd.c...
-pbd.c(277): warning:  #177-D: variable "temp" was declared but never referenced
-pbd.c(279): warning:  #177-D: variable "j" was declared but never referenced
-linking...
-Program Size: Code=4620 RO-data=228 RW-data=116 ZI-data=1236  
-User command #1: fromelf --bin ".\obj\PBD.axf" --output ".\obj\PBD.bin"
-User command #2: fromelf --text -c ".\obj\PBD.axf" --output ".\obj\PBD.txt"
-".\obj\PBD.axf" - 0 Error(s), 2 Warning(s).
-Load "C:\\Users\\ize\\Desktop\\pbd\\obj\\PBD.AXF" 
-Load "C:\\Users\\ize\\Desktop\\pbd\\obj\\PBD.AXF" 
-Build target 'PBD'
-compiling pbd.c...
-pbd.c(277): warning:  #177-D: variable "temp" was declared but never referenced
-pbd.c(279): warning:  #177-D: variable "j" was declared but never referenced
-linking...
-Program Size: Code=4660 RO-data=228 RW-data=116 ZI-data=1236  
-User command #1: fromelf --bin ".\obj\PBD.axf" --output ".\obj\PBD.bin"
-User command #2: fromelf --text -c ".\obj\PBD.axf" --output ".\obj\PBD.txt"
-".\obj\PBD.axf" - 0 Error(s), 2 Warning(s).
-Load "C:\\Users\\ize\\Desktop\\pbd\\obj\\PBD.AXF" 
-Build target 'PBD'
-compiling pbd.c...
-pbd.c(277): warning:  #177-D: variable "temp" was declared but never referenced
-pbd.c(279): warning:  #177-D: variable "j" was declared but never referenced
-linking...
-Program Size: Code=4660 RO-data=228 RW-data=116 ZI-data=1236  
-User command #1: fromelf --bin ".\obj\PBD.axf" --output ".\obj\PBD.bin"
-User command #2: fromelf --text -c ".\obj\PBD.axf" --output ".\obj\PBD.txt"
-".\obj\PBD.axf" - 0 Error(s), 2 Warning(s).
-Load "C:\\Users\\ize\\Desktop\\pbd\\obj\\PBD.AXF" 
-Build target 'PBD'
-compiling pbd.c...
-pbd.c(276): warning:  #177-D: variable "pressed_number" was declared but never referenced
-pbd.c(277): warning:  #177-D: variable "temp" was declared but never referenced
-linking...
-Program Size: Code=3968 RO-data=224 RW-data=116 ZI-data=1236  
-User command #1: fromelf --bin ".\obj\PBD.axf" --output ".\obj\PBD.bin"
-User command #2: fromelf --text -c ".\obj\PBD.axf" --output ".\obj\PBD.txt"
-".\obj\PBD.axf" - 0 Error(s), 2 Warning(s).
-Load "C:\\Users\\ize\\Desktop\\pbd\\obj\\PBD.AXF" 
-Build target 'PBD'
-compiling pbd.c...
-pbd.c(276): warning:  #177-D: variable "pressed_number" was declared but never referenced
-pbd.c(277): warning:  #177-D: variable "temp" was declared but never referenced
-linking...
-Program Size: Code=3968 RO-data=224 RW-data=116 ZI-data=1236  
-User command #1: fromelf --bin ".\obj\PBD.axf" --output ".\obj\PBD.bin"
-User command #2: fromelf --text -c ".\obj\PBD.axf" --output ".\obj\PBD.txt"
-".\obj\PBD.axf" - 0 Error(s), 2 Warning(s).
-Load "C:\\Users\\ize\\Desktop\\pbd\\obj\\PBD.AXF" 
-Build target 'PBD'
-compiling Seven_Segment.c...
-linking...
-Program Size: Code=3968 RO-data=224 RW-data=116 ZI-data=1236  
-User command #1: fromelf --bin ".\obj\PBD.axf" --output ".\obj\PBD.bin"
-User command #2: fromelf --text -c ".\obj\PBD.axf" --output ".\obj\PBD.txt"
-".\obj\PBD.axf" - 0 Error(s), 0 Warning(s).
-Load "C:\\Users\\ize\\Desktop\\pbd\\obj\\PBD.AXF" 
-Build target 'PBD'
-compiling Seven_Segment.c...
-linking...
-Program Size: Code=3968 RO-data=224 RW-data=116 ZI-data=1236  
-User command #1: fromelf --bin ".\obj\PBD.axf" --output ".\obj\PBD.bin"
-User command #2: fromelf --text -c ".\obj\PBD.axf" --output ".\obj\PBD.txt"
-".\obj\PBD.axf" - 0 Error(s), 0 Warning(s).
-Load "C:\\Users\\ize\\Desktop\\pbd\\obj\\PBD.AXF" 
-Build target 'PBD'
-compiling Seven_Segment.c...
-linking...
-Program Size: Code=3968 RO-data=224 RW-data=116 ZI-data=1236  
-User command #1: fromelf --bin ".\obj\PBD.axf" --output ".\obj\PBD.bin"
-User command #2: fromelf --text -c ".\obj\PBD.axf" --output ".\obj\PBD.txt"
-".\obj\PBD.axf" - 0 Error(s), 0 Warning(s).
-Load "C:\\Users\\ize\\Desktop\\pbd\\obj\\PBD.AXF" 
-Build target 'PBD'
-compiling Seven_Segment.c...
-linking...
-Program Size: Code=3968 RO-data=224 RW-data=116 ZI-data=1236  
-User command #1: fromelf --bin ".\obj\PBD.axf" --output ".\obj\PBD.bin"
-User command #2: fromelf --text -c ".\obj\PBD.axf" --output ".\obj\PBD.txt"
-".\obj\PBD.axf" - 0 Error(s), 0 Warning(s).
-Load "C:\\Users\\ize\\Desktop\\pbd\\obj\\PBD.AXF" 
-Build target 'PBD'
-compiling Seven_Segment.c...
-linking...
-Program Size: Code=3968 RO-data=224 RW-data=116 ZI-data=1236  
-User command #1: fromelf --bin ".\obj\PBD.axf" --output ".\obj\PBD.bin"
-User command #2: fromelf --text -c ".\obj\PBD.axf" --output ".\obj\PBD.txt"
-".\obj\PBD.axf" - 0 Error(s), 0 Warning(s).
-Load "C:\\Users\\ize\\Desktop\\pbd\\obj\\PBD.AXF" 
-Build target 'PBD'
-compiling Seven_Segment.c...
-linking...
-Program Size: Code=3968 RO-data=224 RW-data=116 ZI-data=1236  
-User command #1: fromelf --bin ".\obj\PBD.axf" --output ".\obj\PBD.bin"
-User command #2: fromelf --text -c ".\obj\PBD.axf" --output ".\obj\PBD.txt"
-".\obj\PBD.axf" - 0 Error(s), 0 Warning(s).
-Load "C:\\Users\\ize\\Desktop\\pbd\\obj\\PBD.AXF" 
-Load "C:\\Users\\ize\\Desktop\\pbd\\obj\\PBD.AXF" 
-Build target 'PBD'
-compiling Seven_Segment.c...
-linking...
-Program Size: Code=3968 RO-data=224 RW-data=116 ZI-data=1236  
-User command #1: fromelf --bin ".\obj\PBD.axf" --output ".\obj\PBD.bin"
-User command #2: fromelf --text -c ".\obj\PBD.axf" --output ".\obj\PBD.txt"
-".\obj\PBD.axf" - 0 Error(s), 0 Warning(s).
-Load "C:\\Users\\ize\\Desktop\\pbd\\obj\\PBD.AXF" 
-Build target 'PBD'
-compiling Seven_Segment.c...
-linking...
-Program Size: Code=3968 RO-data=224 RW-data=116 ZI-data=1236  
-User command #1: fromelf --bin ".\obj\PBD.axf" --output ".\obj\PBD.bin"
-User command #2: fromelf --text -c ".\obj\PBD.axf" --output ".\obj\PBD.txt"
-".\obj\PBD.axf" - 0 Error(s), 0 Warning(s).
-Load "C:\\Users\\ize\\Desktop\\pbd\\obj\\PBD.AXF" 
-Build target 'PBD'
-compiling pbd.c...
-pbd.c(277): warning:  #177-D: variable "temp" was declared but never referenced
-pbd.c(279): warning:  #177-D: variable "j" was declared but never referenced
-linking...
-Program Size: Code=4620 RO-data=228 RW-data=116 ZI-data=1236  
-User command #1: fromelf --bin ".\obj\PBD.axf" --output ".\obj\PBD.bin"
-User command #2: fromelf --text -c ".\obj\PBD.axf" --output ".\obj\PBD.txt"
-".\obj\PBD.axf" - 0 Error(s), 2 Warning(s).
-Load "C:\\Users\\ize\\Desktop\\pbd\\obj\\PBD.AXF" 
-Build target 'PBD'
-compiling pbd.c...
-pbd.c(277): warning:  #177-D: variable "temp" was declared but never referenced
-pbd.c(279): warning:  #177-D: variable "j" was declared but never referenced
-linking...
-Program Size: Code=4660 RO-data=228 RW-data=116 ZI-data=1236  
-User command #1: fromelf --bin ".\obj\PBD.axf" --output ".\obj\PBD.bin"
-User command #2: fromelf --text -c ".\obj\PBD.axf" --output ".\obj\PBD.txt"
-".\obj\PBD.axf" - 0 Error(s), 2 Warning(s).
-Load "C:\\Users\\ize\\Desktop\\pbd\\obj\\PBD.AXF" 
-Build target 'PBD'
-compiling pbd.c...
-pbd.c(277): warning:  #177-D: variable "temp" was declared but never referenced
-pbd.c(279): warning:  #177-D: variable "j" was declared but never referenced
-linking...
-Program Size: Code=4672 RO-data=228 RW-data=116 ZI-data=1236  
-User command #1: fromelf --bin ".\obj\PBD.axf" --output ".\obj\PBD.bin"
-User command #2: fromelf --text -c ".\obj\PBD.axf" --output ".\obj\PBD.txt"
-".\obj\PBD.axf" - 0 Error(s), 2 Warning(s).
-Load "C:\\Users\\ize\\Desktop\\pbd\\obj\\PBD.AXF" 
-Build target 'PBD'
-compiling pbd.c...
-pbd.c(277): warning:  #177-D: variable "temp" was declared but never referenced
-pbd.c(279): warning:  #177-D: variable "j" was declared but never referenced
-linking...
-Program Size: Code=4660 RO-data=228 RW-data=116 ZI-data=1236  
-User command #1: fromelf --bin ".\obj\PBD.axf" --output ".\obj\PBD.bin"
-User command #2: fromelf --text -c ".\obj\PBD.axf" --output ".\obj\PBD.txt"
-".\obj\PBD.axf" - 0 Error(s), 2 Warning(s).
-Load "C:\\Users\\ize\\Desktop\\pbd\\obj\\PBD.AXF" 
-Build target 'PBD'
-compiling pbd.c...
-pbd.c(277): warning:  #177-D: variable "temp" was declared but never referenced
-pbd.c(279): warning:  #177-D: variable "j" was declared but never referenced
-linking...
-Program Size: Code=4660 RO-data=228 RW-data=116 ZI-data=1236  
-User command #1: fromelf --bin ".\obj\PBD.axf" --output ".\obj\PBD.bin"
-User command #2: fromelf --text -c ".\obj\PBD.axf" --output ".\obj\PBD.txt"
-".\obj\PBD.axf" - 0 Error(s), 2 Warning(s).
-Load "C:\\Users\\ize\\Desktop\\pbd\\obj\\PBD.AXF" 
-Build target 'PBD'
-compiling pbd.c...
-pbd.c(277): warning:  #177-D: variable "temp" was declared but never referenced
-pbd.c(279): warning:  #177-D: variable "j" was declared but never referenced
-linking...
-Program Size: Code=4660 RO-data=228 RW-data=116 ZI-data=1236  
-User command #1: fromelf --bin ".\obj\PBD.axf" --output ".\obj\PBD.bin"
-User command #2: fromelf --text -c ".\obj\PBD.axf" --output ".\obj\PBD.txt"
-".\obj\PBD.axf" - 0 Error(s), 2 Warning(s).
-Build target 'PBD'
-compiling pbd.c...
-pbd.c(277): warning:  #177-D: variable "temp" was declared but never referenced
-pbd.c(279): warning:  #177-D: variable "j" was declared but never referenced
-linking...
-Program Size: Code=4660 RO-data=228 RW-data=116 ZI-data=1236  
-User command #1: fromelf --bin ".\obj\PBD.axf" --output ".\obj\PBD.bin"
-User command #2: fromelf --text -c ".\obj\PBD.axf" --output ".\obj\PBD.txt"
-".\obj\PBD.axf" - 0 Error(s), 2 Warning(s).
-Load "C:\\Users\\ize\\Desktop\\pbd\\obj\\PBD.AXF" 
-Build target 'PBD'
-compiling pbd.c...
-pbd.c(277): warning:  #177-D: variable "temp" was declared but never referenced
+pbd.c(276): warning:  #177-D: variable "temp" was declared but never referenced
 linking...
 Program Size: Code=4660 RO-data=228 RW-data=116 ZI-data=1236  
 User command #1: fromelf --bin ".\obj\PBD.axf" --output ".\obj\PBD.bin"
@@ -527,7 +23,7 @@ User command #2: fromelf --text -c ".\obj\PBD.axf" --output ".\obj\PBD.txt"
 Load "C:\\Users\\ize\\Desktop\\pbd\\obj\\PBD.AXF" 
 Build target 'PBD'
 compiling pbd.c...
-pbd.c(277): warning:  #177-D: variable "temp" was declared but never referenced
+pbd.c(276): warning:  #177-D: variable "temp" was declared but never referenced
 linking...
 Program Size: Code=4660 RO-data=228 RW-data=116 ZI-data=1236  
 User command #1: fromelf --bin ".\obj\PBD.axf" --output ".\obj\PBD.bin"
@@ -536,76 +32,27 @@ User command #2: fromelf --text -c ".\obj\PBD.axf" --output ".\obj\PBD.txt"
 Load "C:\\Users\\ize\\Desktop\\pbd\\obj\\PBD.AXF" 
 Build target 'PBD'
 compiling pbd.c...
-pbd.c(18): warning:  #177-D: variable "i" was declared but never referenced
-pbd.c(274): warning:  #177-D: variable "temp" was declared but never referenced
+pbd.c(276): warning:  #177-D: variable "temp" was declared but never referenced
 linking...
-Program Size: Code=4652 RO-data=228 RW-data=116 ZI-data=1236  
-User command #1: fromelf --bin ".\obj\PBD.axf" --output ".\obj\PBD.bin"
-User command #2: fromelf --text -c ".\obj\PBD.axf" --output ".\obj\PBD.txt"
-".\obj\PBD.axf" - 0 Error(s), 2 Warning(s).
-Load "C:\\Users\\ize\\Desktop\\pbd\\obj\\PBD.AXF" 
-Build target 'PBD'
-compiling pbd.c...
-pbd.c(18): warning:  #177-D: variable "i" was declared but never referenced
-pbd.c(274): warning:  #177-D: variable "temp" was declared but never referenced
-linking...
-Program Size: Code=4652 RO-data=228 RW-data=116 ZI-data=1236  
-User command #1: fromelf --bin ".\obj\PBD.axf" --output ".\obj\PBD.bin"
-User command #2: fromelf --text -c ".\obj\PBD.axf" --output ".\obj\PBD.txt"
-".\obj\PBD.axf" - 0 Error(s), 2 Warning(s).
-Load "C:\\Users\\ize\\Desktop\\pbd\\obj\\PBD.AXF" 
-Build target 'PBD'
-compiling pbd.c...
-pbd.c(18): warning:  #177-D: variable "i" was declared but never referenced
-pbd.c(274): warning:  #177-D: variable "temp" was declared but never referenced
-linking...
-Program Size: Code=4652 RO-data=228 RW-data=116 ZI-data=1236  
-User command #1: fromelf --bin ".\obj\PBD.axf" --output ".\obj\PBD.bin"
-User command #2: fromelf --text -c ".\obj\PBD.axf" --output ".\obj\PBD.txt"
-".\obj\PBD.axf" - 0 Error(s), 2 Warning(s).
-Load "C:\\Users\\ize\\Desktop\\pbd\\obj\\PBD.AXF" 
-Build target 'PBD'
-compiling pbd.c...
-pbd.c(18): warning:  #177-D: variable "i" was declared but never referenced
-pbd.c(274): warning:  #177-D: variable "temp" was declared but never referenced
-linking...
-Program Size: Code=4652 RO-data=228 RW-data=116 ZI-data=1236  
-User command #1: fromelf --bin ".\obj\PBD.axf" --output ".\obj\PBD.bin"
-User command #2: fromelf --text -c ".\obj\PBD.axf" --output ".\obj\PBD.txt"
-".\obj\PBD.axf" - 0 Error(s), 2 Warning(s).
-Load "C:\\Users\\ize\\Desktop\\pbd\\obj\\PBD.AXF" 
-Build target 'PBD'
-compiling pbd.c...
-pbd.c(274): warning:  #177-D: variable "temp" was declared but never referenced
-linking...
-Program Size: Code=4652 RO-data=228 RW-data=116 ZI-data=1236  
+Program Size: Code=4660 RO-data=228 RW-data=116 ZI-data=1236  
 User command #1: fromelf --bin ".\obj\PBD.axf" --output ".\obj\PBD.bin"
 User command #2: fromelf --text -c ".\obj\PBD.axf" --output ".\obj\PBD.txt"
 ".\obj\PBD.axf" - 0 Error(s), 1 Warning(s).
 Load "C:\\Users\\ize\\Desktop\\pbd\\obj\\PBD.AXF" 
 Build target 'PBD'
 compiling pbd.c...
-pbd.c(274): warning:  #177-D: variable "temp" was declared but never referenced
+pbd.c(276): warning:  #177-D: variable "temp" was declared but never referenced
 linking...
-Program Size: Code=4652 RO-data=228 RW-data=116 ZI-data=1236  
+Program Size: Code=4660 RO-data=228 RW-data=116 ZI-data=1236  
 User command #1: fromelf --bin ".\obj\PBD.axf" --output ".\obj\PBD.bin"
 User command #2: fromelf --text -c ".\obj\PBD.axf" --output ".\obj\PBD.txt"
 ".\obj\PBD.axf" - 0 Error(s), 1 Warning(s).
 Load "C:\\Users\\ize\\Desktop\\pbd\\obj\\PBD.AXF" 
 Build target 'PBD'
 compiling pbd.c...
-pbd.c(274): warning:  #177-D: variable "temp" was declared but never referenced
+pbd.c(276): warning:  #177-D: variable "temp" was declared but never referenced
 linking...
-Program Size: Code=4648 RO-data=228 RW-data=116 ZI-data=1236  
-User command #1: fromelf --bin ".\obj\PBD.axf" --output ".\obj\PBD.bin"
-User command #2: fromelf --text -c ".\obj\PBD.axf" --output ".\obj\PBD.txt"
-".\obj\PBD.axf" - 0 Error(s), 1 Warning(s).
-Load "C:\\Users\\ize\\Desktop\\pbd\\obj\\PBD.AXF" 
-Build target 'PBD'
-compiling pbd.c...
-pbd.c(274): warning:  #177-D: variable "temp" was declared but never referenced
-linking...
-Program Size: Code=4648 RO-data=228 RW-data=116 ZI-data=1236  
+Program Size: Code=4660 RO-data=228 RW-data=116 ZI-data=1236  
 User command #1: fromelf --bin ".\obj\PBD.axf" --output ".\obj\PBD.bin"
 User command #2: fromelf --text -c ".\obj\PBD.axf" --output ".\obj\PBD.txt"
 ".\obj\PBD.axf" - 0 Error(s), 1 Warning(s).
@@ -614,17 +61,1594 @@ Build target 'PBD'
 compiling pbd.c...
 pbd.c(279): warning:  #177-D: variable "temp" was declared but never referenced
 linking...
-Program Size: Code=4668 RO-data=228 RW-data=120 ZI-data=1232  
+Program Size: Code=4664 RO-data=228 RW-data=116 ZI-data=1236  
 User command #1: fromelf --bin ".\obj\PBD.axf" --output ".\obj\PBD.bin"
 User command #2: fromelf --text -c ".\obj\PBD.axf" --output ".\obj\PBD.txt"
 ".\obj\PBD.axf" - 0 Error(s), 1 Warning(s).
 Load "C:\\Users\\ize\\Desktop\\pbd\\obj\\PBD.AXF" 
 Build target 'PBD'
 compiling pbd.c...
-pbd.c(274): warning:  #177-D: variable "temp" was declared but never referenced
+pbd.c(279): warning:  #177-D: variable "temp" was declared but never referenced
 linking...
-Program Size: Code=4648 RO-data=228 RW-data=116 ZI-data=1236  
+Program Size: Code=4664 RO-data=228 RW-data=116 ZI-data=1236  
 User command #1: fromelf --bin ".\obj\PBD.axf" --output ".\obj\PBD.bin"
 User command #2: fromelf --text -c ".\obj\PBD.axf" --output ".\obj\PBD.txt"
 ".\obj\PBD.axf" - 0 Error(s), 1 Warning(s).
+Load "C:\\Users\\ize\\Desktop\\pbd\\obj\\PBD.AXF" 
+Build target 'PBD'
+compiling pbd.c...
+pbd.c(279): warning:  #177-D: variable "temp" was declared but never referenced
+linking...
+Program Size: Code=4664 RO-data=228 RW-data=116 ZI-data=1236  
+User command #1: fromelf --bin ".\obj\PBD.axf" --output ".\obj\PBD.bin"
+User command #2: fromelf --text -c ".\obj\PBD.axf" --output ".\obj\PBD.txt"
+".\obj\PBD.axf" - 0 Error(s), 1 Warning(s).
+Build target 'PBD'
+compiling pbd.c...
+pbd.c(279): warning:  #177-D: variable "temp" was declared but never referenced
+linking...
+Program Size: Code=4664 RO-data=228 RW-data=116 ZI-data=1236  
+User command #1: fromelf --bin ".\obj\PBD.axf" --output ".\obj\PBD.bin"
+User command #2: fromelf --text -c ".\obj\PBD.axf" --output ".\obj\PBD.txt"
+".\obj\PBD.axf" - 0 Error(s), 1 Warning(s).
+Load "C:\\Users\\ize\\Desktop\\pbd\\obj\\PBD.AXF" 
+Build target 'PBD'
+compiling pbd.c...
+pbd.c(279): warning:  #177-D: variable "temp" was declared but never referenced
+linking...
+Program Size: Code=4664 RO-data=228 RW-data=116 ZI-data=1236  
+User command #1: fromelf --bin ".\obj\PBD.axf" --output ".\obj\PBD.bin"
+User command #2: fromelf --text -c ".\obj\PBD.axf" --output ".\obj\PBD.txt"
+".\obj\PBD.axf" - 0 Error(s), 1 Warning(s).
+Load "C:\\Users\\ize\\Desktop\\pbd\\obj\\PBD.AXF" 
+Build target 'PBD'
+compiling pbd.c...
+linking...
+Program Size: Code=5408 RO-data=228 RW-data=116 ZI-data=1236  
+User command #1: fromelf --bin ".\obj\PBD.axf" --output ".\obj\PBD.bin"
+User command #2: fromelf --text -c ".\obj\PBD.axf" --output ".\obj\PBD.txt"
+".\obj\PBD.axf" - 0 Error(s), 0 Warning(s).
+Load "C:\\Users\\ize\\Desktop\\pbd\\obj\\PBD.AXF" 
+Build target 'PBD'
+compiling pbd.c...
+linking...
+Program Size: Code=5576 RO-data=228 RW-data=1636 ZI-data=1236  
+User command #1: fromelf --bin ".\obj\PBD.axf" --output ".\obj\PBD.bin"
+User command #2: fromelf --text -c ".\obj\PBD.axf" --output ".\obj\PBD.txt"
+".\obj\PBD.axf" - 0 Error(s), 0 Warning(s).
+Load "C:\\Users\\ize\\Desktop\\pbd\\obj\\PBD.AXF" 
+Build target 'PBD'
+compiling pbd.c...
+linking...
+Program Size: Code=5576 RO-data=228 RW-data=1636 ZI-data=1236  
+User command #1: fromelf --bin ".\obj\PBD.axf" --output ".\obj\PBD.bin"
+User command #2: fromelf --text -c ".\obj\PBD.axf" --output ".\obj\PBD.txt"
+".\obj\PBD.axf" - 0 Error(s), 0 Warning(s).
+Load "C:\\Users\\ize\\Desktop\\pbd\\obj\\PBD.AXF" 
+Build target 'PBD'
+compiling pbd.c...
+linking...
+Program Size: Code=5576 RO-data=228 RW-data=1636 ZI-data=1236  
+User command #1: fromelf --bin ".\obj\PBD.axf" --output ".\obj\PBD.bin"
+User command #2: fromelf --text -c ".\obj\PBD.axf" --output ".\obj\PBD.txt"
+".\obj\PBD.axf" - 0 Error(s), 0 Warning(s).
+Load "C:\\Users\\ize\\Desktop\\pbd\\obj\\PBD.AXF" 
+Build target 'PBD'
+compiling pbd.c...
+linking...
+Program Size: Code=5580 RO-data=228 RW-data=1636 ZI-data=1236  
+User command #1: fromelf --bin ".\obj\PBD.axf" --output ".\obj\PBD.bin"
+User command #2: fromelf --text -c ".\obj\PBD.axf" --output ".\obj\PBD.txt"
+".\obj\PBD.axf" - 0 Error(s), 0 Warning(s).
+Load "C:\\Users\\ize\\Desktop\\pbd\\obj\\PBD.AXF" 
+Build target 'PBD'
+compiling pbd.c...
+linking...
+Program Size: Code=5580 RO-data=228 RW-data=1636 ZI-data=1236  
+User command #1: fromelf --bin ".\obj\PBD.axf" --output ".\obj\PBD.bin"
+User command #2: fromelf --text -c ".\obj\PBD.axf" --output ".\obj\PBD.txt"
+".\obj\PBD.axf" - 0 Error(s), 0 Warning(s).
+Load "C:\\Users\\ize\\Desktop\\pbd\\obj\\PBD.AXF" 
+Build target 'PBD'
+compiling pbd.c...
+linking...
+Program Size: Code=5576 RO-data=228 RW-data=1636 ZI-data=1236  
+User command #1: fromelf --bin ".\obj\PBD.axf" --output ".\obj\PBD.bin"
+User command #2: fromelf --text -c ".\obj\PBD.axf" --output ".\obj\PBD.txt"
+".\obj\PBD.axf" - 0 Error(s), 0 Warning(s).
+Load "C:\\Users\\ize\\Desktop\\pbd\\obj\\PBD.AXF" 
+Build target 'PBD'
+compiling pbd.c...
+pbd.c(105): warning:  #177-D: variable "i" was declared but never referenced
+linking...
+Program Size: Code=5576 RO-data=228 RW-data=1636 ZI-data=1236  
+User command #1: fromelf --bin ".\obj\PBD.axf" --output ".\obj\PBD.bin"
+User command #2: fromelf --text -c ".\obj\PBD.axf" --output ".\obj\PBD.txt"
+".\obj\PBD.axf" - 0 Error(s), 1 Warning(s).
+Load "C:\\Users\\ize\\Desktop\\pbd\\obj\\PBD.AXF" 
+Build target 'PBD'
+compiling pbd.c...
+pbd.c(105): warning:  #177-D: variable "i" was declared but never referenced
+linking...
+Program Size: Code=5576 RO-data=228 RW-data=1636 ZI-data=1236  
+User command #1: fromelf --bin ".\obj\PBD.axf" --output ".\obj\PBD.bin"
+User command #2: fromelf --text -c ".\obj\PBD.axf" --output ".\obj\PBD.txt"
+".\obj\PBD.axf" - 0 Error(s), 1 Warning(s).
+Load "C:\\Users\\ize\\Desktop\\pbd\\obj\\PBD.AXF" 
+Build target 'PBD'
+compiling pbd.c...
+pbd.c(105): warning:  #177-D: variable "i" was declared but never referenced
+linking...
+Program Size: Code=5584 RO-data=228 RW-data=1636 ZI-data=1236  
+User command #1: fromelf --bin ".\obj\PBD.axf" --output ".\obj\PBD.bin"
+User command #2: fromelf --text -c ".\obj\PBD.axf" --output ".\obj\PBD.txt"
+".\obj\PBD.axf" - 0 Error(s), 1 Warning(s).
+Load "C:\\Users\\ize\\Desktop\\pbd\\obj\\PBD.AXF" 
+Build target 'PBD'
+compiling pbd.c...
+pbd.c(105): warning:  #177-D: variable "i" was declared but never referenced
+linking...
+Program Size: Code=5584 RO-data=228 RW-data=1636 ZI-data=1236  
+User command #1: fromelf --bin ".\obj\PBD.axf" --output ".\obj\PBD.bin"
+User command #2: fromelf --text -c ".\obj\PBD.axf" --output ".\obj\PBD.txt"
+".\obj\PBD.axf" - 0 Error(s), 1 Warning(s).
+Build target 'PBD'
+compiling pbd.c...
+pbd.c(105): warning:  #177-D: variable "i" was declared but never referenced
+linking...
+Program Size: Code=5584 RO-data=228 RW-data=1636 ZI-data=1236  
+User command #1: fromelf --bin ".\obj\PBD.axf" --output ".\obj\PBD.bin"
+User command #2: fromelf --text -c ".\obj\PBD.axf" --output ".\obj\PBD.txt"
+".\obj\PBD.axf" - 0 Error(s), 1 Warning(s).
+Load "C:\\Users\\ize\\Desktop\\pbd\\obj\\PBD.AXF" 
+Build target 'PBD'
+compiling pbd.c...
+pbd.c(105): warning:  #177-D: variable "i" was declared but never referenced
+linking...
+Program Size: Code=5576 RO-data=228 RW-data=1636 ZI-data=1236  
+User command #1: fromelf --bin ".\obj\PBD.axf" --output ".\obj\PBD.bin"
+User command #2: fromelf --text -c ".\obj\PBD.axf" --output ".\obj\PBD.txt"
+".\obj\PBD.axf" - 0 Error(s), 1 Warning(s).
+Load "C:\\Users\\ize\\Desktop\\pbd\\obj\\PBD.AXF" 
+Build target 'PBD'
+compiling pbd.c...
+pbd.c(105): warning:  #177-D: variable "i" was declared but never referenced
+linking...
+Program Size: Code=5576 RO-data=228 RW-data=1636 ZI-data=1236  
+User command #1: fromelf --bin ".\obj\PBD.axf" --output ".\obj\PBD.bin"
+User command #2: fromelf --text -c ".\obj\PBD.axf" --output ".\obj\PBD.txt"
+".\obj\PBD.axf" - 0 Error(s), 1 Warning(s).
+Load "C:\\Users\\ize\\Desktop\\pbd\\obj\\PBD.AXF" 
+Build target 'PBD'
+compiling pbd.c...
+pbd.c(105): warning:  #177-D: variable "i" was declared but never referenced
+linking...
+Program Size: Code=5700 RO-data=228 RW-data=1636 ZI-data=1236  
+User command #1: fromelf --bin ".\obj\PBD.axf" --output ".\obj\PBD.bin"
+User command #2: fromelf --text -c ".\obj\PBD.axf" --output ".\obj\PBD.txt"
+".\obj\PBD.axf" - 0 Error(s), 1 Warning(s).
+Load "C:\\Users\\ize\\Desktop\\pbd\\obj\\PBD.AXF" 
+Build target 'PBD'
+compiling pbd.c...
+pbd.c(295): warning:  #550-D: variable "pressed_number" was set but never used
+linking...
+Program Size: Code=5696 RO-data=228 RW-data=1636 ZI-data=1236  
+User command #1: fromelf --bin ".\obj\PBD.axf" --output ".\obj\PBD.bin"
+User command #2: fromelf --text -c ".\obj\PBD.axf" --output ".\obj\PBD.txt"
+".\obj\PBD.axf" - 0 Error(s), 1 Warning(s).
+Load "C:\\Users\\ize\\Desktop\\pbd\\obj\\PBD.AXF" 
+Build target 'PBD'
+compiling pbd.c...
+pbd.c(268): error:  #20: identifier "current_index" is undefined
+pbd.c(107): warning:  #550-D: variable "pressed_number" was set but never used
+pbd.c(283): warning:  #177-D: variable "pressed_number" was declared but never referenced
+Target not created
+Build target 'PBD'
+compiling pbd.c...
+pbd.c(268): error:  #20: identifier "current_index" is undefined
+pbd.c(283): warning:  #177-D: variable "pressed_number" was declared but never referenced
+Target not created
+Build target 'PBD'
+compiling pbd.c...
+pbd.c(283): warning:  #177-D: variable "pressed_number" was declared but never referenced
+linking...
+Program Size: Code=5560 RO-data=228 RW-data=1636 ZI-data=1236  
+User command #1: fromelf --bin ".\obj\PBD.axf" --output ".\obj\PBD.bin"
+User command #2: fromelf --text -c ".\obj\PBD.axf" --output ".\obj\PBD.txt"
+".\obj\PBD.axf" - 0 Error(s), 1 Warning(s).
+Load "C:\\Users\\ize\\Desktop\\pbd\\obj\\PBD.AXF" 
+Build target 'PBD'
+compiling pbd.c...
+pbd.c(91): error:  #247: function "next_position" has already been defined
+pbd.c(283): warning:  #177-D: variable "pressed_number" was declared but never referenced
+Target not created
+Build target 'PBD'
+compiling pbd.c...
+linking...
+Program Size: Code=5560 RO-data=228 RW-data=1636 ZI-data=1236  
+User command #1: fromelf --bin ".\obj\PBD.axf" --output ".\obj\PBD.bin"
+User command #2: fromelf --text -c ".\obj\PBD.axf" --output ".\obj\PBD.txt"
+".\obj\PBD.axf" - 0 Error(s), 0 Warning(s).
+Load "C:\\Users\\ize\\Desktop\\pbd\\obj\\PBD.AXF" 
+Build target 'PBD'
+compiling pbd.c...
+linking...
+Program Size: Code=5560 RO-data=228 RW-data=1636 ZI-data=1236  
+User command #1: fromelf --bin ".\obj\PBD.axf" --output ".\obj\PBD.bin"
+User command #2: fromelf --text -c ".\obj\PBD.axf" --output ".\obj\PBD.txt"
+".\obj\PBD.axf" - 0 Error(s), 0 Warning(s).
+Load "C:\\Users\\ize\\Desktop\\pbd\\obj\\PBD.AXF" 
+Build target 'PBD'
+compiling pbd.c...
+linking...
+Program Size: Code=5560 RO-data=228 RW-data=1636 ZI-data=1236  
+User command #1: fromelf --bin ".\obj\PBD.axf" --output ".\obj\PBD.bin"
+User command #2: fromelf --text -c ".\obj\PBD.axf" --output ".\obj\PBD.txt"
+".\obj\PBD.axf" - 0 Error(s), 0 Warning(s).
+Load "C:\\Users\\ize\\Desktop\\pbd\\obj\\PBD.AXF" 
+Build target 'PBD'
+compiling pbd.c...
+linking...
+Program Size: Code=5560 RO-data=228 RW-data=1636 ZI-data=1236  
+User command #1: fromelf --bin ".\obj\PBD.axf" --output ".\obj\PBD.bin"
+User command #2: fromelf --text -c ".\obj\PBD.axf" --output ".\obj\PBD.txt"
+".\obj\PBD.axf" - 0 Error(s), 0 Warning(s).
+Load "C:\\Users\\ize\\Desktop\\pbd\\obj\\PBD.AXF" 
+Build target 'PBD'
+compiling pbd.c...
+linking...
+Program Size: Code=5556 RO-data=228 RW-data=1636 ZI-data=1236  
+User command #1: fromelf --bin ".\obj\PBD.axf" --output ".\obj\PBD.bin"
+User command #2: fromelf --text -c ".\obj\PBD.axf" --output ".\obj\PBD.txt"
+".\obj\PBD.axf" - 0 Error(s), 0 Warning(s).
+Build target 'PBD'
+compiling Seven_Segment.c...
+linking...
+Program Size: Code=5556 RO-data=228 RW-data=1636 ZI-data=1236  
+User command #1: fromelf --bin ".\obj\PBD.axf" --output ".\obj\PBD.bin"
+User command #2: fromelf --text -c ".\obj\PBD.axf" --output ".\obj\PBD.txt"
+".\obj\PBD.axf" - 0 Error(s), 0 Warning(s).
+Load "C:\\Users\\ize\\Desktop\\pbd\\obj\\PBD.AXF" 
+Build target 'PBD'
+compiling pbd.c...
+linking...
+Program Size: Code=5516 RO-data=228 RW-data=1636 ZI-data=1236  
+User command #1: fromelf --bin ".\obj\PBD.axf" --output ".\obj\PBD.bin"
+User command #2: fromelf --text -c ".\obj\PBD.axf" --output ".\obj\PBD.txt"
+".\obj\PBD.axf" - 0 Error(s), 0 Warning(s).
+Load "C:\\Users\\ize\\Desktop\\pbd\\obj\\PBD.AXF" 
+Build target 'PBD'
+compiling pbd.c...
+linking...
+Program Size: Code=5556 RO-data=228 RW-data=1636 ZI-data=1236  
+User command #1: fromelf --bin ".\obj\PBD.axf" --output ".\obj\PBD.bin"
+User command #2: fromelf --text -c ".\obj\PBD.axf" --output ".\obj\PBD.txt"
+".\obj\PBD.axf" - 0 Error(s), 0 Warning(s).
+Load "C:\\Users\\ize\\Desktop\\pbd\\obj\\PBD.AXF" 
+Build target 'PBD'
+compiling pbd.c...
+linking...
+Program Size: Code=5560 RO-data=228 RW-data=1636 ZI-data=1236  
+User command #1: fromelf --bin ".\obj\PBD.axf" --output ".\obj\PBD.bin"
+User command #2: fromelf --text -c ".\obj\PBD.axf" --output ".\obj\PBD.txt"
+".\obj\PBD.axf" - 0 Error(s), 0 Warning(s).
+Load "C:\\Users\\ize\\Desktop\\pbd\\obj\\PBD.AXF" 
+Build target 'PBD'
+compiling pbd.c...
+linking...
+Program Size: Code=5560 RO-data=228 RW-data=1636 ZI-data=1236  
+User command #1: fromelf --bin ".\obj\PBD.axf" --output ".\obj\PBD.bin"
+User command #2: fromelf --text -c ".\obj\PBD.axf" --output ".\obj\PBD.txt"
+".\obj\PBD.axf" - 0 Error(s), 0 Warning(s).
+Load "C:\\Users\\ize\\Desktop\\pbd\\obj\\PBD.AXF" 
+Build target 'PBD'
+compiling pbd.c...
+linking...
+Program Size: Code=5560 RO-data=228 RW-data=1636 ZI-data=1236  
+User command #1: fromelf --bin ".\obj\PBD.axf" --output ".\obj\PBD.bin"
+User command #2: fromelf --text -c ".\obj\PBD.axf" --output ".\obj\PBD.txt"
+".\obj\PBD.axf" - 0 Error(s), 0 Warning(s).
+Load "C:\\Users\\ize\\Desktop\\pbd\\obj\\PBD.AXF" 
+Build target 'PBD'
+compiling pbd.c...
+linking...
+Program Size: Code=5568 RO-data=228 RW-data=1636 ZI-data=1236  
+User command #1: fromelf --bin ".\obj\PBD.axf" --output ".\obj\PBD.bin"
+User command #2: fromelf --text -c ".\obj\PBD.axf" --output ".\obj\PBD.txt"
+".\obj\PBD.axf" - 0 Error(s), 0 Warning(s).
+Load "C:\\Users\\ize\\Desktop\\pbd\\obj\\PBD.AXF" 
+Build target 'PBD'
+compiling pbd.c...
+pbd.c(284): warning:  #177-D: variable "j" was declared but never referenced
+linking...
+Program Size: Code=5560 RO-data=228 RW-data=1636 ZI-data=1236  
+User command #1: fromelf --bin ".\obj\PBD.axf" --output ".\obj\PBD.bin"
+User command #2: fromelf --text -c ".\obj\PBD.axf" --output ".\obj\PBD.txt"
+".\obj\PBD.axf" - 0 Error(s), 1 Warning(s).
+Load "C:\\Users\\ize\\Desktop\\pbd\\obj\\PBD.AXF" 
+Build target 'PBD'
+compiling pbd.c...
+linking...
+Program Size: Code=5568 RO-data=228 RW-data=1636 ZI-data=1236  
+User command #1: fromelf --bin ".\obj\PBD.axf" --output ".\obj\PBD.bin"
+User command #2: fromelf --text -c ".\obj\PBD.axf" --output ".\obj\PBD.txt"
+".\obj\PBD.axf" - 0 Error(s), 0 Warning(s).
+Load "C:\\Users\\ize\\Desktop\\pbd\\obj\\PBD.AXF" 
+Build target 'PBD'
+compiling pbd.c...
+pbd.c(284): warning:  #177-D: variable "j" was declared but never referenced
+linking...
+Program Size: Code=5564 RO-data=228 RW-data=1636 ZI-data=1236  
+User command #1: fromelf --bin ".\obj\PBD.axf" --output ".\obj\PBD.bin"
+User command #2: fromelf --text -c ".\obj\PBD.axf" --output ".\obj\PBD.txt"
+".\obj\PBD.axf" - 0 Error(s), 1 Warning(s).
+Load "C:\\Users\\ize\\Desktop\\pbd\\obj\\PBD.AXF" 
+Build target 'PBD'
+compiling pbd.c...
+pbd.c(284): warning:  #177-D: variable "j" was declared but never referenced
+linking...
+Program Size: Code=5564 RO-data=228 RW-data=1636 ZI-data=1236  
+User command #1: fromelf --bin ".\obj\PBD.axf" --output ".\obj\PBD.bin"
+User command #2: fromelf --text -c ".\obj\PBD.axf" --output ".\obj\PBD.txt"
+".\obj\PBD.axf" - 0 Error(s), 1 Warning(s).
+Load "C:\\Users\\ize\\Desktop\\pbd\\obj\\PBD.AXF" 
+Build target 'PBD'
+compiling pbd.c...
+pbd.c(284): warning:  #177-D: variable "j" was declared but never referenced
+linking...
+Program Size: Code=5564 RO-data=228 RW-data=1636 ZI-data=1236  
+User command #1: fromelf --bin ".\obj\PBD.axf" --output ".\obj\PBD.bin"
+User command #2: fromelf --text -c ".\obj\PBD.axf" --output ".\obj\PBD.txt"
+".\obj\PBD.axf" - 0 Error(s), 1 Warning(s).
+Load "C:\\Users\\ize\\Desktop\\pbd\\obj\\PBD.AXF" 
+Build target 'PBD'
+compiling pbd.c...
+pbd.c(284): warning:  #177-D: variable "j" was declared but never referenced
+linking...
+Program Size: Code=5560 RO-data=228 RW-data=1636 ZI-data=1236  
+User command #1: fromelf --bin ".\obj\PBD.axf" --output ".\obj\PBD.bin"
+User command #2: fromelf --text -c ".\obj\PBD.axf" --output ".\obj\PBD.txt"
+".\obj\PBD.axf" - 0 Error(s), 1 Warning(s).
+Load "C:\\Users\\ize\\Desktop\\pbd\\obj\\PBD.AXF" 
+Build target 'PBD'
+compiling pbd.c...
+pbd.c(284): warning:  #177-D: variable "j" was declared but never referenced
+linking...
+Program Size: Code=5560 RO-data=228 RW-data=1636 ZI-data=1236  
+User command #1: fromelf --bin ".\obj\PBD.axf" --output ".\obj\PBD.bin"
+User command #2: fromelf --text -c ".\obj\PBD.axf" --output ".\obj\PBD.txt"
+".\obj\PBD.axf" - 0 Error(s), 1 Warning(s).
+Load "C:\\Users\\ize\\Desktop\\pbd\\obj\\PBD.AXF" 
+Build target 'PBD'
+compiling pbd.c...
+pbd.c(284): warning:  #177-D: variable "j" was declared but never referenced
+linking...
+Program Size: Code=5564 RO-data=228 RW-data=1636 ZI-data=1236  
+User command #1: fromelf --bin ".\obj\PBD.axf" --output ".\obj\PBD.bin"
+User command #2: fromelf --text -c ".\obj\PBD.axf" --output ".\obj\PBD.txt"
+".\obj\PBD.axf" - 0 Error(s), 1 Warning(s).
+Load "C:\\Users\\ize\\Desktop\\pbd\\obj\\PBD.AXF" 
+Build target 'PBD'
+compiling pbd.c...
+pbd.c(286): warning:  #177-D: variable "j" was declared but never referenced
+linking...
+Program Size: Code=5568 RO-data=228 RW-data=1636 ZI-data=1236  
+User command #1: fromelf --bin ".\obj\PBD.axf" --output ".\obj\PBD.bin"
+User command #2: fromelf --text -c ".\obj\PBD.axf" --output ".\obj\PBD.txt"
+".\obj\PBD.axf" - 0 Error(s), 1 Warning(s).
+Load "C:\\Users\\ize\\Desktop\\pbd\\obj\\PBD.AXF" 
+Build target 'PBD'
+compiling pbd.c...
+pbd.c(286): warning:  #177-D: variable "j" was declared but never referenced
+linking...
+Program Size: Code=5572 RO-data=228 RW-data=1636 ZI-data=1236  
+User command #1: fromelf --bin ".\obj\PBD.axf" --output ".\obj\PBD.bin"
+User command #2: fromelf --text -c ".\obj\PBD.axf" --output ".\obj\PBD.txt"
+".\obj\PBD.axf" - 0 Error(s), 1 Warning(s).
+Load "C:\\Users\\ize\\Desktop\\pbd\\obj\\PBD.AXF" 
+Build target 'PBD'
+compiling pbd.c...
+pbd.c(286): warning:  #177-D: variable "j" was declared but never referenced
+linking...
+Program Size: Code=5572 RO-data=228 RW-data=1636 ZI-data=1236  
+User command #1: fromelf --bin ".\obj\PBD.axf" --output ".\obj\PBD.bin"
+User command #2: fromelf --text -c ".\obj\PBD.axf" --output ".\obj\PBD.txt"
+".\obj\PBD.axf" - 0 Error(s), 1 Warning(s).
+Load "C:\\Users\\ize\\Desktop\\pbd\\obj\\PBD.AXF" 
+Build target 'PBD'
+compiling pbd.c...
+pbd.c(18): warning:  #177-D: variable "i" was declared but never referenced
+pbd.c(286): warning:  #177-D: variable "j" was declared but never referenced
+linking...
+Program Size: Code=5564 RO-data=228 RW-data=1636 ZI-data=1236  
+User command #1: fromelf --bin ".\obj\PBD.axf" --output ".\obj\PBD.bin"
+User command #2: fromelf --text -c ".\obj\PBD.axf" --output ".\obj\PBD.txt"
+".\obj\PBD.axf" - 0 Error(s), 2 Warning(s).
+Load "C:\\Users\\ize\\Desktop\\pbd\\obj\\PBD.AXF" 
+Build target 'PBD'
+compiling pbd.c...
+pbd.c(18): warning:  #177-D: variable "i" was declared but never referenced
+pbd.c(286): warning:  #177-D: variable "j" was declared but never referenced
+linking...
+Program Size: Code=5564 RO-data=228 RW-data=1636 ZI-data=1236  
+User command #1: fromelf --bin ".\obj\PBD.axf" --output ".\obj\PBD.bin"
+User command #2: fromelf --text -c ".\obj\PBD.axf" --output ".\obj\PBD.txt"
+".\obj\PBD.axf" - 0 Error(s), 2 Warning(s).
+Load "C:\\Users\\ize\\Desktop\\pbd\\obj\\PBD.AXF" 
+Build target 'PBD'
+compiling pbd.c...
+pbd.c(18): warning:  #177-D: variable "i" was declared but never referenced
+pbd.c(286): warning:  #177-D: variable "j" was declared but never referenced
+linking...
+Program Size: Code=5560 RO-data=228 RW-data=1636 ZI-data=1236  
+User command #1: fromelf --bin ".\obj\PBD.axf" --output ".\obj\PBD.bin"
+User command #2: fromelf --text -c ".\obj\PBD.axf" --output ".\obj\PBD.txt"
+".\obj\PBD.axf" - 0 Error(s), 2 Warning(s).
+Load "C:\\Users\\ize\\Desktop\\pbd\\obj\\PBD.AXF" 
+Build target 'PBD'
+compiling pbd.c...
+pbd.c(18): warning:  #177-D: variable "i" was declared but never referenced
+pbd.c(286): warning:  #177-D: variable "j" was declared but never referenced
+linking...
+Program Size: Code=5560 RO-data=228 RW-data=1636 ZI-data=1236  
+User command #1: fromelf --bin ".\obj\PBD.axf" --output ".\obj\PBD.bin"
+User command #2: fromelf --text -c ".\obj\PBD.axf" --output ".\obj\PBD.txt"
+".\obj\PBD.axf" - 0 Error(s), 2 Warning(s).
+Load "C:\\Users\\ize\\Desktop\\pbd\\obj\\PBD.AXF" 
+Build target 'PBD'
+compiling pbd.c...
+pbd.c(286): warning:  #177-D: variable "j" was declared but never referenced
+linking...
+Program Size: Code=5572 RO-data=228 RW-data=1636 ZI-data=1236  
+User command #1: fromelf --bin ".\obj\PBD.axf" --output ".\obj\PBD.bin"
+User command #2: fromelf --text -c ".\obj\PBD.axf" --output ".\obj\PBD.txt"
+".\obj\PBD.axf" - 0 Error(s), 1 Warning(s).
+Load "C:\\Users\\ize\\Desktop\\pbd\\obj\\PBD.AXF" 
+Build target 'PBD'
+compiling pbd.c...
+pbd.c(284): warning:  #177-D: variable "j" was declared but never referenced
+linking...
+Program Size: Code=5560 RO-data=228 RW-data=1636 ZI-data=1236  
+User command #1: fromelf --bin ".\obj\PBD.axf" --output ".\obj\PBD.bin"
+User command #2: fromelf --text -c ".\obj\PBD.axf" --output ".\obj\PBD.txt"
+".\obj\PBD.axf" - 0 Error(s), 1 Warning(s).
+Load "C:\\Users\\ize\\Desktop\\pbd\\obj\\PBD.AXF" 
+Build target 'PBD'
+compiling pbd.c...
+pbd.c(284): warning:  #177-D: variable "j" was declared but never referenced
+linking...
+Program Size: Code=5520 RO-data=228 RW-data=1636 ZI-data=1236  
+User command #1: fromelf --bin ".\obj\PBD.axf" --output ".\obj\PBD.bin"
+User command #2: fromelf --text -c ".\obj\PBD.axf" --output ".\obj\PBD.txt"
+".\obj\PBD.axf" - 0 Error(s), 1 Warning(s).
+Load "C:\\Users\\ize\\Desktop\\pbd\\obj\\PBD.AXF" 
+Build target 'PBD'
+compiling pbd.c...
+pbd.c(284): warning:  #177-D: variable "j" was declared but never referenced
+linking...
+Program Size: Code=5560 RO-data=228 RW-data=1636 ZI-data=1236  
+User command #1: fromelf --bin ".\obj\PBD.axf" --output ".\obj\PBD.bin"
+User command #2: fromelf --text -c ".\obj\PBD.axf" --output ".\obj\PBD.txt"
+".\obj\PBD.axf" - 0 Error(s), 1 Warning(s).
+Load "C:\\Users\\ize\\Desktop\\pbd\\obj\\PBD.AXF" 
+Build target 'PBD'
+compiling pbd.c...
+pbd.c(284): warning:  #177-D: variable "j" was declared but never referenced
+linking...
+Program Size: Code=5560 RO-data=228 RW-data=1636 ZI-data=1236  
+User command #1: fromelf --bin ".\obj\PBD.axf" --output ".\obj\PBD.bin"
+User command #2: fromelf --text -c ".\obj\PBD.axf" --output ".\obj\PBD.txt"
+".\obj\PBD.axf" - 0 Error(s), 1 Warning(s).
+Load "C:\\Users\\ize\\Desktop\\pbd\\obj\\PBD.AXF" 
+Build target 'PBD'
+compiling pbd.c...
+pbd.c(284): warning:  #177-D: variable "j" was declared but never referenced
+linking...
+Program Size: Code=5560 RO-data=228 RW-data=1636 ZI-data=1236  
+User command #1: fromelf --bin ".\obj\PBD.axf" --output ".\obj\PBD.bin"
+User command #2: fromelf --text -c ".\obj\PBD.axf" --output ".\obj\PBD.txt"
+".\obj\PBD.axf" - 0 Error(s), 1 Warning(s).
+Load "C:\\Users\\ize\\Desktop\\pbd\\obj\\PBD.AXF" 
+Build target 'PBD'
+compiling pbd.c...
+pbd.c(284): warning:  #177-D: variable "j" was declared but never referenced
+linking...
+Program Size: Code=5560 RO-data=228 RW-data=1636 ZI-data=1236  
+User command #1: fromelf --bin ".\obj\PBD.axf" --output ".\obj\PBD.bin"
+User command #2: fromelf --text -c ".\obj\PBD.axf" --output ".\obj\PBD.txt"
+".\obj\PBD.axf" - 0 Error(s), 1 Warning(s).
+Load "C:\\Users\\ize\\Desktop\\pbd\\obj\\PBD.AXF" 
+Build target 'PBD'
+compiling pbd.c...
+pbd.c(284): warning:  #177-D: variable "j" was declared but never referenced
+linking...
+Program Size: Code=5560 RO-data=228 RW-data=1636 ZI-data=1236  
+User command #1: fromelf --bin ".\obj\PBD.axf" --output ".\obj\PBD.bin"
+User command #2: fromelf --text -c ".\obj\PBD.axf" --output ".\obj\PBD.txt"
+".\obj\PBD.axf" - 0 Error(s), 1 Warning(s).
+Load "C:\\Users\\ize\\Desktop\\pbd\\obj\\PBD.AXF" 
+Build target 'PBD'
+compiling pbd.c...
+pbd.c(284): warning:  #177-D: variable "j" was declared but never referenced
+linking...
+Program Size: Code=5564 RO-data=228 RW-data=1636 ZI-data=1236  
+User command #1: fromelf --bin ".\obj\PBD.axf" --output ".\obj\PBD.bin"
+User command #2: fromelf --text -c ".\obj\PBD.axf" --output ".\obj\PBD.txt"
+".\obj\PBD.axf" - 0 Error(s), 1 Warning(s).
+Load "C:\\Users\\ize\\Desktop\\pbd\\obj\\PBD.AXF" 
+Build target 'PBD'
+compiling pbd.c...
+pbd.c(284): warning:  #177-D: variable "j" was declared but never referenced
+linking...
+Program Size: Code=5564 RO-data=228 RW-data=1636 ZI-data=1236  
+User command #1: fromelf --bin ".\obj\PBD.axf" --output ".\obj\PBD.bin"
+User command #2: fromelf --text -c ".\obj\PBD.axf" --output ".\obj\PBD.txt"
+".\obj\PBD.axf" - 0 Error(s), 1 Warning(s).
+Load "C:\\Users\\ize\\Desktop\\pbd\\obj\\PBD.AXF" 
+Build target 'PBD'
+compiling pbd.c...
+pbd.c(284): warning:  #177-D: variable "j" was declared but never referenced
+linking...
+Program Size: Code=5564 RO-data=228 RW-data=1636 ZI-data=1236  
+User command #1: fromelf --bin ".\obj\PBD.axf" --output ".\obj\PBD.bin"
+User command #2: fromelf --text -c ".\obj\PBD.axf" --output ".\obj\PBD.txt"
+".\obj\PBD.axf" - 0 Error(s), 1 Warning(s).
+Load "C:\\Users\\ize\\Desktop\\pbd\\obj\\PBD.AXF" 
+Build target 'PBD'
+compiling pbd.c...
+pbd.c(284): warning:  #177-D: variable "j" was declared but never referenced
+linking...
+Program Size: Code=5564 RO-data=228 RW-data=1636 ZI-data=1236  
+User command #1: fromelf --bin ".\obj\PBD.axf" --output ".\obj\PBD.bin"
+User command #2: fromelf --text -c ".\obj\PBD.axf" --output ".\obj\PBD.txt"
+".\obj\PBD.axf" - 0 Error(s), 1 Warning(s).
+Load "C:\\Users\\ize\\Desktop\\pbd\\obj\\PBD.AXF" 
+Build target 'PBD'
+compiling pbd.c...
+pbd.c(284): warning:  #177-D: variable "j" was declared but never referenced
+linking...
+Program Size: Code=5564 RO-data=228 RW-data=1636 ZI-data=1236  
+User command #1: fromelf --bin ".\obj\PBD.axf" --output ".\obj\PBD.bin"
+User command #2: fromelf --text -c ".\obj\PBD.axf" --output ".\obj\PBD.txt"
+".\obj\PBD.axf" - 0 Error(s), 1 Warning(s).
+Load "C:\\Users\\ize\\Desktop\\pbd\\obj\\PBD.AXF" 
+Build target 'PBD'
+compiling pbd.c...
+pbd.c(284): warning:  #177-D: variable "j" was declared but never referenced
+linking...
+Program Size: Code=5564 RO-data=228 RW-data=1636 ZI-data=1236  
+User command #1: fromelf --bin ".\obj\PBD.axf" --output ".\obj\PBD.bin"
+User command #2: fromelf --text -c ".\obj\PBD.axf" --output ".\obj\PBD.txt"
+".\obj\PBD.axf" - 0 Error(s), 1 Warning(s).
+Load "C:\\Users\\ize\\Desktop\\pbd\\obj\\PBD.AXF" 
+Build target 'PBD'
+compiling pbd.c...
+pbd.c(284): warning:  #177-D: variable "j" was declared but never referenced
+linking...
+Program Size: Code=5564 RO-data=228 RW-data=1636 ZI-data=1236  
+User command #1: fromelf --bin ".\obj\PBD.axf" --output ".\obj\PBD.bin"
+User command #2: fromelf --text -c ".\obj\PBD.axf" --output ".\obj\PBD.txt"
+".\obj\PBD.axf" - 0 Error(s), 1 Warning(s).
+Load "C:\\Users\\ize\\Desktop\\pbd\\obj\\PBD.AXF" 
+Build target 'PBD'
+compiling pbd.c...
+pbd.c(284): warning:  #177-D: variable "j" was declared but never referenced
+linking...
+Program Size: Code=5560 RO-data=228 RW-data=1636 ZI-data=1236  
+User command #1: fromelf --bin ".\obj\PBD.axf" --output ".\obj\PBD.bin"
+User command #2: fromelf --text -c ".\obj\PBD.axf" --output ".\obj\PBD.txt"
+".\obj\PBD.axf" - 0 Error(s), 1 Warning(s).
+Load "C:\\Users\\ize\\Desktop\\pbd\\obj\\PBD.AXF" 
+Build target 'PBD'
+compiling pbd.c...
+pbd.c(284): warning:  #177-D: variable "j" was declared but never referenced
+linking...
+Program Size: Code=5560 RO-data=228 RW-data=1636 ZI-data=1236  
+User command #1: fromelf --bin ".\obj\PBD.axf" --output ".\obj\PBD.bin"
+User command #2: fromelf --text -c ".\obj\PBD.axf" --output ".\obj\PBD.txt"
+".\obj\PBD.axf" - 0 Error(s), 1 Warning(s).
+Load "C:\\Users\\ize\\Desktop\\pbd\\obj\\PBD.AXF" 
+Build target 'PBD'
+compiling pbd.c...
+pbd.c(284): warning:  #177-D: variable "j" was declared but never referenced
+linking...
+Program Size: Code=5560 RO-data=228 RW-data=1636 ZI-data=1236  
+User command #1: fromelf --bin ".\obj\PBD.axf" --output ".\obj\PBD.bin"
+User command #2: fromelf --text -c ".\obj\PBD.axf" --output ".\obj\PBD.txt"
+".\obj\PBD.axf" - 0 Error(s), 1 Warning(s).
+Load "C:\\Users\\ize\\Desktop\\pbd\\obj\\PBD.AXF" 
+Build target 'PBD'
+compiling pbd.c...
+pbd.c(284): warning:  #177-D: variable "j" was declared but never referenced
+linking...
+Program Size: Code=5560 RO-data=228 RW-data=1636 ZI-data=1236  
+User command #1: fromelf --bin ".\obj\PBD.axf" --output ".\obj\PBD.bin"
+User command #2: fromelf --text -c ".\obj\PBD.axf" --output ".\obj\PBD.txt"
+".\obj\PBD.axf" - 0 Error(s), 1 Warning(s).
+Load "C:\\Users\\ize\\Desktop\\pbd\\obj\\PBD.AXF" 
+Build target 'PBD'
+compiling pbd.c...
+pbd.c(284): warning:  #177-D: variable "j" was declared but never referenced
+linking...
+Program Size: Code=5564 RO-data=228 RW-data=1636 ZI-data=1236  
+User command #1: fromelf --bin ".\obj\PBD.axf" --output ".\obj\PBD.bin"
+User command #2: fromelf --text -c ".\obj\PBD.axf" --output ".\obj\PBD.txt"
+".\obj\PBD.axf" - 0 Error(s), 1 Warning(s).
+Load "C:\\Users\\ize\\Desktop\\pbd\\obj\\PBD.AXF" 
+Build target 'PBD'
+compiling pbd.c...
+pbd.c(284): warning:  #177-D: variable "j" was declared but never referenced
+linking...
+Program Size: Code=5560 RO-data=228 RW-data=1636 ZI-data=1236  
+User command #1: fromelf --bin ".\obj\PBD.axf" --output ".\obj\PBD.bin"
+User command #2: fromelf --text -c ".\obj\PBD.axf" --output ".\obj\PBD.txt"
+".\obj\PBD.axf" - 0 Error(s), 1 Warning(s).
+Load "C:\\Users\\ize\\Desktop\\pbd\\obj\\PBD.AXF" 
+Build target 'PBD'
+compiling pbd.c...
+linking...
+Program Size: Code=5568 RO-data=228 RW-data=1636 ZI-data=1236  
+User command #1: fromelf --bin ".\obj\PBD.axf" --output ".\obj\PBD.bin"
+User command #2: fromelf --text -c ".\obj\PBD.axf" --output ".\obj\PBD.txt"
+".\obj\PBD.axf" - 0 Error(s), 0 Warning(s).
+Load "C:\\Users\\ize\\Desktop\\pbd\\obj\\PBD.AXF" 
+Build target 'PBD'
+compiling pbd.c...
+linking...
+Program Size: Code=5568 RO-data=228 RW-data=1636 ZI-data=1236  
+User command #1: fromelf --bin ".\obj\PBD.axf" --output ".\obj\PBD.bin"
+User command #2: fromelf --text -c ".\obj\PBD.axf" --output ".\obj\PBD.txt"
+".\obj\PBD.axf" - 0 Error(s), 0 Warning(s).
+Load "C:\\Users\\ize\\Desktop\\pbd\\obj\\PBD.AXF" 
+Build target 'PBD'
+compiling pbd.c...
+linking...
+Program Size: Code=5568 RO-data=228 RW-data=1636 ZI-data=1236  
+User command #1: fromelf --bin ".\obj\PBD.axf" --output ".\obj\PBD.bin"
+User command #2: fromelf --text -c ".\obj\PBD.axf" --output ".\obj\PBD.txt"
+".\obj\PBD.axf" - 0 Error(s), 0 Warning(s).
+Build target 'PBD'
+compiling pbd.c...
+linking...
+Program Size: Code=5568 RO-data=228 RW-data=1636 ZI-data=1236  
+User command #1: fromelf --bin ".\obj\PBD.axf" --output ".\obj\PBD.bin"
+User command #2: fromelf --text -c ".\obj\PBD.axf" --output ".\obj\PBD.txt"
+".\obj\PBD.axf" - 0 Error(s), 0 Warning(s).
+Load "C:\\Users\\ize\\Desktop\\pbd\\obj\\PBD.AXF" 
+Build target 'PBD'
+compiling pbd.c...
+linking...
+Program Size: Code=5572 RO-data=228 RW-data=1636 ZI-data=1236  
+User command #1: fromelf --bin ".\obj\PBD.axf" --output ".\obj\PBD.bin"
+User command #2: fromelf --text -c ".\obj\PBD.axf" --output ".\obj\PBD.txt"
+".\obj\PBD.axf" - 0 Error(s), 0 Warning(s).
+Load "C:\\Users\\ize\\Desktop\\pbd\\obj\\PBD.AXF" 
+Build target 'PBD'
+compiling pbd.c...
+linking...
+Program Size: Code=5572 RO-data=228 RW-data=1636 ZI-data=1236  
+User command #1: fromelf --bin ".\obj\PBD.axf" --output ".\obj\PBD.bin"
+User command #2: fromelf --text -c ".\obj\PBD.axf" --output ".\obj\PBD.txt"
+".\obj\PBD.axf" - 0 Error(s), 0 Warning(s).
+Load "C:\\Users\\ize\\Desktop\\pbd\\obj\\PBD.AXF" 
+Build target 'PBD'
+compiling pbd.c...
+linking...
+Program Size: Code=5564 RO-data=228 RW-data=1636 ZI-data=1236  
+User command #1: fromelf --bin ".\obj\PBD.axf" --output ".\obj\PBD.bin"
+User command #2: fromelf --text -c ".\obj\PBD.axf" --output ".\obj\PBD.txt"
+".\obj\PBD.axf" - 0 Error(s), 0 Warning(s).
+Load "C:\\Users\\ize\\Desktop\\pbd\\obj\\PBD.AXF" 
+Build target 'PBD'
+compiling pbd.c...
+linking...
+Program Size: Code=5564 RO-data=228 RW-data=1636 ZI-data=1236  
+User command #1: fromelf --bin ".\obj\PBD.axf" --output ".\obj\PBD.bin"
+User command #2: fromelf --text -c ".\obj\PBD.axf" --output ".\obj\PBD.txt"
+".\obj\PBD.axf" - 0 Error(s), 0 Warning(s).
+Load "C:\\Users\\ize\\Desktop\\pbd\\obj\\PBD.AXF" 
+Build target 'PBD'
+compiling pbd.c...
+linking...
+Program Size: Code=5564 RO-data=228 RW-data=1636 ZI-data=1236  
+User command #1: fromelf --bin ".\obj\PBD.axf" --output ".\obj\PBD.bin"
+User command #2: fromelf --text -c ".\obj\PBD.axf" --output ".\obj\PBD.txt"
+".\obj\PBD.axf" - 0 Error(s), 0 Warning(s).
+Load "C:\\Users\\ize\\Desktop\\pbd\\obj\\PBD.AXF" 
+Build target 'PBD'
+compiling pbd.c...
+linking...
+Program Size: Code=5564 RO-data=228 RW-data=1636 ZI-data=1236  
+User command #1: fromelf --bin ".\obj\PBD.axf" --output ".\obj\PBD.bin"
+User command #2: fromelf --text -c ".\obj\PBD.axf" --output ".\obj\PBD.txt"
+".\obj\PBD.axf" - 0 Error(s), 0 Warning(s).
+Load "C:\\Users\\ize\\Desktop\\pbd\\obj\\PBD.AXF" 
+Build target 'PBD'
+compiling pbd.c...
+linking...
+Program Size: Code=5564 RO-data=228 RW-data=1636 ZI-data=1236  
+User command #1: fromelf --bin ".\obj\PBD.axf" --output ".\obj\PBD.bin"
+User command #2: fromelf --text -c ".\obj\PBD.axf" --output ".\obj\PBD.txt"
+".\obj\PBD.axf" - 0 Error(s), 0 Warning(s).
+Load "C:\\Users\\ize\\Desktop\\pbd\\obj\\PBD.AXF" 
+Build target 'PBD'
+compiling pbd.c...
+linking...
+Program Size: Code=5576 RO-data=228 RW-data=1636 ZI-data=1236  
+User command #1: fromelf --bin ".\obj\PBD.axf" --output ".\obj\PBD.bin"
+User command #2: fromelf --text -c ".\obj\PBD.axf" --output ".\obj\PBD.txt"
+".\obj\PBD.axf" - 0 Error(s), 0 Warning(s).
+Build target 'PBD'
+compiling pbd.c...
+linking...
+Program Size: Code=5580 RO-data=228 RW-data=1636 ZI-data=1236  
+User command #1: fromelf --bin ".\obj\PBD.axf" --output ".\obj\PBD.bin"
+User command #2: fromelf --text -c ".\obj\PBD.axf" --output ".\obj\PBD.txt"
+".\obj\PBD.axf" - 0 Error(s), 0 Warning(s).
+Load "C:\\Users\\ize\\Desktop\\pbd\\obj\\PBD.AXF" 
+Build target 'PBD'
+compiling pbd.c...
+linking...
+Program Size: Code=5564 RO-data=228 RW-data=1636 ZI-data=1236  
+User command #1: fromelf --bin ".\obj\PBD.axf" --output ".\obj\PBD.bin"
+User command #2: fromelf --text -c ".\obj\PBD.axf" --output ".\obj\PBD.txt"
+".\obj\PBD.axf" - 0 Error(s), 0 Warning(s).
+Load "C:\\Users\\ize\\Desktop\\pbd\\obj\\PBD.AXF" 
+Build target 'PBD'
+linking...
+Program Size: Code=5564 RO-data=228 RW-data=1636 ZI-data=1236  
+User command #1: fromelf --bin ".\obj\PBD.axf" --output ".\obj\PBD.bin"
+User command #2: fromelf --text -c ".\obj\PBD.axf" --output ".\obj\PBD.txt"
+".\obj\PBD.axf" - 0 Error(s), 0 Warning(s).
+Load "C:\\Users\\ize\\Desktop\\pbd\\obj\\PBD.AXF" 
+Build target 'PBD'
+compiling pbd.c...
+linking...
+Program Size: Code=5564 RO-data=228 RW-data=1636 ZI-data=1236  
+User command #1: fromelf --bin ".\obj\PBD.axf" --output ".\obj\PBD.bin"
+User command #2: fromelf --text -c ".\obj\PBD.axf" --output ".\obj\PBD.txt"
+".\obj\PBD.axf" - 0 Error(s), 0 Warning(s).
+Load "C:\\Users\\ize\\Desktop\\pbd\\obj\\PBD.AXF" 
+Build target 'PBD'
+compiling pbd.c...
+linking...
+Program Size: Code=5524 RO-data=228 RW-data=1636 ZI-data=1236  
+User command #1: fromelf --bin ".\obj\PBD.axf" --output ".\obj\PBD.bin"
+User command #2: fromelf --text -c ".\obj\PBD.axf" --output ".\obj\PBD.txt"
+".\obj\PBD.axf" - 0 Error(s), 0 Warning(s).
+Load "C:\\Users\\ize\\Desktop\\pbd\\obj\\PBD.AXF" 
+Build target 'PBD'
+compiling pbd.c...
+linking...
+Program Size: Code=5580 RO-data=228 RW-data=1636 ZI-data=1236  
+User command #1: fromelf --bin ".\obj\PBD.axf" --output ".\obj\PBD.bin"
+User command #2: fromelf --text -c ".\obj\PBD.axf" --output ".\obj\PBD.txt"
+".\obj\PBD.axf" - 0 Error(s), 0 Warning(s).
+Load "C:\\Users\\ize\\Desktop\\pbd\\obj\\PBD.AXF" 
+Build target 'PBD'
+compiling pbd.c...
+linking...
+Program Size: Code=5576 RO-data=228 RW-data=1636 ZI-data=1236  
+User command #1: fromelf --bin ".\obj\PBD.axf" --output ".\obj\PBD.bin"
+User command #2: fromelf --text -c ".\obj\PBD.axf" --output ".\obj\PBD.txt"
+".\obj\PBD.axf" - 0 Error(s), 0 Warning(s).
+Load "C:\\Users\\ize\\Desktop\\pbd\\obj\\PBD.AXF" 
+Build target 'PBD'
+compiling pbd.c...
+linking...
+Program Size: Code=5580 RO-data=228 RW-data=1636 ZI-data=1236  
+User command #1: fromelf --bin ".\obj\PBD.axf" --output ".\obj\PBD.bin"
+User command #2: fromelf --text -c ".\obj\PBD.axf" --output ".\obj\PBD.txt"
+".\obj\PBD.axf" - 0 Error(s), 0 Warning(s).
+Load "C:\\Users\\ize\\Desktop\\pbd\\obj\\PBD.AXF" 
+Build target 'PBD'
+compiling pbd.c...
+linking...
+Program Size: Code=5580 RO-data=228 RW-data=1636 ZI-data=1236  
+User command #1: fromelf --bin ".\obj\PBD.axf" --output ".\obj\PBD.bin"
+User command #2: fromelf --text -c ".\obj\PBD.axf" --output ".\obj\PBD.txt"
+".\obj\PBD.axf" - 0 Error(s), 0 Warning(s).
+Load "C:\\Users\\ize\\Desktop\\pbd\\obj\\PBD.AXF" 
+Build target 'PBD'
+compiling pbd.c...
+linking...
+Program Size: Code=5580 RO-data=228 RW-data=1636 ZI-data=1236  
+User command #1: fromelf --bin ".\obj\PBD.axf" --output ".\obj\PBD.bin"
+User command #2: fromelf --text -c ".\obj\PBD.axf" --output ".\obj\PBD.txt"
+".\obj\PBD.axf" - 0 Error(s), 0 Warning(s).
+Load "C:\\Users\\ize\\Desktop\\pbd\\obj\\PBD.AXF" 
+Build target 'PBD'
+compiling pbd.c...
+linking...
+Program Size: Code=5580 RO-data=228 RW-data=1636 ZI-data=1236  
+User command #1: fromelf --bin ".\obj\PBD.axf" --output ".\obj\PBD.bin"
+User command #2: fromelf --text -c ".\obj\PBD.axf" --output ".\obj\PBD.txt"
+".\obj\PBD.axf" - 0 Error(s), 0 Warning(s).
+Load "C:\\Users\\ize\\Desktop\\pbd\\obj\\PBD.AXF" 
+Build target 'PBD'
+compiling pbd.c...
+linking...
+Program Size: Code=5576 RO-data=228 RW-data=1636 ZI-data=1236  
+User command #1: fromelf --bin ".\obj\PBD.axf" --output ".\obj\PBD.bin"
+User command #2: fromelf --text -c ".\obj\PBD.axf" --output ".\obj\PBD.txt"
+".\obj\PBD.axf" - 0 Error(s), 0 Warning(s).
+Load "C:\\Users\\ize\\Desktop\\pbd\\obj\\PBD.AXF" 
+Build target 'PBD'
+compiling pbd.c...
+linking...
+Program Size: Code=5576 RO-data=228 RW-data=1636 ZI-data=1236  
+User command #1: fromelf --bin ".\obj\PBD.axf" --output ".\obj\PBD.bin"
+User command #2: fromelf --text -c ".\obj\PBD.axf" --output ".\obj\PBD.txt"
+".\obj\PBD.axf" - 0 Error(s), 0 Warning(s).
+Load "C:\\Users\\ize\\Desktop\\pbd\\obj\\PBD.AXF" 
+Build target 'PBD'
+compiling pbd.c...
+linking...
+Program Size: Code=5560 RO-data=228 RW-data=1636 ZI-data=1236  
+User command #1: fromelf --bin ".\obj\PBD.axf" --output ".\obj\PBD.bin"
+User command #2: fromelf --text -c ".\obj\PBD.axf" --output ".\obj\PBD.txt"
+".\obj\PBD.axf" - 0 Error(s), 0 Warning(s).
+Load "C:\\Users\\ize\\Desktop\\pbd\\obj\\PBD.AXF" 
+Build target 'PBD'
+compiling pbd.c...
+linking...
+Program Size: Code=5556 RO-data=228 RW-data=1636 ZI-data=1236  
+User command #1: fromelf --bin ".\obj\PBD.axf" --output ".\obj\PBD.bin"
+User command #2: fromelf --text -c ".\obj\PBD.axf" --output ".\obj\PBD.txt"
+".\obj\PBD.axf" - 0 Error(s), 0 Warning(s).
+Build target 'PBD'
+compiling pbd.c...
+linking...
+Program Size: Code=5548 RO-data=228 RW-data=1636 ZI-data=1236  
+User command #1: fromelf --bin ".\obj\PBD.axf" --output ".\obj\PBD.bin"
+User command #2: fromelf --text -c ".\obj\PBD.axf" --output ".\obj\PBD.txt"
+".\obj\PBD.axf" - 0 Error(s), 0 Warning(s).
+Load "C:\\Users\\ize\\Desktop\\pbd\\obj\\PBD.AXF" 
+Build target 'PBD'
+compiling pbd.c...
+linking...
+Program Size: Code=5548 RO-data=228 RW-data=1636 ZI-data=1236  
+User command #1: fromelf --bin ".\obj\PBD.axf" --output ".\obj\PBD.bin"
+User command #2: fromelf --text -c ".\obj\PBD.axf" --output ".\obj\PBD.txt"
+".\obj\PBD.axf" - 0 Error(s), 0 Warning(s).
+Load "C:\\Users\\ize\\Desktop\\pbd\\obj\\PBD.AXF" 
+Load "C:\\Users\\ize\\Desktop\\pbd\\obj\\PBD.AXF" 
+Build target 'PBD'
+compiling pbd.c...
+linking...
+Program Size: Code=5556 RO-data=228 RW-data=1636 ZI-data=1236  
+User command #1: fromelf --bin ".\obj\PBD.axf" --output ".\obj\PBD.bin"
+User command #2: fromelf --text -c ".\obj\PBD.axf" --output ".\obj\PBD.txt"
+".\obj\PBD.axf" - 0 Error(s), 0 Warning(s).
+Load "C:\\Users\\ize\\Desktop\\pbd\\obj\\PBD.AXF" 
+Build target 'PBD'
+compiling pbd.c...
+linking...
+Program Size: Code=5540 RO-data=228 RW-data=1636 ZI-data=1236  
+User command #1: fromelf --bin ".\obj\PBD.axf" --output ".\obj\PBD.bin"
+User command #2: fromelf --text -c ".\obj\PBD.axf" --output ".\obj\PBD.txt"
+".\obj\PBD.axf" - 0 Error(s), 0 Warning(s).
+Load "C:\\Users\\ize\\Desktop\\pbd\\obj\\PBD.AXF" 
+Build target 'PBD'
+compiling pbd.c...
+linking...
+Program Size: Code=5556 RO-data=228 RW-data=1636 ZI-data=1236  
+User command #1: fromelf --bin ".\obj\PBD.axf" --output ".\obj\PBD.bin"
+User command #2: fromelf --text -c ".\obj\PBD.axf" --output ".\obj\PBD.txt"
+".\obj\PBD.axf" - 0 Error(s), 0 Warning(s).
+Load "C:\\Users\\ize\\Desktop\\pbd\\obj\\PBD.AXF" 
+Build target 'PBD'
+compiling pbd.c...
+linking...
+Program Size: Code=5556 RO-data=228 RW-data=1636 ZI-data=1236  
+User command #1: fromelf --bin ".\obj\PBD.axf" --output ".\obj\PBD.bin"
+User command #2: fromelf --text -c ".\obj\PBD.axf" --output ".\obj\PBD.txt"
+".\obj\PBD.axf" - 0 Error(s), 0 Warning(s).
+Load "C:\\Users\\ize\\Desktop\\pbd\\obj\\PBD.AXF" 
+Build target 'PBD'
+compiling pbd.c...
+linking...
+Program Size: Code=5556 RO-data=228 RW-data=1636 ZI-data=1236  
+User command #1: fromelf --bin ".\obj\PBD.axf" --output ".\obj\PBD.bin"
+User command #2: fromelf --text -c ".\obj\PBD.axf" --output ".\obj\PBD.txt"
+".\obj\PBD.axf" - 0 Error(s), 0 Warning(s).
+Load "C:\\Users\\ize\\Desktop\\pbd\\obj\\PBD.AXF" 
+Build target 'PBD'
+compiling pbd.c...
+linking...
+Program Size: Code=5556 RO-data=228 RW-data=1636 ZI-data=1236  
+User command #1: fromelf --bin ".\obj\PBD.axf" --output ".\obj\PBD.bin"
+User command #2: fromelf --text -c ".\obj\PBD.axf" --output ".\obj\PBD.txt"
+".\obj\PBD.axf" - 0 Error(s), 0 Warning(s).
+Load "C:\\Users\\ize\\Desktop\\pbd\\obj\\PBD.AXF" 
+Build target 'PBD'
+compiling pbd.c...
+linking...
+Program Size: Code=5560 RO-data=228 RW-data=1636 ZI-data=1236  
+User command #1: fromelf --bin ".\obj\PBD.axf" --output ".\obj\PBD.bin"
+User command #2: fromelf --text -c ".\obj\PBD.axf" --output ".\obj\PBD.txt"
+".\obj\PBD.axf" - 0 Error(s), 0 Warning(s).
+Load "C:\\Users\\ize\\Desktop\\pbd\\obj\\PBD.AXF" 
+Build target 'PBD'
+compiling pbd.c...
+linking...
+Program Size: Code=5560 RO-data=228 RW-data=1636 ZI-data=1236  
+User command #1: fromelf --bin ".\obj\PBD.axf" --output ".\obj\PBD.bin"
+User command #2: fromelf --text -c ".\obj\PBD.axf" --output ".\obj\PBD.txt"
+".\obj\PBD.axf" - 0 Error(s), 0 Warning(s).
+Load "C:\\Users\\ize\\Desktop\\pbd\\obj\\PBD.AXF" 
+Load "C:\\Users\\ize\\Desktop\\pbd\\obj\\PBD.AXF" 
+Build target 'PBD'
+compiling pbd.c...
+pbd.c(284): warning:  #177-D: variable "temp" was declared but never referenced
+linking...
+Program Size: Code=4652 RO-data=228 RW-data=116 ZI-data=1236  
+User command #1: fromelf --bin ".\obj\PBD.axf" --output ".\obj\PBD.bin"
+User command #2: fromelf --text -c ".\obj\PBD.axf" --output ".\obj\PBD.txt"
+".\obj\PBD.axf" - 0 Error(s), 1 Warning(s).
+Load "C:\\Users\\ize\\Desktop\\pbd\\obj\\PBD.AXF" 
+Build target 'PBD'
+compiling pbd.c...
+pbd.c(284): warning:  #177-D: variable "temp" was declared but never referenced
+linking...
+Program Size: Code=4652 RO-data=228 RW-data=116 ZI-data=1236  
+User command #1: fromelf --bin ".\obj\PBD.axf" --output ".\obj\PBD.bin"
+User command #2: fromelf --text -c ".\obj\PBD.axf" --output ".\obj\PBD.txt"
+".\obj\PBD.axf" - 0 Error(s), 1 Warning(s).
+Load "C:\\Users\\ize\\Desktop\\pbd\\obj\\PBD.AXF" 
+Build target 'PBD'
+compiling pbd.c...
+pbd.c(284): warning:  #177-D: variable "temp" was declared but never referenced
+linking...
+Program Size: Code=4612 RO-data=228 RW-data=116 ZI-data=1236  
+User command #1: fromelf --bin ".\obj\PBD.axf" --output ".\obj\PBD.bin"
+User command #2: fromelf --text -c ".\obj\PBD.axf" --output ".\obj\PBD.txt"
+".\obj\PBD.axf" - 0 Error(s), 1 Warning(s).
+Load "C:\\Users\\ize\\Desktop\\pbd\\obj\\PBD.AXF" 
+Build target 'PBD'
+compiling pbd.c...
+pbd.c(284): warning:  #177-D: variable "temp" was declared but never referenced
+linking...
+Program Size: Code=4652 RO-data=228 RW-data=116 ZI-data=1236  
+User command #1: fromelf --bin ".\obj\PBD.axf" --output ".\obj\PBD.bin"
+User command #2: fromelf --text -c ".\obj\PBD.axf" --output ".\obj\PBD.txt"
+".\obj\PBD.axf" - 0 Error(s), 1 Warning(s).
+Load "C:\\Users\\ize\\Desktop\\pbd\\obj\\PBD.AXF" 
+Build target 'PBD'
+compiling pbd.c...
+pbd.c(280): warning:  #177-D: variable "temp" was declared but never referenced
+linking...
+Program Size: Code=4644 RO-data=228 RW-data=116 ZI-data=1236  
+User command #1: fromelf --bin ".\obj\PBD.axf" --output ".\obj\PBD.bin"
+User command #2: fromelf --text -c ".\obj\PBD.axf" --output ".\obj\PBD.txt"
+".\obj\PBD.axf" - 0 Error(s), 1 Warning(s).
+Load "C:\\Users\\ize\\Desktop\\pbd\\obj\\PBD.AXF" 
+Build target 'PBD'
+compiling pbd.c...
+pbd.c(286): error:  #20: identifier "next_position_flag" is undefined
+pbd.c(301): warning:  #177-D: variable "temp" was declared but never referenced
+Target not created
+Build target 'PBD'
+compiling pbd.c...
+pbd.c(297): warning:  #177-D: variable "temp" was declared but never referenced
+linking...
+Program Size: Code=4736 RO-data=228 RW-data=116 ZI-data=1236  
+User command #1: fromelf --bin ".\obj\PBD.axf" --output ".\obj\PBD.bin"
+User command #2: fromelf --text -c ".\obj\PBD.axf" --output ".\obj\PBD.txt"
+".\obj\PBD.axf" - 0 Error(s), 1 Warning(s).
+Load "C:\\Users\\ize\\Desktop\\pbd\\obj\\PBD.AXF" 
+Build target 'PBD'
+compiling pbd.c...
+pbd.c(297): warning:  #177-D: variable "temp" was declared but never referenced
+linking...
+Program Size: Code=4740 RO-data=228 RW-data=116 ZI-data=1236  
+User command #1: fromelf --bin ".\obj\PBD.axf" --output ".\obj\PBD.bin"
+User command #2: fromelf --text -c ".\obj\PBD.axf" --output ".\obj\PBD.txt"
+".\obj\PBD.axf" - 0 Error(s), 1 Warning(s).
+Load "C:\\Users\\ize\\Desktop\\pbd\\obj\\PBD.AXF" 
+Build target 'PBD'
+compiling pbd.c...
+pbd.c(297): warning:  #177-D: variable "temp" was declared but never referenced
+linking...
+Program Size: Code=4732 RO-data=228 RW-data=116 ZI-data=1236  
+User command #1: fromelf --bin ".\obj\PBD.axf" --output ".\obj\PBD.bin"
+User command #2: fromelf --text -c ".\obj\PBD.axf" --output ".\obj\PBD.txt"
+".\obj\PBD.axf" - 0 Error(s), 1 Warning(s).
+Load "C:\\Users\\ize\\Desktop\\pbd\\obj\\PBD.AXF" 
+Build target 'PBD'
+compiling pbd.c...
+pbd.c(105): warning:  #177-D: variable "i" was declared but never referenced
+pbd.c(293): warning:  #177-D: variable "temp" was declared but never referenced
+linking...
+Program Size: Code=4716 RO-data=228 RW-data=116 ZI-data=1236  
+User command #1: fromelf --bin ".\obj\PBD.axf" --output ".\obj\PBD.bin"
+User command #2: fromelf --text -c ".\obj\PBD.axf" --output ".\obj\PBD.txt"
+".\obj\PBD.axf" - 0 Error(s), 2 Warning(s).
+Load "C:\\Users\\ize\\Desktop\\pbd\\obj\\PBD.AXF" 
+Build target 'PBD'
+compiling pbd.c...
+pbd.c(297): warning:  #177-D: variable "temp" was declared but never referenced
+linking...
+Program Size: Code=4732 RO-data=228 RW-data=116 ZI-data=1236  
+User command #1: fromelf --bin ".\obj\PBD.axf" --output ".\obj\PBD.bin"
+User command #2: fromelf --text -c ".\obj\PBD.axf" --output ".\obj\PBD.txt"
+".\obj\PBD.axf" - 0 Error(s), 1 Warning(s).
+Load "C:\\Users\\ize\\Desktop\\pbd\\obj\\PBD.AXF" 
+Build target 'PBD'
+compiling pbd.c...
+pbd.c(297): warning:  #177-D: variable "temp" was declared but never referenced
+linking...
+Program Size: Code=4736 RO-data=228 RW-data=116 ZI-data=1236  
+User command #1: fromelf --bin ".\obj\PBD.axf" --output ".\obj\PBD.bin"
+User command #2: fromelf --text -c ".\obj\PBD.axf" --output ".\obj\PBD.txt"
+".\obj\PBD.axf" - 0 Error(s), 1 Warning(s).
+Load "C:\\Users\\ize\\Desktop\\pbd\\obj\\PBD.AXF" 
+Build target 'PBD'
+compiling pbd.c...
+pbd.c(297): warning:  #177-D: variable "temp" was declared but never referenced
+linking...
+Program Size: Code=4732 RO-data=228 RW-data=116 ZI-data=1236  
+User command #1: fromelf --bin ".\obj\PBD.axf" --output ".\obj\PBD.bin"
+User command #2: fromelf --text -c ".\obj\PBD.axf" --output ".\obj\PBD.txt"
+".\obj\PBD.axf" - 0 Error(s), 1 Warning(s).
+Load "C:\\Users\\ize\\Desktop\\pbd\\obj\\PBD.AXF" 
+Build target 'PBD'
+compiling pbd.c...
+pbd.c(297): warning:  #177-D: variable "temp" was declared but never referenced
+linking...
+Program Size: Code=4732 RO-data=228 RW-data=116 ZI-data=1236  
+User command #1: fromelf --bin ".\obj\PBD.axf" --output ".\obj\PBD.bin"
+User command #2: fromelf --text -c ".\obj\PBD.axf" --output ".\obj\PBD.txt"
+".\obj\PBD.axf" - 0 Error(s), 1 Warning(s).
+Load "C:\\Users\\ize\\Desktop\\pbd\\obj\\PBD.AXF" 
+Build target 'PBD'
+compiling pbd.c...
+pbd.c(298): warning:  #177-D: variable "temp" was declared but never referenced
+linking...
+Program Size: Code=4744 RO-data=228 RW-data=116 ZI-data=1236  
+User command #1: fromelf --bin ".\obj\PBD.axf" --output ".\obj\PBD.bin"
+User command #2: fromelf --text -c ".\obj\PBD.axf" --output ".\obj\PBD.txt"
+".\obj\PBD.axf" - 0 Error(s), 1 Warning(s).
+Load "C:\\Users\\ize\\Desktop\\pbd\\obj\\PBD.AXF" 
+Build target 'PBD'
+compiling pbd.c...
+pbd.c(297): warning:  #177-D: variable "temp" was declared but never referenced
+linking...
+Program Size: Code=4732 RO-data=228 RW-data=116 ZI-data=1236  
+User command #1: fromelf --bin ".\obj\PBD.axf" --output ".\obj\PBD.bin"
+User command #2: fromelf --text -c ".\obj\PBD.axf" --output ".\obj\PBD.txt"
+".\obj\PBD.axf" - 0 Error(s), 1 Warning(s).
+Load "C:\\Users\\ize\\Desktop\\pbd\\obj\\PBD.AXF" 
+Build target 'PBD'
+compiling pbd.c...
+pbd.c(297): warning:  #177-D: variable "temp" was declared but never referenced
+linking...
+Program Size: Code=4732 RO-data=228 RW-data=116 ZI-data=1236  
+User command #1: fromelf --bin ".\obj\PBD.axf" --output ".\obj\PBD.bin"
+User command #2: fromelf --text -c ".\obj\PBD.axf" --output ".\obj\PBD.txt"
+".\obj\PBD.axf" - 0 Error(s), 1 Warning(s).
+Load "C:\\Users\\ize\\Desktop\\pbd\\obj\\PBD.AXF" 
+Build target 'PBD'
+compiling pbd.c...
+pbd.c(297): warning:  #177-D: variable "temp" was declared but never referenced
+linking...
+Program Size: Code=4732 RO-data=228 RW-data=116 ZI-data=1236  
+User command #1: fromelf --bin ".\obj\PBD.axf" --output ".\obj\PBD.bin"
+User command #2: fromelf --text -c ".\obj\PBD.axf" --output ".\obj\PBD.txt"
+".\obj\PBD.axf" - 0 Error(s), 1 Warning(s).
+Load "C:\\Users\\ize\\Desktop\\pbd\\obj\\PBD.AXF" 
+Build target 'PBD'
+compiling pbd.c...
+pbd.c(297): warning:  #177-D: variable "temp" was declared but never referenced
+linking...
+Program Size: Code=4748 RO-data=228 RW-data=116 ZI-data=1236  
+User command #1: fromelf --bin ".\obj\PBD.axf" --output ".\obj\PBD.bin"
+User command #2: fromelf --text -c ".\obj\PBD.axf" --output ".\obj\PBD.txt"
+".\obj\PBD.axf" - 0 Error(s), 1 Warning(s).
+Load "C:\\Users\\ize\\Desktop\\pbd\\obj\\PBD.AXF" 
+Build target 'PBD'
+compiling pbd.c...
+pbd.c(297): warning:  #177-D: variable "temp" was declared but never referenced
+linking...
+Program Size: Code=4732 RO-data=228 RW-data=116 ZI-data=1236  
+User command #1: fromelf --bin ".\obj\PBD.axf" --output ".\obj\PBD.bin"
+User command #2: fromelf --text -c ".\obj\PBD.axf" --output ".\obj\PBD.txt"
+".\obj\PBD.axf" - 0 Error(s), 1 Warning(s).
+Load "C:\\Users\\ize\\Desktop\\pbd\\obj\\PBD.AXF" 
+Build target 'PBD'
+compiling pbd.c...
+pbd.c(298): warning:  #177-D: variable "temp" was declared but never referenced
+linking...
+Program Size: Code=4740 RO-data=228 RW-data=116 ZI-data=1236  
+User command #1: fromelf --bin ".\obj\PBD.axf" --output ".\obj\PBD.bin"
+User command #2: fromelf --text -c ".\obj\PBD.axf" --output ".\obj\PBD.txt"
+".\obj\PBD.axf" - 0 Error(s), 1 Warning(s).
+Load "C:\\Users\\ize\\Desktop\\pbd\\obj\\PBD.AXF" 
+Build target 'PBD'
+compiling pbd.c...
+pbd.c(298): warning:  #177-D: variable "temp" was declared but never referenced
+linking...
+Program Size: Code=4740 RO-data=228 RW-data=116 ZI-data=1236  
+User command #1: fromelf --bin ".\obj\PBD.axf" --output ".\obj\PBD.bin"
+User command #2: fromelf --text -c ".\obj\PBD.axf" --output ".\obj\PBD.txt"
+".\obj\PBD.axf" - 0 Error(s), 1 Warning(s).
+Load "C:\\Users\\ize\\Desktop\\pbd\\obj\\PBD.AXF" 
+Build target 'PBD'
+compiling pbd.c...
+pbd.c(297): warning:  #177-D: variable "temp" was declared but never referenced
+linking...
+Program Size: Code=4732 RO-data=228 RW-data=116 ZI-data=1236  
+User command #1: fromelf --bin ".\obj\PBD.axf" --output ".\obj\PBD.bin"
+User command #2: fromelf --text -c ".\obj\PBD.axf" --output ".\obj\PBD.txt"
+".\obj\PBD.axf" - 0 Error(s), 1 Warning(s).
+Load "C:\\Users\\ize\\Desktop\\pbd\\obj\\PBD.AXF" 
+Build target 'PBD'
+compiling Seven_Segment.c...
+linking...
+Program Size: Code=4732 RO-data=228 RW-data=116 ZI-data=1236  
+User command #1: fromelf --bin ".\obj\PBD.axf" --output ".\obj\PBD.bin"
+User command #2: fromelf --text -c ".\obj\PBD.axf" --output ".\obj\PBD.txt"
+".\obj\PBD.axf" - 0 Error(s), 0 Warning(s).
+Load "C:\\Users\\ize\\Desktop\\pbd\\obj\\PBD.AXF" 
+Build target 'PBD'
+compiling Seven_Segment.c...
+linking...
+Program Size: Code=4732 RO-data=228 RW-data=116 ZI-data=1236  
+User command #1: fromelf --bin ".\obj\PBD.axf" --output ".\obj\PBD.bin"
+User command #2: fromelf --text -c ".\obj\PBD.axf" --output ".\obj\PBD.txt"
+".\obj\PBD.axf" - 0 Error(s), 0 Warning(s).
+Load "C:\\Users\\ize\\Desktop\\pbd\\obj\\PBD.AXF" 
+Build target 'PBD'
+compiling pbd.c...
+pbd.c(297): warning:  #177-D: variable "temp" was declared but never referenced
+linking...
+Program Size: Code=4724 RO-data=228 RW-data=116 ZI-data=1236  
+User command #1: fromelf --bin ".\obj\PBD.axf" --output ".\obj\PBD.bin"
+User command #2: fromelf --text -c ".\obj\PBD.axf" --output ".\obj\PBD.txt"
+".\obj\PBD.axf" - 0 Error(s), 1 Warning(s).
+Load "C:\\Users\\ize\\Desktop\\pbd\\obj\\PBD.AXF" 
+Build target 'PBD'
+compiling pbd.c...
+pbd.c(297): warning:  #177-D: variable "temp" was declared but never referenced
+linking...
+Program Size: Code=4720 RO-data=228 RW-data=116 ZI-data=1236  
+User command #1: fromelf --bin ".\obj\PBD.axf" --output ".\obj\PBD.bin"
+User command #2: fromelf --text -c ".\obj\PBD.axf" --output ".\obj\PBD.txt"
+".\obj\PBD.axf" - 0 Error(s), 1 Warning(s).
+Load "C:\\Users\\ize\\Desktop\\pbd\\obj\\PBD.AXF" 
+Build target 'PBD'
+compiling pbd.c...
+pbd.c(297): warning:  #177-D: variable "temp" was declared but never referenced
+linking...
+Program Size: Code=4728 RO-data=228 RW-data=116 ZI-data=1236  
+User command #1: fromelf --bin ".\obj\PBD.axf" --output ".\obj\PBD.bin"
+User command #2: fromelf --text -c ".\obj\PBD.axf" --output ".\obj\PBD.txt"
+".\obj\PBD.axf" - 0 Error(s), 1 Warning(s).
+Load "C:\\Users\\ize\\Desktop\\pbd\\obj\\PBD.AXF" 
+Build target 'PBD'
+compiling pbd.c...
+pbd.c(297): warning:  #177-D: variable "temp" was declared but never referenced
+linking...
+Program Size: Code=4728 RO-data=228 RW-data=116 ZI-data=1236  
+User command #1: fromelf --bin ".\obj\PBD.axf" --output ".\obj\PBD.bin"
+User command #2: fromelf --text -c ".\obj\PBD.axf" --output ".\obj\PBD.txt"
+".\obj\PBD.axf" - 0 Error(s), 1 Warning(s).
+Load "C:\\Users\\ize\\Desktop\\pbd\\obj\\PBD.AXF" 
+Load "C:\\Users\\ize\\Desktop\\pbd\\obj\\PBD.AXF" 
+Build target 'PBD'
+compiling pbd.c...
+pbd.c(297): warning:  #177-D: variable "temp" was declared but never referenced
+linking...
+Program Size: Code=4728 RO-data=228 RW-data=116 ZI-data=1236  
+User command #1: fromelf --bin ".\obj\PBD.axf" --output ".\obj\PBD.bin"
+User command #2: fromelf --text -c ".\obj\PBD.axf" --output ".\obj\PBD.txt"
+".\obj\PBD.axf" - 0 Error(s), 1 Warning(s).
+Load "C:\\Users\\ize\\Desktop\\pbd\\obj\\PBD.AXF" 
+Build target 'PBD'
+compiling pbd.c...
+pbd.c(297): warning:  #177-D: variable "temp" was declared but never referenced
+linking...
+Program Size: Code=4728 RO-data=228 RW-data=116 ZI-data=1236  
+User command #1: fromelf --bin ".\obj\PBD.axf" --output ".\obj\PBD.bin"
+User command #2: fromelf --text -c ".\obj\PBD.axf" --output ".\obj\PBD.txt"
+".\obj\PBD.axf" - 0 Error(s), 1 Warning(s).
+Load "C:\\Users\\ize\\Desktop\\pbd\\obj\\PBD.AXF" 
+Build target 'PBD'
+compiling pbd.c...
+pbd.c(297): warning:  #177-D: variable "temp" was declared but never referenced
+linking...
+Program Size: Code=4728 RO-data=228 RW-data=116 ZI-data=1236  
+User command #1: fromelf --bin ".\obj\PBD.axf" --output ".\obj\PBD.bin"
+User command #2: fromelf --text -c ".\obj\PBD.axf" --output ".\obj\PBD.txt"
+".\obj\PBD.axf" - 0 Error(s), 1 Warning(s).
+Load "C:\\Users\\ize\\Desktop\\pbd\\obj\\PBD.AXF" 
+Build target 'PBD'
+compiling pbd.c...
+pbd.c(297): warning:  #177-D: variable "temp" was declared but never referenced
+linking...
+Program Size: Code=4728 RO-data=228 RW-data=116 ZI-data=1236  
+User command #1: fromelf --bin ".\obj\PBD.axf" --output ".\obj\PBD.bin"
+User command #2: fromelf --text -c ".\obj\PBD.axf" --output ".\obj\PBD.txt"
+".\obj\PBD.axf" - 0 Error(s), 1 Warning(s).
+Load "C:\\Users\\ize\\Desktop\\pbd\\obj\\PBD.AXF" 
+Build target 'PBD'
+compiling Seven_Segment.c...
+linking...
+Program Size: Code=4728 RO-data=228 RW-data=108 ZI-data=1236  
+User command #1: fromelf --bin ".\obj\PBD.axf" --output ".\obj\PBD.bin"
+User command #2: fromelf --text -c ".\obj\PBD.axf" --output ".\obj\PBD.txt"
+".\obj\PBD.axf" - 0 Error(s), 0 Warning(s).
+Load "C:\\Users\\ize\\Desktop\\pbd\\obj\\PBD.AXF" 
+Build target 'PBD'
+compiling pbd.c...
+pbd.c(297): warning:  #177-D: variable "temp" was declared but never referenced
+compiling Seven_Segment.c...
+linking...
+Program Size: Code=4728 RO-data=228 RW-data=116 ZI-data=1236  
+User command #1: fromelf --bin ".\obj\PBD.axf" --output ".\obj\PBD.bin"
+User command #2: fromelf --text -c ".\obj\PBD.axf" --output ".\obj\PBD.txt"
+".\obj\PBD.axf" - 0 Error(s), 1 Warning(s).
+Load "C:\\Users\\ize\\Desktop\\pbd\\obj\\PBD.AXF" 
+Build target 'PBD'
+compiling pbd.c...
+pbd.c(297): warning:  #177-D: variable "temp" was declared but never referenced
+linking...
+Program Size: Code=4728 RO-data=228 RW-data=116 ZI-data=1236  
+User command #1: fromelf --bin ".\obj\PBD.axf" --output ".\obj\PBD.bin"
+User command #2: fromelf --text -c ".\obj\PBD.axf" --output ".\obj\PBD.txt"
+".\obj\PBD.axf" - 0 Error(s), 1 Warning(s).
+Load "C:\\Users\\ize\\Desktop\\pbd\\obj\\PBD.AXF" 
+Build target 'PBD'
+compiling pbd.c...
+pbd.c(297): warning:  #177-D: variable "temp" was declared but never referenced
+linking...
+Program Size: Code=4724 RO-data=228 RW-data=116 ZI-data=1236  
+User command #1: fromelf --bin ".\obj\PBD.axf" --output ".\obj\PBD.bin"
+User command #2: fromelf --text -c ".\obj\PBD.axf" --output ".\obj\PBD.txt"
+".\obj\PBD.axf" - 0 Error(s), 1 Warning(s).
+Load "C:\\Users\\ize\\Desktop\\pbd\\obj\\PBD.AXF" 
+Build target 'PBD'
+compiling pbd.c...
+pbd.c(297): warning:  #177-D: variable "temp" was declared but never referenced
+linking...
+Program Size: Code=4728 RO-data=228 RW-data=116 ZI-data=1236  
+User command #1: fromelf --bin ".\obj\PBD.axf" --output ".\obj\PBD.bin"
+User command #2: fromelf --text -c ".\obj\PBD.axf" --output ".\obj\PBD.txt"
+".\obj\PBD.axf" - 0 Error(s), 1 Warning(s).
+Load "C:\\Users\\ize\\Desktop\\pbd\\obj\\PBD.AXF" 
+Build target 'PBD'
+compiling pbd.c...
+pbd.c(297): warning:  #177-D: variable "temp" was declared but never referenced
+linking...
+Program Size: Code=4724 RO-data=228 RW-data=116 ZI-data=1236  
+User command #1: fromelf --bin ".\obj\PBD.axf" --output ".\obj\PBD.bin"
+User command #2: fromelf --text -c ".\obj\PBD.axf" --output ".\obj\PBD.txt"
+".\obj\PBD.axf" - 0 Error(s), 1 Warning(s).
+Load "C:\\Users\\ize\\Desktop\\pbd\\obj\\PBD.AXF" 
+Build target 'PBD'
+compiling pbd.c...
+pbd.c(297): warning:  #177-D: variable "temp" was declared but never referenced
+linking...
+Program Size: Code=4724 RO-data=228 RW-data=116 ZI-data=1236  
+User command #1: fromelf --bin ".\obj\PBD.axf" --output ".\obj\PBD.bin"
+User command #2: fromelf --text -c ".\obj\PBD.axf" --output ".\obj\PBD.txt"
+".\obj\PBD.axf" - 0 Error(s), 1 Warning(s).
+Load "C:\\Users\\ize\\Desktop\\pbd\\obj\\PBD.AXF" 
+Build target 'PBD'
+compiling pbd.c...
+pbd.c(297): warning:  #177-D: variable "temp" was declared but never referenced
+linking...
+Program Size: Code=4724 RO-data=228 RW-data=116 ZI-data=1236  
+User command #1: fromelf --bin ".\obj\PBD.axf" --output ".\obj\PBD.bin"
+User command #2: fromelf --text -c ".\obj\PBD.axf" --output ".\obj\PBD.txt"
+".\obj\PBD.axf" - 0 Error(s), 1 Warning(s).
+Load "C:\\Users\\ize\\Desktop\\pbd\\obj\\PBD.AXF" 
+Build target 'PBD'
+compiling pbd.c...
+pbd.c(297): warning:  #177-D: variable "temp" was declared but never referenced
+linking...
+Program Size: Code=4732 RO-data=228 RW-data=116 ZI-data=1236  
+User command #1: fromelf --bin ".\obj\PBD.axf" --output ".\obj\PBD.bin"
+User command #2: fromelf --text -c ".\obj\PBD.axf" --output ".\obj\PBD.txt"
+".\obj\PBD.axf" - 0 Error(s), 1 Warning(s).
+Load "C:\\Users\\ize\\Desktop\\pbd\\obj\\PBD.AXF" 
+Build target 'PBD'
+linking...
+Program Size: Code=4732 RO-data=228 RW-data=116 ZI-data=1236  
+User command #1: fromelf --bin ".\obj\PBD.axf" --output ".\obj\PBD.bin"
+User command #2: fromelf --text -c ".\obj\PBD.axf" --output ".\obj\PBD.txt"
+".\obj\PBD.axf" - 0 Error(s), 0 Warning(s).
+Load "C:\\Users\\ize\\Desktop\\pbd\\obj\\PBD.AXF" 
+Build target 'PBD'
+compiling Seven_Segment.c...
+linking...
+Program Size: Code=4732 RO-data=228 RW-data=116 ZI-data=1236  
+User command #1: fromelf --bin ".\obj\PBD.axf" --output ".\obj\PBD.bin"
+User command #2: fromelf --text -c ".\obj\PBD.axf" --output ".\obj\PBD.txt"
+".\obj\PBD.axf" - 0 Error(s), 0 Warning(s).
+Load "C:\\Users\\ize\\Desktop\\pbd\\obj\\PBD.AXF" 
+Build target 'PBD'
+compiling Seven_Segment.c...
+linking...
+Program Size: Code=4732 RO-data=228 RW-data=116 ZI-data=1236  
+User command #1: fromelf --bin ".\obj\PBD.axf" --output ".\obj\PBD.bin"
+User command #2: fromelf --text -c ".\obj\PBD.axf" --output ".\obj\PBD.txt"
+".\obj\PBD.axf" - 0 Error(s), 0 Warning(s).
+Load "C:\\Users\\ize\\Desktop\\pbd\\obj\\PBD.AXF" 
+Build target 'PBD'
+compiling Seven_Segment.c...
+linking...
+Program Size: Code=4732 RO-data=228 RW-data=116 ZI-data=1236  
+User command #1: fromelf --bin ".\obj\PBD.axf" --output ".\obj\PBD.bin"
+User command #2: fromelf --text -c ".\obj\PBD.axf" --output ".\obj\PBD.txt"
+".\obj\PBD.axf" - 0 Error(s), 0 Warning(s).
+Load "C:\\Users\\ize\\Desktop\\pbd\\obj\\PBD.AXF" 
+Build target 'PBD'
+compiling Seven_Segment.c...
+linking...
+Program Size: Code=4732 RO-data=228 RW-data=116 ZI-data=1236  
+User command #1: fromelf --bin ".\obj\PBD.axf" --output ".\obj\PBD.bin"
+User command #2: fromelf --text -c ".\obj\PBD.axf" --output ".\obj\PBD.txt"
+".\obj\PBD.axf" - 0 Error(s), 0 Warning(s).
+Load "C:\\Users\\ize\\Desktop\\pbd\\obj\\PBD.AXF" 
+Build target 'PBD'
+compiling pbd.c...
+pbd.c(297): warning:  #177-D: variable "temp" was declared but never referenced
+linking...
+Program Size: Code=4692 RO-data=228 RW-data=116 ZI-data=1236  
+User command #1: fromelf --bin ".\obj\PBD.axf" --output ".\obj\PBD.bin"
+User command #2: fromelf --text -c ".\obj\PBD.axf" --output ".\obj\PBD.txt"
+".\obj\PBD.axf" - 0 Error(s), 1 Warning(s).
+Load "C:\\Users\\ize\\Desktop\\pbd\\obj\\PBD.AXF" 
+Build target 'PBD'
+compiling pbd.c...
+pbd.c(297): warning:  #177-D: variable "temp" was declared but never referenced
+linking...
+Program Size: Code=4732 RO-data=228 RW-data=116 ZI-data=1236  
+User command #1: fromelf --bin ".\obj\PBD.axf" --output ".\obj\PBD.bin"
+User command #2: fromelf --text -c ".\obj\PBD.axf" --output ".\obj\PBD.txt"
+".\obj\PBD.axf" - 0 Error(s), 1 Warning(s).
+Load "C:\\Users\\ize\\Desktop\\pbd\\obj\\PBD.AXF" 
+Build target 'PBD'
+compiling pbd.c...
+pbd.c(297): warning:  #177-D: variable "temp" was declared but never referenced
+linking...
+Program Size: Code=4736 RO-data=228 RW-data=116 ZI-data=1236  
+User command #1: fromelf --bin ".\obj\PBD.axf" --output ".\obj\PBD.bin"
+User command #2: fromelf --text -c ".\obj\PBD.axf" --output ".\obj\PBD.txt"
+".\obj\PBD.axf" - 0 Error(s), 1 Warning(s).
+Load "C:\\Users\\ize\\Desktop\\pbd\\obj\\PBD.AXF" 
+Build target 'PBD'
+compiling pbd.c...
+pbd.c(297): warning:  #177-D: variable "temp" was declared but never referenced
+linking...
+Program Size: Code=4740 RO-data=228 RW-data=116 ZI-data=1236  
+User command #1: fromelf --bin ".\obj\PBD.axf" --output ".\obj\PBD.bin"
+User command #2: fromelf --text -c ".\obj\PBD.axf" --output ".\obj\PBD.txt"
+".\obj\PBD.axf" - 0 Error(s), 1 Warning(s).
+Load "C:\\Users\\ize\\Desktop\\pbd\\obj\\PBD.AXF" 
+Build target 'PBD'
+compiling pbd.c...
+pbd.c(297): warning:  #177-D: variable "temp" was declared but never referenced
+linking...
+Program Size: Code=4732 RO-data=228 RW-data=116 ZI-data=1236  
+User command #1: fromelf --bin ".\obj\PBD.axf" --output ".\obj\PBD.bin"
+User command #2: fromelf --text -c ".\obj\PBD.axf" --output ".\obj\PBD.txt"
+".\obj\PBD.axf" - 0 Error(s), 1 Warning(s).
+Load "C:\\Users\\ize\\Desktop\\pbd\\obj\\PBD.AXF" 
+Build target 'PBD'
+compiling Seven_Segment.c...
+linking...
+Program Size: Code=4732 RO-data=228 RW-data=116 ZI-data=1236  
+User command #1: fromelf --bin ".\obj\PBD.axf" --output ".\obj\PBD.bin"
+User command #2: fromelf --text -c ".\obj\PBD.axf" --output ".\obj\PBD.txt"
+".\obj\PBD.axf" - 0 Error(s), 0 Warning(s).
+Load "C:\\Users\\ize\\Desktop\\pbd\\obj\\PBD.AXF" 
+Build target 'PBD'
+compiling Seven_Segment.c...
+linking...
+Program Size: Code=4732 RO-data=228 RW-data=116 ZI-data=1236  
+User command #1: fromelf --bin ".\obj\PBD.axf" --output ".\obj\PBD.bin"
+User command #2: fromelf --text -c ".\obj\PBD.axf" --output ".\obj\PBD.txt"
+".\obj\PBD.axf" - 0 Error(s), 0 Warning(s).
+Load "C:\\Users\\ize\\Desktop\\pbd\\obj\\PBD.AXF" 
+Build target 'PBD'
+compiling Seven_Segment.c...
+linking...
+Program Size: Code=4732 RO-data=228 RW-data=116 ZI-data=1236  
+User command #1: fromelf --bin ".\obj\PBD.axf" --output ".\obj\PBD.bin"
+User command #2: fromelf --text -c ".\obj\PBD.axf" --output ".\obj\PBD.txt"
+".\obj\PBD.axf" - 0 Error(s), 0 Warning(s).
+Load "C:\\Users\\ize\\Desktop\\pbd\\obj\\PBD.AXF" 
+Build target 'PBD'
+compiling Seven_Segment.c...
+linking...
+Program Size: Code=4732 RO-data=228 RW-data=116 ZI-data=1236  
+User command #1: fromelf --bin ".\obj\PBD.axf" --output ".\obj\PBD.bin"
+User command #2: fromelf --text -c ".\obj\PBD.axf" --output ".\obj\PBD.txt"
+".\obj\PBD.axf" - 0 Error(s), 0 Warning(s).
+Load "C:\\Users\\ize\\Desktop\\pbd\\obj\\PBD.AXF" 
+Build target 'PBD'
+compiling Seven_Segment.c...
+linking...
+Program Size: Code=4732 RO-data=228 RW-data=116 ZI-data=1236  
+User command #1: fromelf --bin ".\obj\PBD.axf" --output ".\obj\PBD.bin"
+User command #2: fromelf --text -c ".\obj\PBD.axf" --output ".\obj\PBD.txt"
+".\obj\PBD.axf" - 0 Error(s), 0 Warning(s).
+Load "C:\\Users\\ize\\Desktop\\pbd\\obj\\PBD.AXF" 
+Build target 'PBD'
+compiling pbd.c...
+pbd.c(297): warning:  #177-D: variable "temp" was declared but never referenced
+linking...
+Program Size: Code=4740 RO-data=228 RW-data=116 ZI-data=1236  
+User command #1: fromelf --bin ".\obj\PBD.axf" --output ".\obj\PBD.bin"
+User command #2: fromelf --text -c ".\obj\PBD.axf" --output ".\obj\PBD.txt"
+".\obj\PBD.axf" - 0 Error(s), 1 Warning(s).
+Load "C:\\Users\\ize\\Desktop\\pbd\\obj\\PBD.AXF" 
+Build target 'PBD'
+compiling pbd.c...
+pbd.c(297): warning:  #177-D: variable "temp" was declared but never referenced
+linking...
+Program Size: Code=4740 RO-data=228 RW-data=116 ZI-data=1236  
+User command #1: fromelf --bin ".\obj\PBD.axf" --output ".\obj\PBD.bin"
+User command #2: fromelf --text -c ".\obj\PBD.axf" --output ".\obj\PBD.txt"
+".\obj\PBD.axf" - 0 Error(s), 1 Warning(s).
+Load "C:\\Users\\ize\\Desktop\\pbd\\obj\\PBD.AXF" 
+Build target 'PBD'
+compiling pbd.c...
+pbd.c(297): warning:  #177-D: variable "temp" was declared but never referenced
+linking...
+Program Size: Code=4732 RO-data=228 RW-data=116 ZI-data=1236  
+User command #1: fromelf --bin ".\obj\PBD.axf" --output ".\obj\PBD.bin"
+User command #2: fromelf --text -c ".\obj\PBD.axf" --output ".\obj\PBD.txt"
+".\obj\PBD.axf" - 0 Error(s), 1 Warning(s).
+Load "C:\\Users\\ize\\Desktop\\pbd\\obj\\PBD.AXF" 
+Build target 'PBD'
+compiling pbd.c...
+pbd.c(298): warning:  #177-D: variable "temp" was declared but never referenced
+linking...
+Program Size: Code=4776 RO-data=228 RW-data=116 ZI-data=1236  
+User command #1: fromelf --bin ".\obj\PBD.axf" --output ".\obj\PBD.bin"
+User command #2: fromelf --text -c ".\obj\PBD.axf" --output ".\obj\PBD.txt"
+".\obj\PBD.axf" - 0 Error(s), 1 Warning(s).
+Load "C:\\Users\\ize\\Desktop\\pbd\\obj\\PBD.AXF" 
+Build target 'PBD'
+compiling pbd.c...
+pbd.c(298): warning:  #177-D: variable "temp" was declared but never referenced
+linking...
+Program Size: Code=4776 RO-data=228 RW-data=116 ZI-data=1236  
+User command #1: fromelf --bin ".\obj\PBD.axf" --output ".\obj\PBD.bin"
+User command #2: fromelf --text -c ".\obj\PBD.axf" --output ".\obj\PBD.txt"
+".\obj\PBD.axf" - 0 Error(s), 1 Warning(s).
+Load "C:\\Users\\ize\\Desktop\\pbd\\obj\\PBD.AXF" 
+Build target 'PBD'
+compiling pbd.c...
+pbd.c(298): warning:  #177-D: variable "temp" was declared but never referenced
+linking...
+Program Size: Code=4776 RO-data=228 RW-data=116 ZI-data=1236  
+User command #1: fromelf --bin ".\obj\PBD.axf" --output ".\obj\PBD.bin"
+User command #2: fromelf --text -c ".\obj\PBD.axf" --output ".\obj\PBD.txt"
+".\obj\PBD.axf" - 0 Error(s), 1 Warning(s).
+Load "C:\\Users\\ize\\Desktop\\pbd\\obj\\PBD.AXF" 
+Build target 'PBD'
+compiling pbd.c...
+pbd.c(298): warning:  #177-D: variable "temp" was declared but never referenced
+linking...
+Program Size: Code=4776 RO-data=228 RW-data=116 ZI-data=1236  
+User command #1: fromelf --bin ".\obj\PBD.axf" --output ".\obj\PBD.bin"
+User command #2: fromelf --text -c ".\obj\PBD.axf" --output ".\obj\PBD.txt"
+".\obj\PBD.axf" - 0 Error(s), 1 Warning(s).
+Load "C:\\Users\\ize\\Desktop\\pbd\\obj\\PBD.AXF" 
+Build target 'PBD'
+compiling pbd.c...
+pbd.c(298): warning:  #177-D: variable "temp" was declared but never referenced
+linking...
+Program Size: Code=4776 RO-data=228 RW-data=116 ZI-data=1236  
+User command #1: fromelf --bin ".\obj\PBD.axf" --output ".\obj\PBD.bin"
+User command #2: fromelf --text -c ".\obj\PBD.axf" --output ".\obj\PBD.txt"
+".\obj\PBD.axf" - 0 Error(s), 1 Warning(s).
+Load "C:\\Users\\ize\\Desktop\\pbd\\obj\\PBD.AXF" 
+Build target 'PBD'
+compiling pbd.c...
+pbd.c(302): warning:  #177-D: variable "temp" was declared but never referenced
+linking...
+Program Size: Code=4788 RO-data=228 RW-data=116 ZI-data=1236  
+User command #1: fromelf --bin ".\obj\PBD.axf" --output ".\obj\PBD.bin"
+User command #2: fromelf --text -c ".\obj\PBD.axf" --output ".\obj\PBD.txt"
+".\obj\PBD.axf" - 0 Error(s), 1 Warning(s).
+Load "C:\\Users\\ize\\Desktop\\pbd\\obj\\PBD.AXF" 
+Build target 'PBD'
+compiling pbd.c...
+pbd.c(301): warning:  #177-D: variable "temp" was declared but never referenced
+linking...
+Program Size: Code=4788 RO-data=228 RW-data=116 ZI-data=1236  
+User command #1: fromelf --bin ".\obj\PBD.axf" --output ".\obj\PBD.bin"
+User command #2: fromelf --text -c ".\obj\PBD.axf" --output ".\obj\PBD.txt"
+".\obj\PBD.axf" - 0 Error(s), 1 Warning(s).
+Build target 'PBD'
+compiling pbd.c...
+pbd.c(301): warning:  #177-D: variable "temp" was declared but never referenced
+linking...
+Program Size: Code=4788 RO-data=228 RW-data=116 ZI-data=1236  
+User command #1: fromelf --bin ".\obj\PBD.axf" --output ".\obj\PBD.bin"
+User command #2: fromelf --text -c ".\obj\PBD.axf" --output ".\obj\PBD.txt"
+".\obj\PBD.axf" - 0 Error(s), 1 Warning(s).
+Load "C:\\Users\\ize\\Desktop\\pbd\\obj\\PBD.AXF" 
+Build target 'PBD'
+compiling pbd.c...
+pbd.c(301): warning:  #177-D: variable "temp" was declared but never referenced
+linking...
+Program Size: Code=4800 RO-data=228 RW-data=116 ZI-data=1236  
+User command #1: fromelf --bin ".\obj\PBD.axf" --output ".\obj\PBD.bin"
+User command #2: fromelf --text -c ".\obj\PBD.axf" --output ".\obj\PBD.txt"
+".\obj\PBD.axf" - 0 Error(s), 1 Warning(s).
+Load "C:\\Users\\ize\\Desktop\\pbd\\obj\\PBD.AXF" 
+Build target 'PBD'
+compiling pbd.c...
+pbd.c(287): warning:  #174-D: expression has no effect
+pbd.c(307): warning:  #177-D: variable "temp" was declared but never referenced
+linking...
+Program Size: Code=4800 RO-data=228 RW-data=116 ZI-data=1236  
+User command #1: fromelf --bin ".\obj\PBD.axf" --output ".\obj\PBD.bin"
+User command #2: fromelf --text -c ".\obj\PBD.axf" --output ".\obj\PBD.txt"
+".\obj\PBD.axf" - 0 Error(s), 2 Warning(s).
+Load "C:\\Users\\ize\\Desktop\\pbd\\obj\\PBD.AXF" 
+Build target 'PBD'
+compiling pbd.c...
+pbd.c(291): warning:  #174-D: expression has no effect
+pbd.c(315): warning:  #177-D: variable "temp" was declared but never referenced
+linking...
+Program Size: Code=4836 RO-data=228 RW-data=116 ZI-data=1236  
+User command #1: fromelf --bin ".\obj\PBD.axf" --output ".\obj\PBD.bin"
+User command #2: fromelf --text -c ".\obj\PBD.axf" --output ".\obj\PBD.txt"
+".\obj\PBD.axf" - 0 Error(s), 2 Warning(s).
+Load "C:\\Users\\ize\\Desktop\\pbd\\obj\\PBD.AXF" 
+Build target 'PBD'
+compiling pbd.c...
+pbd.c(291): warning:  #174-D: expression has no effect
+pbd.c(315): warning:  #177-D: variable "temp" was declared but never referenced
+linking...
+Program Size: Code=4824 RO-data=228 RW-data=116 ZI-data=1236  
+User command #1: fromelf --bin ".\obj\PBD.axf" --output ".\obj\PBD.bin"
+User command #2: fromelf --text -c ".\obj\PBD.axf" --output ".\obj\PBD.txt"
+".\obj\PBD.axf" - 0 Error(s), 2 Warning(s).
+Build target 'PBD'
+compiling pbd.c...
+pbd.c(291): warning:  #174-D: expression has no effect
+pbd.c(311): warning:  #177-D: variable "temp" was declared but never referenced
+linking...
+Program Size: Code=4812 RO-data=228 RW-data=116 ZI-data=1236  
+User command #1: fromelf --bin ".\obj\PBD.axf" --output ".\obj\PBD.bin"
+User command #2: fromelf --text -c ".\obj\PBD.axf" --output ".\obj\PBD.txt"
+".\obj\PBD.axf" - 0 Error(s), 2 Warning(s).
+Load "C:\\Users\\ize\\Desktop\\pbd\\obj\\PBD.AXF" 
+Build target 'PBD'
+compiling pbd.c...
+pbd.c(116): error:  #20: identifier "curent_position" is undefined
+pbd.c(307): warning:  #177-D: variable "temp" was declared but never referenced
+Target not created
+Build target 'PBD'
+compiling pbd.c...
+pbd.c(307): warning:  #177-D: variable "temp" was declared but never referenced
+linking...
+Program Size: Code=4816 RO-data=228 RW-data=116 ZI-data=1236  
+User command #1: fromelf --bin ".\obj\PBD.axf" --output ".\obj\PBD.bin"
+User command #2: fromelf --text -c ".\obj\PBD.axf" --output ".\obj\PBD.txt"
+".\obj\PBD.axf" - 0 Error(s), 1 Warning(s).
+Load "C:\\Users\\ize\\Desktop\\pbd\\obj\\PBD.AXF" 
+Build target 'PBD'
+compiling pbd.c...
+linking...
+Program Size: Code=5724 RO-data=228 RW-data=1636 ZI-data=1236  
+User command #1: fromelf --bin ".\obj\PBD.axf" --output ".\obj\PBD.bin"
+User command #2: fromelf --text -c ".\obj\PBD.axf" --output ".\obj\PBD.txt"
+".\obj\PBD.axf" - 0 Error(s), 0 Warning(s).
+Load "C:\\Users\\ize\\Desktop\\pbd\\obj\\PBD.AXF" 
+Build target 'PBD'
+compiling pbd.c...
+linking...
+Program Size: Code=5724 RO-data=228 RW-data=1636 ZI-data=1236  
+User command #1: fromelf --bin ".\obj\PBD.axf" --output ".\obj\PBD.bin"
+User command #2: fromelf --text -c ".\obj\PBD.axf" --output ".\obj\PBD.txt"
+".\obj\PBD.axf" - 0 Error(s), 0 Warning(s).
 Load "C:\\Users\\ize\\Desktop\\pbd\\obj\\PBD.AXF" 

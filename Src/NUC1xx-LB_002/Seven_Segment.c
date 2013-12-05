@@ -19,7 +19,7 @@
 #define SEG_ND   0x0E 
 #define SEG_NE   0x13 
 #define SEG_NF   0x33  
-#define SEG_NN	 0x7F
+#define SEG_NN	 0xDF
 
 unsigned char SEG_BUF[17]={SEG_N0, SEG_N1, SEG_N2, SEG_N3, SEG_N4, SEG_N5, SEG_N6, SEG_N7, SEG_N8, SEG_N9, SEG_NA, SEG_NB, SEG_NC, SEG_ND, SEG_NE, SEG_NF, SEG_NN}; 
 

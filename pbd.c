@@ -74,51 +74,62 @@ void Timer_initial(void)
   	TIMER0->TCSR.TDR_EN=1;		// Enable TDR function
 }		   
 
-static int current_index = 3;
+static int current_position = 3;
 static uint8_t current_key[4] = {16, 16, 16, 16};
 
-void next_index()
+void next_position()
 {			 
-	if (current_index != 0)
+	if (current_position != 0 && current_position != 4)
 	{
-		--current_index;
+		--current_position;
 	}
 	else
 	{
-		current_index = 4;
+		current_position = 4;
 	}
 }
-void prev_index()
+void prev_position()
 {			 
-	if (current_index != 4)
+	if (current_position == 4)
 	{
-		++current_index;
+		current_position = 0;
+	}
+	else if (current_position != 3)
+	{
+		++current_position;
 	}
 	else
 	{
-		current_index = 0;
+		current_position = 3;
 	}
 }
 
-uint8_t get_pressed_number()
-{	 
+void scan_key()
+{
+	int i = 0;
 	uint8_t pressed_button = 0;
 	uint8_t pressed_number = 16;
 	
 	pressed_button = Scankey();	
 	if (pressed_button == 7)
 	{
-		pressed_number = 97;
+		if (current_position == 4)
+		{
+			prev_position();
+		}
+		if (current_key[current_position] == 16)
+		{
+			prev_position();
+		}
+		current_key[current_position] = 16;
 	}
 	else if (pressed_button == 8)
 	{
-		pressed_number = 98;
 	}
-	else if (pressed_number == 9)
+	else if (pressed_button == 9)
 	{
-		pressed_number = 99;
 	}
-	else if (current_index != 4)
+	else if (current_position != 4)
 	{
 		if (time < 4)
 		{
@@ -126,95 +137,113 @@ uint8_t get_pressed_number()
 			{
 				case 1 :
 				{
-					if (current_key[current_index] == 0 || current_key[current_index] == 1)
+					if (current_key[current_position] == 0 || current_key[current_position] == 1)
 					{
 						pressed_number = 1;
 					}
 					else
 					{
+						if (current_key[current_position] != 16)
+						{
+							next_position();
+						}
 						pressed_number = 0;
-						next_index();
 					}
 					break;
 				}
 				case 2 :
 				{
-					if (current_key[current_index] == 2)
+					if (current_key[current_position] == 2)
 					{
 						pressed_number = 3;
 					}
-					else if (current_key[current_index] == 3 || current_key[current_index] == 4)
+					else if (current_key[current_position] == 3 || current_key[current_position] == 4)
 					{
 						pressed_number = 4;
 					}
 					else
 					{
+						if (current_key[current_position] != 16)
+						{
+							next_position();
+						}
 						pressed_number = 2;
-						next_index();
 					}
 					break;
 				}
 				case 3 :
 				{
-					if (current_key[current_index] == 5)
+					if (current_key[current_position] == 5)
 					{
 						pressed_number = 6;
 					}
-					else if (current_key[current_index] == 6 || current_key[current_index] == 7)
+					else if (current_key[current_position] == 6 || current_key[current_position] == 7)
 					{
 						pressed_number = 7;
 					}
 					else
-					{
+					{					
+						if (current_key[current_position] != 16)
+						{
+							next_position();
+						}
 						pressed_number = 5;
-						next_index();
 					}
 					break;
 				}
 				case 4 :
 				{
-					if (current_key[current_index] == 8 || current_key[current_index] == 9)
+					if (current_key[current_position] == 8 || current_key[current_position] == 9)
 					{
 						pressed_number = 9;
 					}
 					else
-					{
+					{					
+						if (current_key[current_position] != 16)
+						{
+							next_position();
+						}
 						pressed_number = 8;
-						next_index();
 					}
 					break;
 				}
 				case 5 :
 				{
-					if (current_key[current_index] == 10)
+					if (current_key[current_position] == 10)
 					{
 						pressed_number = 11;
 					}
-					else if (current_key[current_index] == 11 || current_key[current_index] == 12)
+					else if (current_key[current_position] == 11 || current_key[current_position] == 12)
 					{
 						pressed_number = 12;
 					}
 					else
-					{
+					{					
+						if (current_key[current_position] != 16)
+						{
+							next_position();
+						}
 						pressed_number = 10;
-						next_index();
 					}
 					break;
 				}
 				case 6 :
 				{
-					if (current_key[current_index] == 13)
+					if (current_key[current_position] == 13)
 					{
 						pressed_number = 14;
 					}
-					else if (current_key[current_index] == 14 || current_key[current_index] == 15)
+					else if (current_key[current_position] == 14 || current_key[current_position] == 15)
 					{
 						pressed_number = 15;
 					}
 					else
-					{
+					{					
+						if (current_key[current_position] != 16)
+						{
+							next_position();
+						}
 						pressed_number = 13;
-						next_index();
 					}
 					break;
 				}
@@ -222,6 +251,10 @@ uint8_t get_pressed_number()
 		}	
 		else
 		{
+			if (current_key[current_position] != 16)
+			{
+				next_position();
+			}
 			switch (pressed_button)
 			{
 				case 1 :
@@ -255,25 +288,24 @@ uint8_t get_pressed_number()
 					break;
 				}
 			}
-			if (pressed_button != 0)
-			{
-				next_index();
-			}
 		}
 	}
 	if (pressed_button != 0)
 	{
+		current_key[current_position] = pressed_number;
 		time = 0;
+		for(i = 0; i < 50; i++)
+		{
+			delay_loop();
+		}
 	}
-	return pressed_number;
 }
 
 int main(void)
 {
-	uint8_t pressed_number = 0x00;
+	int i = 0;
 	char temp[10];
 
-	 int i=0,j=0;
 	/* Unlock the protected registers */	
 	UNLOCKREG();
    	/* Enable the 12MHz oscillator oscillation */
@@ -307,15 +339,13 @@ int main(void)
 	
 	while(1)
 	{
-		pressed_number = get_pressed_number();
-		if (pressed_number < 16)
-		{
-			current_key[current_index] = pressed_number;
-		}
-		for(j=0;j<4;j++)
+		scan_key();
+		sprintf(temp, "%d", current_position);
+		print_lcd(0, temp);
+		for (i = 0; i < 4; i++)
 		{
 			close_seven_segment();
-			show_seven_segment(j,current_key[j]);
+			show_seven_segment(i, current_key[i]);
 			delay_loop();
 		}
 	} 		
