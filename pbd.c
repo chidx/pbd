@@ -16,7 +16,7 @@
 void delay_loop(void)
  {
  uint32_t i;
-	for(i=0;i<10000;i++);
+	for(i=0;i<6000;i++);
  
  }
 
@@ -78,8 +78,9 @@ static int current_page = 0;
 static int current_position = 3;
 static uint8_t current_key[4] = {16, 16, 16, 16};
 static int memory_reset_flag = 0;
+static char lcd[3][16];
 
-void read_memory(char *line1, char *line2, char *line3)
+void read_memory()
 {
 	int i = 0, value = 0, start = 0, start_register;
 	uint8_t key_count = 0;
@@ -87,81 +88,82 @@ void read_memory(char *line1, char *line2, char *line3)
 	key_count = Read_24LC64(0x00000000);
 	if (current_page == 0)
 	{
-		sprintf(line1, "%s", "Kunci tersimpan:");
-		sprintf(line2, "%s", " ");
-		sprintf(line3, "%s", " ");
+		sprintf(lcd[0], "%s", "Kunci tersimpan:");
+		sprintf(lcd[1], "%s", " ");
+		sprintf(lcd[2], "%s", " ");
 		if (key_count >= 1)
 		{
 			DrvGPIO_InitFunction(E_FUNC_I2C1);
 			value = Read_24LC64(0x00000001);
-			sprintf(line2 + 1, "%x", value);
+			sprintf(lcd[1] + 1, "%x", value);
 			DrvGPIO_InitFunction(E_FUNC_I2C1);
 			value = Read_24LC64(0x00000002);
-			sprintf(line2 + 2, "%x", value);
+			sprintf(lcd[1] + 2, "%x", value);
 			DrvGPIO_InitFunction(E_FUNC_I2C1);
 			value = Read_24LC64(0x00000003);
-			sprintf(line2 + 3, "%x", value);
+			sprintf(lcd[1] + 3, "%x", value);
 			DrvGPIO_InitFunction(E_FUNC_I2C1);
 			value = Read_24LC64(0x00000004);
-			sprintf(line2 + 4, "%x", value);
+			sprintf(lcd[1] + 4, "%x", value);
 		}
 		if (key_count >= 2)
 		{
-			sprintf(line2 + 5, "%c", ' ');
+			sprintf(lcd[1] + 5, "%c", ' ');
 			DrvGPIO_InitFunction(E_FUNC_I2C1);
 			value = Read_24LC64(0x00000005);
-			sprintf(line2 + 6, "%x", value);
+			sprintf(lcd[1] + 6, "%x", value);
 			DrvGPIO_InitFunction(E_FUNC_I2C1);
 			value = Read_24LC64(0x00000006);
-			sprintf(line2 + 7, "%x", value);
+			sprintf(lcd[1] + 7, "%x", value);
 			DrvGPIO_InitFunction(E_FUNC_I2C1);
 			value = Read_24LC64(0x00000007);
-			sprintf(line2 + 8, "%x", value);
+			sprintf(lcd[1] + 8, "%x", value);
 			DrvGPIO_InitFunction(E_FUNC_I2C1);
 			value = Read_24LC64(0x00000008);
-			sprintf(line2 + 9, "%x", value);
+			sprintf(lcd[1] + 9, "%x", value);
 		}
 		if (key_count >= 3)
 		{
 			DrvGPIO_InitFunction(E_FUNC_I2C1);
 			value = Read_24LC64(0x00000009);
-			sprintf(line3 + 1, "%x", value);
+			sprintf(lcd[2] + 1, "%x", value);
 			DrvGPIO_InitFunction(E_FUNC_I2C1);
 			value = Read_24LC64(0x0000000A);
-			sprintf(line3 + 2, "%x", value);
+			sprintf(lcd[2] + 2, "%x", value);
 			DrvGPIO_InitFunction(E_FUNC_I2C1);
 			value = Read_24LC64(0x0000000B);
-			sprintf(line3 + 3, "%x", value);
+			sprintf(lcd[2] + 3, "%x", value);
 			DrvGPIO_InitFunction(E_FUNC_I2C1);
 			value = Read_24LC64(0x0000000C);
-			sprintf(line3 + 4, "%x", value);
+			sprintf(lcd[2] + 4, "%x", value);
 		}
 		if (key_count >= 4)
 		{
-			sprintf(line3 + 5, "%c", ' ');
+			sprintf(lcd[2] + 5, "%c", ' ');
 			DrvGPIO_InitFunction(E_FUNC_I2C1);
 			value = Read_24LC64(0x0000000D);
-			sprintf(line3 + 6, "%x", value);
+			sprintf(lcd[2] + 6, "%x", value);
 			DrvGPIO_InitFunction(E_FUNC_I2C1);
 			value = Read_24LC64(0x0000000E);
-			sprintf(line3 + 7, "%x", value);
+			sprintf(lcd[2] + 7, "%x", value);
 			DrvGPIO_InitFunction(E_FUNC_I2C1);
 			value = Read_24LC64(0x0000000F);
-			sprintf(line3 + 8, "%x", value);
+			sprintf(lcd[2] + 8, "%x", value);
 			DrvGPIO_InitFunction(E_FUNC_I2C1);
 			value = Read_24LC64(0x00000010);
-			sprintf(line3 + 9, "%x", value);
+			sprintf(lcd[2] + 9, "%x", value);
 		}
 	}
 	else
 	{
 		start = 4 + 6 * (current_page - 1);
-		sprintf(line1, "%s", " ");
-		sprintf(line2, "%s", " ");
-		sprintf(line3, "%s", " ");
+		sprintf(lcd[0], "%s", " ");
+		sprintf(lcd[1], "%s", " ");
+		sprintf(lcd[2], "%s", " ");
 		if (start + 1 > key_count)
 		{
 			current_page = 0;
+			read_memory();
 		}
 		else
 		{
@@ -170,94 +172,94 @@ void read_memory(char *line1, char *line2, char *line3)
 			{
 				DrvGPIO_InitFunction(E_FUNC_I2C1);
 				value = Read_24LC64(0x00000000 + start_register);
-				sprintf(line1 + 1, "%x", value);
+				sprintf(lcd[0] + 1, "%x", value);
 				DrvGPIO_InitFunction(E_FUNC_I2C1);
 				value = Read_24LC64(0x00000000 + start_register + 1);
-				sprintf(line1 + 2, "%x", value);
+				sprintf(lcd[0] + 2, "%x", value);
 				DrvGPIO_InitFunction(E_FUNC_I2C1);
 				value = Read_24LC64(0x00000000 + start_register + 2);
-				sprintf(line1 + 3, "%x", value);
+				sprintf(lcd[0] + 3, "%x", value);
 				DrvGPIO_InitFunction(E_FUNC_I2C1);
 				value = Read_24LC64(0x00000000 + start_register + 3);
-				sprintf(line1 + 4, "%x", value);
+				sprintf(lcd[0] + 4, "%x", value);
 			}
 			if (key_count - start >= 2)
 			{
-				sprintf(line1 + 5, "%c", ' ');
+				sprintf(lcd[0] + 5, "%c", ' ');
 				DrvGPIO_InitFunction(E_FUNC_I2C1);
 				value = Read_24LC64(0x00000000 + start_register + 4);
-				sprintf(line1 + 6, "%x", value);
+				sprintf(lcd[0] + 6, "%x", value);
 				DrvGPIO_InitFunction(E_FUNC_I2C1);
 				value = Read_24LC64(0x00000000 + start_register + 5);
-				sprintf(line1 + 7, "%x", value);
+				sprintf(lcd[0] + 7, "%x", value);
 				DrvGPIO_InitFunction(E_FUNC_I2C1);
 				value = Read_24LC64(0x00000000 + start_register + 6);
-				sprintf(line1 + 8, "%x", value);
+				sprintf(lcd[0] + 8, "%x", value);
 				DrvGPIO_InitFunction(E_FUNC_I2C1);
 				value = Read_24LC64(0x00000000 + start_register + 7);
-				sprintf(line1 + 9, "%x", value);
+				sprintf(lcd[0] + 9, "%x", value);
 			}
 			if (key_count - start >= 3)
 			{
 				DrvGPIO_InitFunction(E_FUNC_I2C1);
 				value = Read_24LC64(0x00000000 + start_register + 8);
-				sprintf(line2 + 1, "%x", value);
+				sprintf(lcd[1] + 1, "%x", value);
 				DrvGPIO_InitFunction(E_FUNC_I2C1);
 				value = Read_24LC64(0x00000000 + start_register + 9);
-				sprintf(line2 + 2, "%x", value);
+				sprintf(lcd[1] + 2, "%x", value);
 				DrvGPIO_InitFunction(E_FUNC_I2C1);
 				value = Read_24LC64(0x00000000 + start_register + 10);
-				sprintf(line2 + 3, "%x", value);
+				sprintf(lcd[1] + 3, "%x", value);
 				DrvGPIO_InitFunction(E_FUNC_I2C1);
 				value = Read_24LC64(0x00000000 + start_register + 11);
-				sprintf(line2 + 4, "%x", value);
+				sprintf(lcd[1] + 4, "%x", value);
 			}
 			if (key_count - start >= 4)
 			{
-				sprintf(line2 + 5, "%c", ' ');
+				sprintf(lcd[1] + 5, "%c", ' ');
 				DrvGPIO_InitFunction(E_FUNC_I2C1);
 				value = Read_24LC64(0x00000000 + start_register + 12);
-				sprintf(line2 + 6, "%x", value);
+				sprintf(lcd[1] + 6, "%x", value);
 				DrvGPIO_InitFunction(E_FUNC_I2C1);
 				value = Read_24LC64(0x00000000 + start_register + 13);
-				sprintf(line2 + 7, "%x", value);
+				sprintf(lcd[1] + 7, "%x", value);
 				DrvGPIO_InitFunction(E_FUNC_I2C1);
 				value = Read_24LC64(0x00000000 + start_register + 14);
-				sprintf(line2 + 8, "%x", value);
+				sprintf(lcd[1] + 8, "%x", value);
 				DrvGPIO_InitFunction(E_FUNC_I2C1);
 				value = Read_24LC64(0x00000000 + start_register + 15);
-				sprintf(line2 + 9, "%x", value);
+				sprintf(lcd[1] + 9, "%x", value);
 			}
 			if (key_count - start >= 5)
 			{
 				DrvGPIO_InitFunction(E_FUNC_I2C1);
 				value = Read_24LC64(0x00000000 + start_register + 16);
-				sprintf(line3 + 1, "%x", value);
+				sprintf(lcd[2] + 1, "%x", value);
 				DrvGPIO_InitFunction(E_FUNC_I2C1);
 				value = Read_24LC64(0x00000000 + start_register + 17);
-				sprintf(line3 + 2, "%x", value);
+				sprintf(lcd[2] + 2, "%x", value);
 				DrvGPIO_InitFunction(E_FUNC_I2C1);
 				value = Read_24LC64(0x00000000 + start_register + 18);
-				sprintf(line3 + 3, "%x", value);
+				sprintf(lcd[2] + 3, "%x", value);
 				DrvGPIO_InitFunction(E_FUNC_I2C1);
 				value = Read_24LC64(0x00000000 + start_register + 19);
-				sprintf(line3 + 4, "%x", value);
+				sprintf(lcd[2] + 4, "%x", value);
 			}
 			if (key_count - start >= 6)
 			{
-				sprintf(line3 + 5, "%c", ' ');
+				sprintf(lcd[2] + 5, "%c", ' ');
 				DrvGPIO_InitFunction(E_FUNC_I2C1);
 				value = Read_24LC64(0x00000000 + start_register + 20);
-				sprintf(line3 + 6, "%x", value);
+				sprintf(lcd[2] + 6, "%x", value);
 				DrvGPIO_InitFunction(E_FUNC_I2C1);
 				value = Read_24LC64(0x00000000 + start_register + 21);
-				sprintf(line3 + 7, "%x", value);
+				sprintf(lcd[2] + 7, "%x", value);
 				DrvGPIO_InitFunction(E_FUNC_I2C1);
 				value = Read_24LC64(0x00000000 + start_register + 22);
-				sprintf(line3 + 8, "%x", value);
+				sprintf(lcd[2] + 8, "%x", value);
 				DrvGPIO_InitFunction(E_FUNC_I2C1);
 				value = Read_24LC64(0x00000000 + start_register + 23);
-				sprintf(line3 + 9, "%x", value);
+				sprintf(lcd[2] + 9, "%x", value);
 			}
 		}
 	}
@@ -285,6 +287,17 @@ void reset_memory()
 {
 	DrvGPIO_InitFunction(E_FUNC_I2C1);
 	Write_24LC64(0x00000000, 0);
+}
+
+void print_to_lcd()
+{
+	int i = 0;
+	read_memory();
+	clr_all_pannal();
+	for (i = 0; i < 3; i++)
+	{
+		print_lcd(i, lcd[i]);
+	}
 }
 
 void next_position()
@@ -338,12 +351,14 @@ void process_keypress()
 		if (current_key[0] != 16 && current_key[1] != 16 && current_key[2] != 16 && current_key[3] != 16)
 		{
 			write_memory();
+			print_to_lcd();
 		}
 		else if (current_key[0] == 16 && current_key[1] == 16 && current_key[2] == 16 && current_key[3] == 16)
 		{
 			if (time < 3 && memory_reset_flag == 1)
 			{
 				reset_memory();
+				print_to_lcd();
 				memory_reset_flag = 0;
 			}
 			else
@@ -355,6 +370,7 @@ void process_keypress()
 	else if (pressed_button == 9)
 	{
 		++current_page;
+		print_to_lcd();
 	}
 	else if (current_position != 4)
 	{
@@ -524,19 +540,17 @@ void process_keypress()
 		{
 			current_key[current_position] = pressed_number;
 		}
-		time = 0;
-		for(i = 0; i < 15; i++)
+		for(i = 0; i < 100; i++)
 		{
 			delay_loop();
 		}
+		time = 0;
 	}
 }
 
 int main(void)
 {
 	int i = 0;
-	char lcd[3][16];
-	char temp[10];
 
 	/* Unlock the protected registers */	
 	UNLOCKREG();
@@ -563,22 +577,19 @@ int main(void)
 		  	  
 	Timer_initial();
 	OpenKeyPad();
+
+	print_to_lcd();
 	
 	while(1)
 	{
 		process_keypress();
-		clr_all_pannal();
-		read_memory(lcd[0], lcd[1], lcd[2]);
-		for (i = 0; i < 3; i++)
-		{
-			print_lcd(i, lcd[i]);
-		}
 		for (i = 0; i < 4; i++)
 		{
 			close_seven_segment();
 			show_seven_segment(i, current_key[i]);
 			delay_loop();
 		}
+		close_seven_segment();
 	} 		
 }
 

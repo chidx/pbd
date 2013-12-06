@@ -9,1791 +9,7 @@ Project File Date:  12/05/2013
 <h2>Output:</h2>
 Build target 'PBD'
 compiling pbd.c...
-linking...
-Program Size: Code=5000 RO-data=228 RW-data=1636 ZI-data=1236  
-User command #1: fromelf --bin ".\obj\PBD.axf" --output ".\obj\PBD.bin"
-User command #2: fromelf --text -c ".\obj\PBD.axf" --output ".\obj\PBD.txt"
-".\obj\PBD.axf" - 0 Error(s), 0 Warning(s).
-Load "C:\\Users\\ize\\Desktop\\pbd\\obj\\PBD.AXF" 
-Build target 'PBD'
-compiling pbd.c...
-linking...
-Program Size: Code=4996 RO-data=228 RW-data=1636 ZI-data=1236  
-User command #1: fromelf --bin ".\obj\PBD.axf" --output ".\obj\PBD.bin"
-User command #2: fromelf --text -c ".\obj\PBD.axf" --output ".\obj\PBD.txt"
-".\obj\PBD.axf" - 0 Error(s), 0 Warning(s).
-Load "C:\\Users\\ize\\Desktop\\pbd\\obj\\PBD.AXF" 
-Build target 'PBD'
-compiling pbd.c...
-pbd.c(88): warning:  #223-D: function "Write_24LC64" declared implicitly
-pbd.c(321): warning:  #177-D: variable "lcd" was declared but never referenced
-linking...
-Program Size: Code=7456 RO-data=244 RW-data=116 ZI-data=1236  
-User command #1: fromelf --bin ".\obj\PBD.axf" --output ".\obj\PBD.bin"
-User command #2: fromelf --text -c ".\obj\PBD.axf" --output ".\obj\PBD.txt"
-".\obj\PBD.axf" - 0 Error(s), 2 Warning(s).
-Load "C:\\Users\\ize\\Desktop\\pbd\\obj\\PBD.AXF" 
-Build target 'PBD'
-compiling pbd.c...
-pbd.c(88): warning:  #223-D: function "Write_24LC64" declared implicitly
-pbd.c(357): error:  #167: argument of type "char (*)[16]" is incompatible with parameter of type "char **"
-Target not created
-Build target 'PBD'
-compiling pbd.c...
-pbd.c(88): warning:  #223-D: function "Write_24LC64" declared implicitly
-pbd.c(357): error:  #167: argument of type "char (*)[16]" is incompatible with parameter of type "char **"
-Target not created
-Build target 'PBD'
-compiling pbd.c...
-pbd.c(88): warning:  #223-D: function "Write_24LC64" declared implicitly
-pbd.c(358): error:  #65: expected a ";"
-pbd.c(368): warning:  #12-D: parsing restarts here after previous syntax error
-Target not created
-Build target 'PBD'
-compiling pbd.c...
-pbd.c(88): warning:  #223-D: function "Write_24LC64" declared implicitly
-linking...
-Program Size: Code=5012 RO-data=228 RW-data=1636 ZI-data=1236  
-User command #1: fromelf --bin ".\obj\PBD.axf" --output ".\obj\PBD.bin"
-User command #2: fromelf --text -c ".\obj\PBD.axf" --output ".\obj\PBD.txt"
-".\obj\PBD.axf" - 0 Error(s), 1 Warning(s).
-Build target 'PBD'
-compiling pbd.c...
-pbd.c(88): warning:  #223-D: function "Write_24LC64" declared implicitly
-linking...
-Program Size: Code=5012 RO-data=228 RW-data=1636 ZI-data=1236  
-User command #1: fromelf --bin ".\obj\PBD.axf" --output ".\obj\PBD.bin"
-User command #2: fromelf --text -c ".\obj\PBD.axf" --output ".\obj\PBD.txt"
-".\obj\PBD.axf" - 0 Error(s), 1 Warning(s).
-Build target 'PBD'
-compiling pbd.c...
-pbd.c(88): warning:  #223-D: function "Write_24LC64" declared implicitly
-linking...
-Program Size: Code=5012 RO-data=228 RW-data=1636 ZI-data=1236  
-User command #1: fromelf --bin ".\obj\PBD.axf" --output ".\obj\PBD.bin"
-User command #2: fromelf --text -c ".\obj\PBD.axf" --output ".\obj\PBD.txt"
-".\obj\PBD.axf" - 0 Error(s), 1 Warning(s).
-Build target 'PBD'
-compiling pbd.c...
-pbd.c(88): warning:  #223-D: function "Write_24LC64" declared implicitly
-pbd.c(321): warning:  #177-D: variable "lcd" was declared but never referenced
-linking...
-Program Size: Code=7456 RO-data=244 RW-data=116 ZI-data=1236  
-User command #1: fromelf --bin ".\obj\PBD.axf" --output ".\obj\PBD.bin"
-User command #2: fromelf --text -c ".\obj\PBD.axf" --output ".\obj\PBD.txt"
-".\obj\PBD.axf" - 0 Error(s), 2 Warning(s).
-Load "C:\\Users\\ize\\Desktop\\pbd\\obj\\PBD.AXF" 
-Build target 'PBD'
-compiling pbd.c...
-pbd.c(84): warning:  #223-D: function "Read_24LC64" declared implicitly
-pbd.c(87): error:  #20: identifier "line1" is undefined
-pbd.c(101): warning:  #223-D: function "Write_24LC64" declared implicitly
-pbd.c(370): error:  #167: argument of type "char (*)[16]" is incompatible with parameter of type "char *"
-Target not created
-Build target 'PBD'
-compiling pbd.c...
-pbd.c(84): warning:  #223-D: function "Read_24LC64" declared implicitly
-pbd.c(87): error:  #20: identifier "line1" is undefined
-pbd.c(101): warning:  #223-D: function "Write_24LC64" declared implicitly
-pbd.c(370): error:  #167: argument of type "char (*)[16]" is incompatible with parameter of type "char **"
-Target not created
-Build target 'PBD'
-compiling pbd.c...
-pbd.c(84): warning:  #223-D: function "Read_24LC64" declared implicitly
-pbd.c(101): warning:  #223-D: function "Write_24LC64" declared implicitly
-pbd.c(370): error:  #167: argument of type "char (*)[16]" is incompatible with parameter of type "char **"
-Target not created
-Build target 'PBD'
-compiling pbd.c...
-pbd.c(84): warning:  #223-D: function "Read_24LC64" declared implicitly
-pbd.c(101): warning:  #223-D: function "Write_24LC64" declared implicitly
-pbd.c(370): error:  #167: argument of type "char (*)[16]" is incompatible with parameter of type "char **"
-Target not created
-Build target 'PBD'
-compiling pbd.c...
-pbd.c(84): warning:  #223-D: function "Read_24LC64" declared implicitly
-pbd.c(101): warning:  #223-D: function "Write_24LC64" declared implicitly
-pbd.c(370): error:  #167: argument of type "char (*)[16]" is incompatible with parameter of type "char **"
-Target not created
-Build target 'PBD'
-compiling pbd.c...
-pbd.c(84): warning:  #223-D: function "Read_24LC64" declared implicitly
-pbd.c(101): warning:  #223-D: function "Write_24LC64" declared implicitly
-pbd.c(370): error:  #167: argument of type "char (*)[16]" is incompatible with parameter of type "char **"
-Target not created
-Build target 'PBD'
-compiling pbd.c...
-pbd.c(84): warning:  #223-D: function "Read_24LC64" declared implicitly
-pbd.c(87): error:  #167: argument of type "char **" is incompatible with parameter of type "char *restrict"
-pbd.c(101): warning:  #223-D: function "Write_24LC64" declared implicitly
-pbd.c(370): error:  #167: argument of type "char (*)[16]" is incompatible with parameter of type "char ***"
-Target not created
-Build target 'PBD'
-compiling pbd.c...
-pbd.c(84): warning:  #223-D: function "Read_24LC64" declared implicitly
-pbd.c(87): error:  #142: expression must have pointer-to-object type
-pbd.c(101): warning:  #223-D: function "Write_24LC64" declared implicitly
-pbd.c(370): error:  #167: argument of type "char (*)[16]" is incompatible with parameter of type "char"
-Target not created
-Build target 'PBD'
-compiling pbd.c...
-pbd.c(79): error:  #18: expected a ")"
-pbd.c(79): error:  #141-D: unnamed prototyped parameters not allowed when body is present
-pbd.c(84): warning:  #223-D: function "Read_24LC64" declared implicitly
-pbd.c(87): error:  #20: identifier "lines" is undefined
-pbd.c(101): warning:  #223-D: function "Write_24LC64" declared implicitly
-pbd.c(370): error:  #167: argument of type "char (*)[16]" is incompatible with parameter of type "char"
-Target not created
-Build target 'PBD'
-compiling pbd.c...
-pbd.c(84): warning:  #223-D: function "Read_24LC64" declared implicitly
-pbd.c(101): warning:  #223-D: function "Write_24LC64" declared implicitly
-pbd.c(370): error:  #167: argument of type "char (*)[16]" is incompatible with parameter of type "char **"
-Target not created
-Build target 'PBD'
-compiling pbd.c...
-pbd.c(84): warning:  #223-D: function "Read_24LC64" declared implicitly
-pbd.c(81): warning:  #177-D: variable "i" was declared but never referenced
-pbd.c(82): warning:  #550-D: variable "key_count" was set but never used
-pbd.c(101): warning:  #223-D: function "Write_24LC64" declared implicitly
-linking...
-Program Size: Code=8288 RO-data=244 RW-data=1640 ZI-data=1232  
-User command #1: fromelf --bin ".\obj\PBD.axf" --output ".\obj\PBD.bin"
-User command #2: fromelf --text -c ".\obj\PBD.axf" --output ".\obj\PBD.txt"
-".\obj\PBD.axf" - 0 Error(s), 4 Warning(s).
-Load "C:\\Users\\ize\\Desktop\\pbd\\obj\\PBD.AXF" 
-Build target 'PBD'
-compiling pbd.c...
-pbd.c(84): warning:  #223-D: function "Read_24LC64" declared implicitly
-pbd.c(79): warning:  #550-D: parameter "line1" was set but never used
-pbd.c(79): warning:  #550-D: parameter "line2" was set but never used
-pbd.c(79): warning:  #550-D: parameter "line3" was set but never used
-pbd.c(81): warning:  #177-D: variable "i" was declared but never referenced
-pbd.c(82): warning:  #550-D: variable "key_count" was set but never used
-pbd.c(101): warning:  #223-D: function "Write_24LC64" declared implicitly
-linking...
-Program Size: Code=7728 RO-data=244 RW-data=1640 ZI-data=1232  
-User command #1: fromelf --bin ".\obj\PBD.axf" --output ".\obj\PBD.bin"
-User command #2: fromelf --text -c ".\obj\PBD.axf" --output ".\obj\PBD.txt"
-".\obj\PBD.axf" - 0 Error(s), 7 Warning(s).
-Load "C:\\Users\\ize\\Desktop\\pbd\\obj\\PBD.AXF" 
-Build target 'PBD'
-compiling pbd.c...
-pbd.c(84): warning:  #223-D: function "Read_24LC64" declared implicitly
-pbd.c(79): warning:  #550-D: parameter "line1" was set but never used
-pbd.c(79): warning:  #550-D: parameter "line2" was set but never used
-pbd.c(79): warning:  #550-D: parameter "line3" was set but never used
-pbd.c(81): warning:  #177-D: variable "i" was declared but never referenced
-pbd.c(82): warning:  #550-D: variable "key_count" was set but never used
-pbd.c(101): warning:  #223-D: function "Write_24LC64" declared implicitly
-linking...
-Program Size: Code=7732 RO-data=244 RW-data=1640 ZI-data=1232  
-User command #1: fromelf --bin ".\obj\PBD.axf" --output ".\obj\PBD.bin"
-User command #2: fromelf --text -c ".\obj\PBD.axf" --output ".\obj\PBD.txt"
-".\obj\PBD.axf" - 0 Error(s), 7 Warning(s).
-Load "C:\\Users\\ize\\Desktop\\pbd\\obj\\PBD.AXF" 
-Build target 'PBD'
-compiling pbd.c...
-pbd.c(84): warning:  #223-D: function "Read_24LC64" declared implicitly
-pbd.c(79): warning:  #550-D: parameter "line1" was set but never used
-pbd.c(79): warning:  #550-D: parameter "line2" was set but never used
-pbd.c(79): warning:  #550-D: parameter "line3" was set but never used
-pbd.c(81): warning:  #177-D: variable "i" was declared but never referenced
-pbd.c(82): warning:  #550-D: variable "key_count" was set but never used
-pbd.c(101): warning:  #223-D: function "Write_24LC64" declared implicitly
-pbd.c(334): warning:  #177-D: variable "lcd" was declared but never referenced
-linking...
-Program Size: Code=7456 RO-data=244 RW-data=120 ZI-data=1232  
-User command #1: fromelf --bin ".\obj\PBD.axf" --output ".\obj\PBD.bin"
-User command #2: fromelf --text -c ".\obj\PBD.axf" --output ".\obj\PBD.txt"
-".\obj\PBD.axf" - 0 Error(s), 8 Warning(s).
-Build target 'PBD'
-linking...
-Program Size: Code=7456 RO-data=244 RW-data=120 ZI-data=1232  
-User command #1: fromelf --bin ".\obj\PBD.axf" --output ".\obj\PBD.bin"
-User command #2: fromelf --text -c ".\obj\PBD.axf" --output ".\obj\PBD.txt"
-".\obj\PBD.axf" - 0 Error(s), 0 Warning(s).
-Load "C:\\Users\\ize\\Desktop\\pbd\\obj\\PBD.AXF" 
-Build target 'PBD'
-compiling pbd.c...
-pbd.c(84): warning:  #223-D: function "Read_24LC64" declared implicitly
-pbd.c(79): warning:  #550-D: parameter "line1" was set but never used
-pbd.c(79): warning:  #550-D: parameter "line2" was set but never used
-pbd.c(79): warning:  #550-D: parameter "line3" was set but never used
-pbd.c(81): warning:  #177-D: variable "i" was declared but never referenced
-pbd.c(82): warning:  #550-D: variable "key_count" was set but never used
-pbd.c(101): warning:  #223-D: function "Write_24LC64" declared implicitly
-linking...
-Program Size: Code=7732 RO-data=244 RW-data=1640 ZI-data=1232  
-User command #1: fromelf --bin ".\obj\PBD.axf" --output ".\obj\PBD.bin"
-User command #2: fromelf --text -c ".\obj\PBD.axf" --output ".\obj\PBD.txt"
-".\obj\PBD.axf" - 0 Error(s), 7 Warning(s).
-Load "C:\\Users\\ize\\Desktop\\pbd\\obj\\PBD.AXF" 
-Load "C:\\Users\\ize\\Desktop\\pbd\\obj\\PBD.AXF" 
-Build target 'PBD'
-compiling pbd.c...
-pbd.c(84): warning:  #223-D: function "Read_24LC64" declared implicitly
-pbd.c(79): warning:  #550-D: parameter "line1" was set but never used
-pbd.c(79): warning:  #550-D: parameter "line2" was set but never used
-pbd.c(79): warning:  #550-D: parameter "line3" was set but never used
-pbd.c(81): warning:  #177-D: variable "i" was declared but never referenced
-pbd.c(82): warning:  #550-D: variable "key_count" was set but never used
-pbd.c(101): warning:  #223-D: function "Write_24LC64" declared implicitly
-linking...
-Program Size: Code=8024 RO-data=244 RW-data=1640 ZI-data=1232  
-User command #1: fromelf --bin ".\obj\PBD.axf" --output ".\obj\PBD.bin"
-User command #2: fromelf --text -c ".\obj\PBD.axf" --output ".\obj\PBD.txt"
-".\obj\PBD.axf" - 0 Error(s), 7 Warning(s).
-Load "C:\\Users\\ize\\Desktop\\pbd\\obj\\PBD.AXF" 
-Build target 'PBD'
-compiling pbd.c...
-pbd.c(84): warning:  #223-D: function "Read_24LC64" declared implicitly
-pbd.c(79): warning:  #550-D: parameter "line1" was set but never used
-pbd.c(79): warning:  #550-D: parameter "line2" was set but never used
-pbd.c(79): warning:  #550-D: parameter "line3" was set but never used
-pbd.c(81): warning:  #177-D: variable "i" was declared but never referenced
-pbd.c(82): warning:  #550-D: variable "key_count" was set but never used
-pbd.c(101): warning:  #223-D: function "Write_24LC64" declared implicitly
-linking...
-Program Size: Code=7844 RO-data=244 RW-data=120 ZI-data=1232  
-User command #1: fromelf --bin ".\obj\PBD.axf" --output ".\obj\PBD.bin"
-User command #2: fromelf --text -c ".\obj\PBD.axf" --output ".\obj\PBD.txt"
-".\obj\PBD.axf" - 0 Error(s), 7 Warning(s).
-Load "C:\\Users\\ize\\Desktop\\pbd\\obj\\PBD.AXF" 
-Build target 'PBD'
-compiling pbd.c...
-pbd.c(84): warning:  #223-D: function "Read_24LC64" declared implicitly
-pbd.c(79): warning:  #550-D: parameter "line1" was set but never used
-pbd.c(79): warning:  #550-D: parameter "line2" was set but never used
-pbd.c(79): warning:  #550-D: parameter "line3" was set but never used
-pbd.c(81): warning:  #177-D: variable "i" was declared but never referenced
-pbd.c(82): warning:  #550-D: variable "key_count" was set but never used
-pbd.c(101): warning:  #223-D: function "Write_24LC64" declared implicitly
-linking...
-Program Size: Code=7848 RO-data=244 RW-data=120 ZI-data=1232  
-User command #1: fromelf --bin ".\obj\PBD.axf" --output ".\obj\PBD.bin"
-User command #2: fromelf --text -c ".\obj\PBD.axf" --output ".\obj\PBD.txt"
-".\obj\PBD.axf" - 0 Error(s), 7 Warning(s).
-Load "C:\\Users\\ize\\Desktop\\pbd\\obj\\PBD.AXF" 
-Build target 'PBD'
-compiling pbd.c...
-pbd.c(84): warning:  #223-D: function "Read_24LC64" declared implicitly
-pbd.c(79): warning:  #550-D: parameter "line1" was set but never used
-pbd.c(79): warning:  #550-D: parameter "line2" was set but never used
-pbd.c(79): warning:  #550-D: parameter "line3" was set but never used
-pbd.c(81): warning:  #177-D: variable "i" was declared but never referenced
-pbd.c(82): warning:  #550-D: variable "key_count" was set but never used
-pbd.c(101): warning:  #223-D: function "Write_24LC64" declared implicitly
-linking...
-Program Size: Code=7844 RO-data=244 RW-data=120 ZI-data=1232  
-User command #1: fromelf --bin ".\obj\PBD.axf" --output ".\obj\PBD.bin"
-User command #2: fromelf --text -c ".\obj\PBD.axf" --output ".\obj\PBD.txt"
-".\obj\PBD.axf" - 0 Error(s), 7 Warning(s).
-Load "C:\\Users\\ize\\Desktop\\pbd\\obj\\PBD.AXF" 
-Build target 'PBD'
-compiling pbd.c...
-pbd.c(84): warning:  #223-D: function "Read_24LC64" declared implicitly
-pbd.c(79): warning:  #550-D: parameter "line1" was set but never used
-pbd.c(79): warning:  #550-D: parameter "line2" was set but never used
-pbd.c(79): warning:  #550-D: parameter "line3" was set but never used
-pbd.c(81): warning:  #177-D: variable "i" was declared but never referenced
-pbd.c(82): warning:  #550-D: variable "key_count" was set but never used
-pbd.c(101): warning:  #223-D: function "Write_24LC64" declared implicitly
-linking...
-Program Size: Code=8024 RO-data=244 RW-data=1640 ZI-data=1232  
-User command #1: fromelf --bin ".\obj\PBD.axf" --output ".\obj\PBD.bin"
-User command #2: fromelf --text -c ".\obj\PBD.axf" --output ".\obj\PBD.txt"
-".\obj\PBD.axf" - 0 Error(s), 7 Warning(s).
-Load "C:\\Users\\ize\\Desktop\\pbd\\obj\\PBD.AXF" 
-Build target 'PBD'
-compiling pbd.c...
-pbd.c(84): warning:  #223-D: function "Read_24LC64" declared implicitly
-pbd.c(79): warning:  #550-D: parameter "line1" was set but never used
-pbd.c(79): warning:  #550-D: parameter "line2" was set but never used
-pbd.c(79): warning:  #550-D: parameter "line3" was set but never used
-pbd.c(81): warning:  #177-D: variable "i" was declared but never referenced
-pbd.c(82): warning:  #550-D: variable "key_count" was set but never used
-pbd.c(101): warning:  #223-D: function "Write_24LC64" declared implicitly
-linking...
-Program Size: Code=8096 RO-data=244 RW-data=1640 ZI-data=1232  
-User command #1: fromelf --bin ".\obj\PBD.axf" --output ".\obj\PBD.bin"
-User command #2: fromelf --text -c ".\obj\PBD.axf" --output ".\obj\PBD.txt"
-".\obj\PBD.axf" - 0 Error(s), 7 Warning(s).
-Load "C:\\Users\\ize\\Desktop\\pbd\\obj\\PBD.AXF" 
-Build target 'PBD'
-compiling pbd.c...
-pbd.c(84): warning:  #223-D: function "Read_24LC64" declared implicitly
-pbd.c(79): warning:  #550-D: parameter "line1" was set but never used
-pbd.c(79): warning:  #550-D: parameter "line2" was set but never used
-pbd.c(79): warning:  #550-D: parameter "line3" was set but never used
-pbd.c(81): warning:  #177-D: variable "i" was declared but never referenced
-pbd.c(82): warning:  #550-D: variable "key_count" was set but never used
-pbd.c(101): warning:  #223-D: function "Write_24LC64" declared implicitly
-linking...
-Program Size: Code=8096 RO-data=292 RW-data=1640 ZI-data=1232  
-User command #1: fromelf --bin ".\obj\PBD.axf" --output ".\obj\PBD.bin"
-User command #2: fromelf --text -c ".\obj\PBD.axf" --output ".\obj\PBD.txt"
-".\obj\PBD.axf" - 0 Error(s), 7 Warning(s).
-Load "C:\\Users\\ize\\Desktop\\pbd\\obj\\PBD.AXF" 
-Build target 'PBD'
-compiling pbd.c...
-pbd.c(84): warning:  #223-D: function "Read_24LC64" declared implicitly
-pbd.c(79): warning:  #550-D: parameter "line1" was set but never used
-pbd.c(79): warning:  #550-D: parameter "line2" was set but never used
-pbd.c(79): warning:  #550-D: parameter "line3" was set but never used
-pbd.c(81): warning:  #177-D: variable "i" was declared but never referenced
-pbd.c(82): warning:  #550-D: variable "key_count" was set but never used
-pbd.c(101): warning:  #223-D: function "Write_24LC64" declared implicitly
-linking...
-Program Size: Code=8096 RO-data=292 RW-data=1640 ZI-data=1232  
-User command #1: fromelf --bin ".\obj\PBD.axf" --output ".\obj\PBD.bin"
-User command #2: fromelf --text -c ".\obj\PBD.axf" --output ".\obj\PBD.txt"
-".\obj\PBD.axf" - 0 Error(s), 7 Warning(s).
-Load "C:\\Users\\ize\\Desktop\\pbd\\obj\\PBD.AXF" 
-Build target 'PBD'
-compiling pbd.c...
-pbd.c(84): warning:  #223-D: function "Read_24LC64" declared implicitly
-pbd.c(79): warning:  #550-D: parameter "line1" was set but never used
-pbd.c(79): warning:  #550-D: parameter "line2" was set but never used
-pbd.c(79): warning:  #550-D: parameter "line3" was set but never used
-pbd.c(81): warning:  #177-D: variable "i" was declared but never referenced
-pbd.c(82): warning:  #550-D: variable "key_count" was set but never used
-pbd.c(101): warning:  #223-D: function "Write_24LC64" declared implicitly
-linking...
-Program Size: Code=7804 RO-data=292 RW-data=1640 ZI-data=1232  
-User command #1: fromelf --bin ".\obj\PBD.axf" --output ".\obj\PBD.bin"
-User command #2: fromelf --text -c ".\obj\PBD.axf" --output ".\obj\PBD.txt"
-".\obj\PBD.axf" - 0 Error(s), 7 Warning(s).
-Load "C:\\Users\\ize\\Desktop\\pbd\\obj\\PBD.AXF" 
-Build target 'PBD'
-compiling pbd.c...
-pbd.c(84): warning:  #223-D: function "Read_24LC64" declared implicitly
-pbd.c(79): warning:  #550-D: parameter "line1" was set but never used
-pbd.c(79): warning:  #550-D: parameter "line2" was set but never used
-pbd.c(79): warning:  #550-D: parameter "line3" was set but never used
-pbd.c(81): warning:  #177-D: variable "i" was declared but never referenced
-pbd.c(82): warning:  #550-D: variable "key_count" was set but never used
-pbd.c(107): warning:  #223-D: function "Write_24LC64" declared implicitly
-linking...
-Program Size: Code=7832 RO-data=292 RW-data=1640 ZI-data=1232  
-User command #1: fromelf --bin ".\obj\PBD.axf" --output ".\obj\PBD.bin"
-User command #2: fromelf --text -c ".\obj\PBD.axf" --output ".\obj\PBD.txt"
-".\obj\PBD.axf" - 0 Error(s), 7 Warning(s).
-Load "C:\\Users\\ize\\Desktop\\pbd\\obj\\PBD.AXF" 
-Build target 'PBD'
-compiling pbd.c...
-pbd.c(84): warning:  #223-D: function "Read_24LC64" declared implicitly
-pbd.c(79): warning:  #550-D: parameter "line2" was set but never used
-pbd.c(79): warning:  #550-D: parameter "line3" was set but never used
-pbd.c(81): warning:  #177-D: variable "i" was declared but never referenced
-pbd.c(82): warning:  #550-D: variable "key_count" was set but never used
-pbd.c(107): warning:  #223-D: function "Write_24LC64" declared implicitly
-linking...
-Program Size: Code=8356 RO-data=292 RW-data=1640 ZI-data=1232  
-User command #1: fromelf --bin ".\obj\PBD.axf" --output ".\obj\PBD.bin"
-User command #2: fromelf --text -c ".\obj\PBD.axf" --output ".\obj\PBD.txt"
-".\obj\PBD.axf" - 0 Error(s), 6 Warning(s).
-Load "C:\\Users\\ize\\Desktop\\pbd\\obj\\PBD.AXF" 
-Build target 'PBD'
-compiling pbd.c...
-pbd.c(84): warning:  #223-D: function "Read_24LC64" declared implicitly
-pbd.c(81): warning:  #177-D: variable "i" was declared but never referenced
-pbd.c(82): warning:  #550-D: variable "key_count" was set but never used
-pbd.c(107): warning:  #223-D: function "Write_24LC64" declared implicitly
-linking...
-Program Size: Code=8372 RO-data=292 RW-data=1640 ZI-data=1232  
-User command #1: fromelf --bin ".\obj\PBD.axf" --output ".\obj\PBD.bin"
-User command #2: fromelf --text -c ".\obj\PBD.axf" --output ".\obj\PBD.txt"
-".\obj\PBD.axf" - 0 Error(s), 4 Warning(s).
-Load "C:\\Users\\ize\\Desktop\\pbd\\obj\\PBD.AXF" 
-Build target 'PBD'
-compiling pbd.c...
-pbd.c(84): warning:  #223-D: function "Read_24LC64" declared implicitly
-pbd.c(81): warning:  #177-D: variable "i" was declared but never referenced
-pbd.c(82): warning:  #550-D: variable "key_count" was set but never used
-pbd.c(107): warning:  #223-D: function "Write_24LC64" declared implicitly
-linking...
-Program Size: Code=8472 RO-data=292 RW-data=1640 ZI-data=1232  
-User command #1: fromelf --bin ".\obj\PBD.axf" --output ".\obj\PBD.bin"
-User command #2: fromelf --text -c ".\obj\PBD.axf" --output ".\obj\PBD.txt"
-".\obj\PBD.axf" - 0 Error(s), 4 Warning(s).
-Load "C:\\Users\\ize\\Desktop\\pbd\\obj\\PBD.AXF" 
-Build target 'PBD'
-compiling pbd.c...
-pbd.c(84): warning:  #223-D: function "Read_24LC64" declared implicitly
-pbd.c(81): warning:  #177-D: variable "i" was declared but never referenced
-pbd.c(82): warning:  #550-D: variable "key_count" was set but never used
-pbd.c(107): warning:  #223-D: function "Write_24LC64" declared implicitly
-linking...
-Program Size: Code=8368 RO-data=292 RW-data=1640 ZI-data=1232  
-User command #1: fromelf --bin ".\obj\PBD.axf" --output ".\obj\PBD.bin"
-User command #2: fromelf --text -c ".\obj\PBD.axf" --output ".\obj\PBD.txt"
-".\obj\PBD.axf" - 0 Error(s), 4 Warning(s).
-Load "C:\\Users\\ize\\Desktop\\pbd\\obj\\PBD.AXF" 
-Build target 'PBD'
-compiling pbd.c...
-pbd.c(84): warning:  #223-D: function "Read_24LC64" declared implicitly
-pbd.c(81): warning:  #177-D: variable "i" was declared but never referenced
-pbd.c(82): warning:  #550-D: variable "key_count" was set but never used
-pbd.c(107): warning:  #223-D: function "Write_24LC64" declared implicitly
-linking...
-Program Size: Code=8372 RO-data=292 RW-data=1640 ZI-data=1232  
-User command #1: fromelf --bin ".\obj\PBD.axf" --output ".\obj\PBD.bin"
-User command #2: fromelf --text -c ".\obj\PBD.axf" --output ".\obj\PBD.txt"
-".\obj\PBD.axf" - 0 Error(s), 4 Warning(s).
-Load "C:\\Users\\ize\\Desktop\\pbd\\obj\\PBD.AXF" 
-Build target 'PBD'
-compiling pbd.c...
-pbd.c(84): warning:  #223-D: function "Read_24LC64" declared implicitly
-pbd.c(81): warning:  #177-D: variable "i" was declared but never referenced
-pbd.c(82): warning:  #550-D: variable "key_count" was set but never used
-pbd.c(107): warning:  #223-D: function "Write_24LC64" declared implicitly
-linking...
-Program Size: Code=8372 RO-data=292 RW-data=1640 ZI-data=1232  
-User command #1: fromelf --bin ".\obj\PBD.axf" --output ".\obj\PBD.bin"
-User command #2: fromelf --text -c ".\obj\PBD.axf" --output ".\obj\PBD.txt"
-".\obj\PBD.axf" - 0 Error(s), 4 Warning(s).
-Load "C:\\Users\\ize\\Desktop\\pbd\\obj\\PBD.AXF" 
-Build target 'PBD'
-compiling pbd.c...
-pbd.c(84): warning:  #223-D: function "Read_24LC64" declared implicitly
-pbd.c(79): warning:  #550-D: parameter "line3" was set but never used
-pbd.c(81): warning:  #177-D: variable "i" was declared but never referenced
-pbd.c(119): warning:  #223-D: function "Write_24LC64" declared implicitly
-linking...
-Program Size: Code=8728 RO-data=332 RW-data=1640 ZI-data=1232  
-User command #1: fromelf --bin ".\obj\PBD.axf" --output ".\obj\PBD.bin"
-User command #2: fromelf --text -c ".\obj\PBD.axf" --output ".\obj\PBD.txt"
-".\obj\PBD.axf" - 0 Error(s), 4 Warning(s).
-Build target 'PBD'
-compiling pbd.c...
-pbd.c(84): warning:  #223-D: function "Read_24LC64" declared implicitly
-pbd.c(79): warning:  #550-D: parameter "line3" was set but never used
-pbd.c(81): warning:  #177-D: variable "i" was declared but never referenced
-pbd.c(117): warning:  #223-D: function "Read_24LC64" declared implicitly
-pbd.c(118): error:  #20: identifier "line2" is undefined
-pbd.c(122): warning:  #223-D: function "Write_24LC64" declared implicitly
-pbd.c(115): warning:  #550-D: variable "key_count" was set but never used
-pbd.c(129): warning:  #223-D: function "Write_24LC64" declared implicitly
-Target not created
-Build target 'PBD'
-compiling pbd.c...
-pbd.c(84): warning:  #223-D: function "Read_24LC64" declared implicitly
-pbd.c(79): warning:  #550-D: parameter "line3" was set but never used
-pbd.c(81): warning:  #177-D: variable "i" was declared but never referenced
-pbd.c(117): warning:  #223-D: function "Read_24LC64" declared implicitly
-pbd.c(121): warning:  #223-D: function "Write_24LC64" declared implicitly
-pbd.c(115): warning:  #550-D: variable "key_count" was set but never used
-pbd.c(115): warning:  #177-D: variable "value" was declared but never referenced
-pbd.c(128): warning:  #223-D: function "Write_24LC64" declared implicitly
-linking...
-Program Size: Code=8728 RO-data=332 RW-data=1640 ZI-data=1232  
-User command #1: fromelf --bin ".\obj\PBD.axf" --output ".\obj\PBD.bin"
-User command #2: fromelf --text -c ".\obj\PBD.axf" --output ".\obj\PBD.txt"
-".\obj\PBD.axf" - 0 Error(s), 8 Warning(s).
-Build target 'PBD'
-compiling pbd.c...
-pbd.c(84): warning:  #223-D: function "Read_24LC64" declared implicitly
-pbd.c(79): warning:  #550-D: parameter "line3" was set but never used
-pbd.c(81): warning:  #177-D: variable "i" was declared but never referenced
-pbd.c(117): warning:  #223-D: function "Read_24LC64" declared implicitly
-pbd.c(122): warning:  #223-D: function "Write_24LC64" declared implicitly
-pbd.c(122): error:  #20: identifier "current_key" is undefined
-pbd.c(126): warning:  #223-D: function "Write_24LC64" declared implicitly
-pbd.c(115): warning:  #177-D: variable "value" was declared but never referenced
-pbd.c(133): warning:  #223-D: function "Write_24LC64" declared implicitly
-Target not created
-Build target 'PBD'
-compiling pbd.c...
-pbd.c(86): warning:  #223-D: function "Read_24LC64" declared implicitly
-pbd.c(81): warning:  #550-D: parameter "line3" was set but never used
-pbd.c(83): warning:  #177-D: variable "i" was declared but never referenced
-pbd.c(119): warning:  #223-D: function "Read_24LC64" declared implicitly
-pbd.c(124): warning:  #223-D: function "Write_24LC64" declared implicitly
-pbd.c(128): warning:  #223-D: function "Write_24LC64" declared implicitly
-pbd.c(117): warning:  #177-D: variable "value" was declared but never referenced
-pbd.c(135): warning:  #223-D: function "Write_24LC64" declared implicitly
-linking...
-Program Size: Code=9112 RO-data=332 RW-data=1640 ZI-data=1232  
-User command #1: fromelf --bin ".\obj\PBD.axf" --output ".\obj\PBD.bin"
-User command #2: fromelf --text -c ".\obj\PBD.axf" --output ".\obj\PBD.txt"
-".\obj\PBD.axf" - 0 Error(s), 8 Warning(s).
-Load "C:\\Users\\ize\\Desktop\\pbd\\obj\\PBD.AXF" 
-Build target 'PBD'
-compiling pbd.c...
-pbd.c(86): warning:  #223-D: function "Read_24LC64" declared implicitly
-pbd.c(81): warning:  #550-D: parameter "line3" was set but never used
-pbd.c(83): warning:  #177-D: variable "i" was declared but never referenced
-pbd.c(119): warning:  #223-D: function "Read_24LC64" declared implicitly
-pbd.c(124): warning:  #223-D: function "Write_24LC64" declared implicitly
-pbd.c(128): warning:  #223-D: function "Write_24LC64" declared implicitly
-pbd.c(117): warning:  #177-D: variable "value" was declared but never referenced
-pbd.c(135): warning:  #223-D: function "Write_24LC64" declared implicitly
-linking...
-Program Size: Code=8940 RO-data=332 RW-data=120 ZI-data=1232  
-User command #1: fromelf --bin ".\obj\PBD.axf" --output ".\obj\PBD.bin"
-User command #2: fromelf --text -c ".\obj\PBD.axf" --output ".\obj\PBD.txt"
-".\obj\PBD.axf" - 0 Error(s), 8 Warning(s).
-Load "C:\\Users\\ize\\Desktop\\pbd\\obj\\PBD.AXF" 
-Build target 'PBD'
-compiling pbd.c...
-pbd.c(86): warning:  #223-D: function "Read_24LC64" declared implicitly
-pbd.c(81): warning:  #550-D: parameter "line3" was set but never used
-pbd.c(83): warning:  #177-D: variable "i" was declared but never referenced
-pbd.c(119): warning:  #223-D: function "Read_24LC64" declared implicitly
-pbd.c(124): warning:  #223-D: function "Write_24LC64" declared implicitly
-pbd.c(128): warning:  #223-D: function "Write_24LC64" declared implicitly
-pbd.c(117): warning:  #177-D: variable "value" was declared but never referenced
-pbd.c(135): warning:  #223-D: function "Write_24LC64" declared implicitly
-linking...
-Program Size: Code=9112 RO-data=332 RW-data=1640 ZI-data=1232  
-User command #1: fromelf --bin ".\obj\PBD.axf" --output ".\obj\PBD.bin"
-User command #2: fromelf --text -c ".\obj\PBD.axf" --output ".\obj\PBD.txt"
-".\obj\PBD.axf" - 0 Error(s), 8 Warning(s).
-Load "C:\\Users\\ize\\Desktop\\pbd\\obj\\PBD.AXF" 
-Build target 'PBD'
-compiling pbd.c...
-pbd.c(86): warning:  #223-D: function "Read_24LC64" declared implicitly
-pbd.c(83): warning:  #177-D: variable "i" was declared but never referenced
-pbd.c(121): warning:  #223-D: function "Read_24LC64" declared implicitly
-pbd.c(126): warning:  #223-D: function "Write_24LC64" declared implicitly
-pbd.c(130): warning:  #223-D: function "Write_24LC64" declared implicitly
-pbd.c(119): warning:  #177-D: variable "value" was declared but never referenced
-pbd.c(137): warning:  #223-D: function "Write_24LC64" declared implicitly
-linking...
-Program Size: Code=9132 RO-data=332 RW-data=1640 ZI-data=1232  
-User command #1: fromelf --bin ".\obj\PBD.axf" --output ".\obj\PBD.bin"
-User command #2: fromelf --text -c ".\obj\PBD.axf" --output ".\obj\PBD.txt"
-".\obj\PBD.axf" - 0 Error(s), 7 Warning(s).
-Load "C:\\Users\\ize\\Desktop\\pbd\\obj\\PBD.AXF" 
-Load "C:\\Users\\ize\\Desktop\\pbd\\obj\\PBD.AXF" 
-Build target 'PBD'
-compiling pbd.c...
-pbd.c(86): warning:  #223-D: function "Read_24LC64" declared implicitly
-pbd.c(83): warning:  #177-D: variable "i" was declared but never referenced
-pbd.c(118): warning:  #223-D: function "Read_24LC64" declared implicitly
-pbd.c(123): warning:  #223-D: function "Write_24LC64" declared implicitly
-pbd.c(127): warning:  #223-D: function "Write_24LC64" declared implicitly
-pbd.c(116): warning:  #177-D: variable "value" was declared but never referenced
-pbd.c(134): warning:  #223-D: function "Write_24LC64" declared implicitly
-linking...
-Program Size: Code=9148 RO-data=332 RW-data=1640 ZI-data=1232  
-User command #1: fromelf --bin ".\obj\PBD.axf" --output ".\obj\PBD.bin"
-User command #2: fromelf --text -c ".\obj\PBD.axf" --output ".\obj\PBD.txt"
-".\obj\PBD.axf" - 0 Error(s), 7 Warning(s).
-Load "C:\\Users\\ize\\Desktop\\pbd\\obj\\PBD.AXF" 
-Build target 'PBD'
-compiling pbd.c...
-pbd.c(102): warning:  #940-D: missing return statement at end of non-void function "convert_to_hex"
-pbd.c(109): warning:  #223-D: function "Read_24LC64" declared implicitly
-pbd.c(106): warning:  #177-D: variable "i" was declared but never referenced
-pbd.c(156): warning:  #223-D: function "Read_24LC64" declared implicitly
-pbd.c(161): warning:  #223-D: function "Write_24LC64" declared implicitly
-pbd.c(165): warning:  #223-D: function "Write_24LC64" declared implicitly
-pbd.c(154): warning:  #177-D: variable "value" was declared but never referenced
-pbd.c(172): warning:  #223-D: function "Write_24LC64" declared implicitly
-linking...
-Program Size: Code=9224 RO-data=332 RW-data=1640 ZI-data=1232  
-User command #1: fromelf --bin ".\obj\PBD.axf" --output ".\obj\PBD.bin"
-User command #2: fromelf --text -c ".\obj\PBD.axf" --output ".\obj\PBD.txt"
-".\obj\PBD.axf" - 0 Error(s), 8 Warning(s).
-Build target 'PBD'
-compiling pbd.c...
-pbd.c(110): warning:  #223-D: function "Read_24LC64" declared implicitly
-pbd.c(107): warning:  #177-D: variable "i" was declared but never referenced
-pbd.c(157): warning:  #223-D: function "Read_24LC64" declared implicitly
-pbd.c(162): warning:  #223-D: function "Write_24LC64" declared implicitly
-pbd.c(166): warning:  #223-D: function "Write_24LC64" declared implicitly
-pbd.c(155): warning:  #177-D: variable "value" was declared but never referenced
-pbd.c(173): warning:  #223-D: function "Write_24LC64" declared implicitly
-linking...
-Program Size: Code=9224 RO-data=332 RW-data=1640 ZI-data=1232  
-User command #1: fromelf --bin ".\obj\PBD.axf" --output ".\obj\PBD.bin"
-User command #2: fromelf --text -c ".\obj\PBD.axf" --output ".\obj\PBD.txt"
-".\obj\PBD.axf" - 0 Error(s), 7 Warning(s).
-Build target 'PBD'
-compiling pbd.c...
-pbd.c(111): warning:  #223-D: function "Read_24LC64" declared implicitly
-pbd.c(108): warning:  #177-D: variable "i" was declared but never referenced
-pbd.c(159): warning:  #223-D: function "Read_24LC64" declared implicitly
-pbd.c(164): warning:  #223-D: function "Write_24LC64" declared implicitly
-pbd.c(168): warning:  #223-D: function "Write_24LC64" declared implicitly
-pbd.c(157): warning:  #177-D: variable "value" was declared but never referenced
-pbd.c(175): warning:  #223-D: function "Write_24LC64" declared implicitly
-linking...
-Program Size: Code=9260 RO-data=292 RW-data=1644 ZI-data=1236  
-User command #1: fromelf --bin ".\obj\PBD.axf" --output ".\obj\PBD.bin"
-User command #2: fromelf --text -c ".\obj\PBD.axf" --output ".\obj\PBD.txt"
-".\obj\PBD.axf" - 0 Error(s), 7 Warning(s).
-Load "C:\\Users\\ize\\Desktop\\pbd\\obj\\PBD.AXF" 
-Build target 'PBD'
-compiling pbd.c...
-pbd.c(111): warning:  #223-D: function "Read_24LC64" declared implicitly
-pbd.c(108): warning:  #177-D: variable "i" was declared but never referenced
-pbd.c(159): warning:  #223-D: function "Read_24LC64" declared implicitly
-pbd.c(164): warning:  #223-D: function "Write_24LC64" declared implicitly
-pbd.c(168): warning:  #223-D: function "Write_24LC64" declared implicitly
-pbd.c(157): warning:  #177-D: variable "value" was declared but never referenced
-pbd.c(175): warning:  #223-D: function "Write_24LC64" declared implicitly
-linking...
-Program Size: Code=9264 RO-data=292 RW-data=1644 ZI-data=1236  
-User command #1: fromelf --bin ".\obj\PBD.axf" --output ".\obj\PBD.bin"
-User command #2: fromelf --text -c ".\obj\PBD.axf" --output ".\obj\PBD.txt"
-".\obj\PBD.axf" - 0 Error(s), 7 Warning(s).
-Load "C:\\Users\\ize\\Desktop\\pbd\\obj\\PBD.AXF" 
-Build target 'PBD'
-compiling pbd.c...
-pbd.c(111): warning:  #223-D: function "Read_24LC64" declared implicitly
-pbd.c(108): warning:  #177-D: variable "i" was declared but never referenced
-pbd.c(159): warning:  #223-D: function "Read_24LC64" declared implicitly
-pbd.c(164): warning:  #223-D: function "Write_24LC64" declared implicitly
-pbd.c(168): warning:  #223-D: function "Write_24LC64" declared implicitly
-pbd.c(157): warning:  #177-D: variable "value" was declared but never referenced
-pbd.c(175): warning:  #223-D: function "Write_24LC64" declared implicitly
-linking...
-Program Size: Code=9260 RO-data=292 RW-data=1644 ZI-data=1236  
-User command #1: fromelf --bin ".\obj\PBD.axf" --output ".\obj\PBD.bin"
-User command #2: fromelf --text -c ".\obj\PBD.axf" --output ".\obj\PBD.txt"
-".\obj\PBD.axf" - 0 Error(s), 7 Warning(s).
-Load "C:\\Users\\ize\\Desktop\\pbd\\obj\\PBD.AXF" 
-Build target 'PBD'
-compiling pbd.c...
-pbd.c(111): warning:  #223-D: function "Read_24LC64" declared implicitly
-pbd.c(108): warning:  #177-D: variable "i" was declared but never referenced
-pbd.c(159): warning:  #223-D: function "Read_24LC64" declared implicitly
-pbd.c(164): warning:  #223-D: function "Write_24LC64" declared implicitly
-pbd.c(168): warning:  #223-D: function "Write_24LC64" declared implicitly
-pbd.c(157): warning:  #177-D: variable "value" was declared but never referenced
-pbd.c(175): warning:  #223-D: function "Write_24LC64" declared implicitly
-linking...
-Program Size: Code=9264 RO-data=292 RW-data=1644 ZI-data=1236  
-User command #1: fromelf --bin ".\obj\PBD.axf" --output ".\obj\PBD.bin"
-User command #2: fromelf --text -c ".\obj\PBD.axf" --output ".\obj\PBD.txt"
-".\obj\PBD.axf" - 0 Error(s), 7 Warning(s).
-Load "C:\\Users\\ize\\Desktop\\pbd\\obj\\PBD.AXF" 
-Build target 'PBD'
-compiling pbd.c...
-pbd.c(111): warning:  #223-D: function "Read_24LC64" declared implicitly
-pbd.c(108): warning:  #177-D: variable "i" was declared but never referenced
-pbd.c(159): warning:  #223-D: function "Read_24LC64" declared implicitly
-pbd.c(164): warning:  #223-D: function "Write_24LC64" declared implicitly
-pbd.c(168): warning:  #223-D: function "Write_24LC64" declared implicitly
-pbd.c(157): warning:  #177-D: variable "value" was declared but never referenced
-pbd.c(175): warning:  #223-D: function "Write_24LC64" declared implicitly
-linking...
-Program Size: Code=9260 RO-data=292 RW-data=1644 ZI-data=1236  
-User command #1: fromelf --bin ".\obj\PBD.axf" --output ".\obj\PBD.bin"
-User command #2: fromelf --text -c ".\obj\PBD.axf" --output ".\obj\PBD.txt"
-".\obj\PBD.axf" - 0 Error(s), 7 Warning(s).
-Load "C:\\Users\\ize\\Desktop\\pbd\\obj\\PBD.AXF" 
-Build target 'PBD'
-compiling pbd.c...
-pbd.c(111): warning:  #223-D: function "Read_24LC64" declared implicitly
-pbd.c(108): warning:  #177-D: variable "i" was declared but never referenced
-pbd.c(159): warning:  #223-D: function "Read_24LC64" declared implicitly
-pbd.c(164): warning:  #223-D: function "Write_24LC64" declared implicitly
-pbd.c(168): warning:  #223-D: function "Write_24LC64" declared implicitly
-pbd.c(157): warning:  #177-D: variable "value" was declared but never referenced
-pbd.c(175): warning:  #223-D: function "Write_24LC64" declared implicitly
-linking...
-Program Size: Code=9256 RO-data=292 RW-data=1644 ZI-data=1236  
-User command #1: fromelf --bin ".\obj\PBD.axf" --output ".\obj\PBD.bin"
-User command #2: fromelf --text -c ".\obj\PBD.axf" --output ".\obj\PBD.txt"
-".\obj\PBD.axf" - 0 Error(s), 7 Warning(s).
-Build target 'PBD'
-compiling pbd.c...
-pbd.c(111): warning:  #223-D: function "Read_24LC64" declared implicitly
-pbd.c(108): warning:  #177-D: variable "i" was declared but never referenced
-pbd.c(159): warning:  #223-D: function "Read_24LC64" declared implicitly
-pbd.c(164): warning:  #223-D: function "Write_24LC64" declared implicitly
-pbd.c(168): warning:  #223-D: function "Write_24LC64" declared implicitly
-pbd.c(157): warning:  #177-D: variable "value" was declared but never referenced
-pbd.c(175): warning:  #223-D: function "Write_24LC64" declared implicitly
-pbd.c(465): warning:  #223-D: function "Read_24LC64" declared implicitly
-pbd.c(466): error:  #20: identifier "line" is undefined
-pbd.c(427): warning:  #177-D: variable "lcd" was declared but never referenced
-Target not created
-Build target 'PBD'
-compiling pbd.c...
-pbd.c(111): warning:  #223-D: function "Read_24LC64" declared implicitly
-pbd.c(108): warning:  #177-D: variable "i" was declared but never referenced
-pbd.c(159): warning:  #223-D: function "Read_24LC64" declared implicitly
-pbd.c(164): warning:  #223-D: function "Write_24LC64" declared implicitly
-pbd.c(168): warning:  #223-D: function "Write_24LC64" declared implicitly
-pbd.c(157): warning:  #177-D: variable "value" was declared but never referenced
-pbd.c(175): warning:  #223-D: function "Write_24LC64" declared implicitly
-pbd.c(465): warning:  #223-D: function "Read_24LC64" declared implicitly
-linking...
-Program Size: Code=8956 RO-data=292 RW-data=1644 ZI-data=1236  
-User command #1: fromelf --bin ".\obj\PBD.axf" --output ".\obj\PBD.bin"
-User command #2: fromelf --text -c ".\obj\PBD.axf" --output ".\obj\PBD.txt"
-".\obj\PBD.axf" - 0 Error(s), 8 Warning(s).
-Load "C:\\Users\\ize\\Desktop\\pbd\\obj\\PBD.AXF" 
-Build target 'PBD'
-compiling pbd.c...
-pbd.c(111): warning:  #223-D: function "Read_24LC64" declared implicitly
-pbd.c(108): warning:  #177-D: variable "i" was declared but never referenced
-pbd.c(159): warning:  #223-D: function "Read_24LC64" declared implicitly
-pbd.c(164): warning:  #223-D: function "Write_24LC64" declared implicitly
-pbd.c(168): warning:  #223-D: function "Write_24LC64" declared implicitly
-pbd.c(157): warning:  #177-D: variable "value" was declared but never referenced
-pbd.c(175): warning:  #223-D: function "Write_24LC64" declared implicitly
-pbd.c(465): warning:  #223-D: function "Read_24LC64" declared implicitly
-linking...
-Program Size: Code=8960 RO-data=292 RW-data=1644 ZI-data=1236  
-User command #1: fromelf --bin ".\obj\PBD.axf" --output ".\obj\PBD.bin"
-User command #2: fromelf --text -c ".\obj\PBD.axf" --output ".\obj\PBD.txt"
-".\obj\PBD.axf" - 0 Error(s), 8 Warning(s).
-Load "C:\\Users\\ize\\Desktop\\pbd\\obj\\PBD.AXF" 
-Build target 'PBD'
-compiling pbd.c...
-pbd.c(111): warning:  #223-D: function "Read_24LC64" declared implicitly
-pbd.c(108): warning:  #177-D: variable "i" was declared but never referenced
-pbd.c(159): warning:  #223-D: function "Read_24LC64" declared implicitly
-pbd.c(164): warning:  #223-D: function "Write_24LC64" declared implicitly
-pbd.c(168): warning:  #223-D: function "Write_24LC64" declared implicitly
-pbd.c(157): warning:  #177-D: variable "value" was declared but never referenced
-pbd.c(175): warning:  #223-D: function "Write_24LC64" declared implicitly
-pbd.c(465): warning:  #223-D: function "Read_24LC64" declared implicitly
-linking...
-Program Size: Code=8956 RO-data=292 RW-data=1644 ZI-data=1236  
-User command #1: fromelf --bin ".\obj\PBD.axf" --output ".\obj\PBD.bin"
-User command #2: fromelf --text -c ".\obj\PBD.axf" --output ".\obj\PBD.txt"
-".\obj\PBD.axf" - 0 Error(s), 8 Warning(s).
-Build target 'PBD'
-compiling pbd.c...
-pbd.c(111): warning:  #223-D: function "Read_24LC64" declared implicitly
-pbd.c(108): warning:  #177-D: variable "i" was declared but never referenced
-pbd.c(159): warning:  #223-D: function "Read_24LC64" declared implicitly
-pbd.c(164): warning:  #223-D: function "Write_24LC64" declared implicitly
-pbd.c(168): warning:  #223-D: function "Write_24LC64" declared implicitly
-pbd.c(157): warning:  #177-D: variable "value" was declared but never referenced
-pbd.c(175): warning:  #223-D: function "Write_24LC64" declared implicitly
-pbd.c(465): warning:  #223-D: function "Read_24LC64" declared implicitly
-linking...
-Program Size: Code=8956 RO-data=292 RW-data=1644 ZI-data=1236  
-User command #1: fromelf --bin ".\obj\PBD.axf" --output ".\obj\PBD.bin"
-User command #2: fromelf --text -c ".\obj\PBD.axf" --output ".\obj\PBD.txt"
-".\obj\PBD.axf" - 0 Error(s), 8 Warning(s).
-Load "C:\\Users\\ize\\Desktop\\pbd\\obj\\PBD.AXF" 
-Build target 'PBD'
-compiling pbd.c...
-pbd.c(111): warning:  #223-D: function "Read_24LC64" declared implicitly
-pbd.c(108): warning:  #177-D: variable "i" was declared but never referenced
-pbd.c(159): warning:  #223-D: function "Read_24LC64" declared implicitly
-pbd.c(164): warning:  #223-D: function "Write_24LC64" declared implicitly
-pbd.c(168): warning:  #223-D: function "Write_24LC64" declared implicitly
-pbd.c(157): warning:  #177-D: variable "value" was declared but never referenced
-pbd.c(175): warning:  #223-D: function "Write_24LC64" declared implicitly
-linking...
-Program Size: Code=9256 RO-data=292 RW-data=1644 ZI-data=1236  
-User command #1: fromelf --bin ".\obj\PBD.axf" --output ".\obj\PBD.bin"
-User command #2: fromelf --text -c ".\obj\PBD.axf" --output ".\obj\PBD.txt"
-".\obj\PBD.axf" - 0 Error(s), 7 Warning(s).
-Load "C:\\Users\\ize\\Desktop\\pbd\\obj\\PBD.AXF" 
-Build target 'PBD'
-compiling pbd.c...
-pbd.c(111): warning:  #223-D: function "Read_24LC64" declared implicitly
-pbd.c(108): warning:  #177-D: variable "i" was declared but never referenced
-pbd.c(159): warning:  #223-D: function "Read_24LC64" declared implicitly
-pbd.c(164): warning:  #223-D: function "Write_24LC64" declared implicitly
-pbd.c(168): warning:  #223-D: function "Write_24LC64" declared implicitly
-pbd.c(157): warning:  #177-D: variable "value" was declared but never referenced
-pbd.c(175): warning:  #223-D: function "Write_24LC64" declared implicitly
-linking...
-Program Size: Code=9256 RO-data=292 RW-data=1644 ZI-data=1236  
-User command #1: fromelf --bin ".\obj\PBD.axf" --output ".\obj\PBD.bin"
-User command #2: fromelf --text -c ".\obj\PBD.axf" --output ".\obj\PBD.txt"
-".\obj\PBD.axf" - 0 Error(s), 7 Warning(s).
-Load "C:\\Users\\ize\\Desktop\\pbd\\obj\\PBD.AXF" 
-Build target 'PBD'
-compiling pbd.c...
-pbd.c(111): warning:  #223-D: function "Read_24LC64" declared implicitly
-pbd.c(108): warning:  #177-D: variable "i" was declared but never referenced
-pbd.c(159): warning:  #223-D: function "Read_24LC64" declared implicitly
-pbd.c(164): warning:  #223-D: function "Write_24LC64" declared implicitly
-pbd.c(168): warning:  #223-D: function "Write_24LC64" declared implicitly
-pbd.c(157): warning:  #177-D: variable "value" was declared but never referenced
-pbd.c(175): warning:  #223-D: function "Write_24LC64" declared implicitly
-linking...
-Program Size: Code=9256 RO-data=292 RW-data=1644 ZI-data=1236  
-User command #1: fromelf --bin ".\obj\PBD.axf" --output ".\obj\PBD.bin"
-User command #2: fromelf --text -c ".\obj\PBD.axf" --output ".\obj\PBD.txt"
-".\obj\PBD.axf" - 0 Error(s), 7 Warning(s).
-Load "C:\\Users\\ize\\Desktop\\pbd\\obj\\PBD.AXF" 
-Build target 'PBD'
-compiling pbd.c...
-pbd.c(111): warning:  #223-D: function "Read_24LC64" declared implicitly
-pbd.c(108): warning:  #177-D: variable "i" was declared but never referenced
-pbd.c(190): warning:  #223-D: function "Read_24LC64" declared implicitly
-pbd.c(195): warning:  #223-D: function "Write_24LC64" declared implicitly
-pbd.c(199): warning:  #223-D: function "Write_24LC64" declared implicitly
-pbd.c(188): warning:  #177-D: variable "value" was declared but never referenced
-pbd.c(206): warning:  #223-D: function "Write_24LC64" declared implicitly
-linking...
-Program Size: Code=9536 RO-data=292 RW-data=1644 ZI-data=1236  
-User command #1: fromelf --bin ".\obj\PBD.axf" --output ".\obj\PBD.bin"
-User command #2: fromelf --text -c ".\obj\PBD.axf" --output ".\obj\PBD.txt"
-".\obj\PBD.axf" - 0 Error(s), 7 Warning(s).
-Load "C:\\Users\\ize\\Desktop\\pbd\\obj\\PBD.AXF" 
-Build target 'PBD'
-compiling pbd.c...
-pbd.c(111): warning:  #223-D: function "Read_24LC64" declared implicitly
-pbd.c(108): warning:  #177-D: variable "i" was declared but never referenced
-pbd.c(190): warning:  #223-D: function "Read_24LC64" declared implicitly
-pbd.c(195): warning:  #223-D: function "Write_24LC64" declared implicitly
-pbd.c(199): warning:  #223-D: function "Write_24LC64" declared implicitly
-pbd.c(188): warning:  #177-D: variable "value" was declared but never referenced
-pbd.c(206): warning:  #223-D: function "Write_24LC64" declared implicitly
-linking...
-Program Size: Code=9536 RO-data=292 RW-data=1644 ZI-data=1236  
-User command #1: fromelf --bin ".\obj\PBD.axf" --output ".\obj\PBD.bin"
-User command #2: fromelf --text -c ".\obj\PBD.axf" --output ".\obj\PBD.txt"
-".\obj\PBD.axf" - 0 Error(s), 7 Warning(s).
-Load "C:\\Users\\ize\\Desktop\\pbd\\obj\\PBD.AXF" 
-Build target 'PBD'
-compiling pbd.c...
-pbd.c(111): warning:  #223-D: function "Read_24LC64" declared implicitly
-pbd.c(108): warning:  #177-D: variable "i" was declared but never referenced
-pbd.c(190): warning:  #223-D: function "Read_24LC64" declared implicitly
-pbd.c(195): warning:  #223-D: function "Write_24LC64" declared implicitly
-pbd.c(199): warning:  #223-D: function "Write_24LC64" declared implicitly
-pbd.c(188): warning:  #177-D: variable "value" was declared but never referenced
-pbd.c(206): warning:  #223-D: function "Write_24LC64" declared implicitly
-linking...
-Program Size: Code=9540 RO-data=292 RW-data=1644 ZI-data=1236  
-User command #1: fromelf --bin ".\obj\PBD.axf" --output ".\obj\PBD.bin"
-User command #2: fromelf --text -c ".\obj\PBD.axf" --output ".\obj\PBD.txt"
-".\obj\PBD.axf" - 0 Error(s), 7 Warning(s).
-Build target 'PBD'
-compiling pbd.c...
-pbd.c(111): warning:  #223-D: function "Read_24LC64" declared implicitly
-pbd.c(108): warning:  #177-D: variable "i" was declared but never referenced
-pbd.c(190): warning:  #223-D: function "Read_24LC64" declared implicitly
-pbd.c(195): warning:  #223-D: function "Write_24LC64" declared implicitly
-pbd.c(199): warning:  #223-D: function "Write_24LC64" declared implicitly
-pbd.c(188): warning:  #177-D: variable "value" was declared but never referenced
-pbd.c(206): warning:  #223-D: function "Write_24LC64" declared implicitly
-pbd.c(255): error:  #29: expected an expression
-Target not created
-Build target 'PBD'
-compiling pbd.c...
-pbd.c(111): warning:  #223-D: function "Read_24LC64" declared implicitly
-pbd.c(108): warning:  #177-D: variable "i" was declared but never referenced
-pbd.c(190): warning:  #223-D: function "Read_24LC64" declared implicitly
-pbd.c(195): warning:  #223-D: function "Write_24LC64" declared implicitly
-pbd.c(199): warning:  #223-D: function "Write_24LC64" declared implicitly
-pbd.c(188): warning:  #177-D: variable "value" was declared but never referenced
-pbd.c(206): warning:  #223-D: function "Write_24LC64" declared implicitly
-linking...
-Program Size: Code=9528 RO-data=292 RW-data=1644 ZI-data=1236  
-User command #1: fromelf --bin ".\obj\PBD.axf" --output ".\obj\PBD.bin"
-User command #2: fromelf --text -c ".\obj\PBD.axf" --output ".\obj\PBD.txt"
-".\obj\PBD.axf" - 0 Error(s), 7 Warning(s).
-Load "C:\\Users\\ize\\Desktop\\pbd\\obj\\PBD.AXF" 
-Build target 'PBD'
-compiling pbd.c...
-pbd.c(111): warning:  #223-D: function "Read_24LC64" declared implicitly
-pbd.c(108): warning:  #177-D: variable "i" was declared but never referenced
-pbd.c(190): warning:  #223-D: function "Read_24LC64" declared implicitly
-pbd.c(195): warning:  #223-D: function "Write_24LC64" declared implicitly
-pbd.c(199): warning:  #223-D: function "Write_24LC64" declared implicitly
-pbd.c(188): warning:  #177-D: variable "value" was declared but never referenced
-pbd.c(206): warning:  #223-D: function "Write_24LC64" declared implicitly
-pbd.c(457): warning:  #177-D: variable "temp" was declared but never referenced
-linking...
-Program Size: Code=9456 RO-data=244 RW-data=1644 ZI-data=1236  
-User command #1: fromelf --bin ".\obj\PBD.axf" --output ".\obj\PBD.bin"
-User command #2: fromelf --text -c ".\obj\PBD.axf" --output ".\obj\PBD.txt"
-".\obj\PBD.axf" - 0 Error(s), 8 Warning(s).
-Load "C:\\Users\\ize\\Desktop\\pbd\\obj\\PBD.AXF" 
-Build target 'PBD'
-linking...
-Program Size: Code=9456 RO-data=244 RW-data=1644 ZI-data=1236  
-User command #1: fromelf --bin ".\obj\PBD.axf" --output ".\obj\PBD.bin"
-User command #2: fromelf --text -c ".\obj\PBD.axf" --output ".\obj\PBD.txt"
-".\obj\PBD.axf" - 0 Error(s), 0 Warning(s).
-Build target 'PBD'
-compiling pbd.c...
-pbd.c(111): warning:  #223-D: function "Read_24LC64" declared implicitly
-pbd.c(108): warning:  #177-D: variable "i" was declared but never referenced
-pbd.c(190): warning:  #223-D: function "Read_24LC64" declared implicitly
-pbd.c(195): warning:  #223-D: function "Write_24LC64" declared implicitly
-pbd.c(199): warning:  #223-D: function "Write_24LC64" declared implicitly
-pbd.c(188): warning:  #177-D: variable "value" was declared but never referenced
-pbd.c(206): warning:  #223-D: function "Write_24LC64" declared implicitly
-linking...
-Program Size: Code=9816 RO-data=244 RW-data=1644 ZI-data=1236  
-User command #1: fromelf --bin ".\obj\PBD.axf" --output ".\obj\PBD.bin"
-User command #2: fromelf --text -c ".\obj\PBD.axf" --output ".\obj\PBD.txt"
-".\obj\PBD.axf" - 0 Error(s), 7 Warning(s).
-Load "C:\\Users\\ize\\Desktop\\pbd\\obj\\PBD.AXF" 
-Build target 'PBD'
-compiling pbd.c...
-pbd.c(111): warning:  #223-D: function "Read_24LC64" declared implicitly
-pbd.c(108): warning:  #177-D: variable "i" was declared but never referenced
-pbd.c(190): warning:  #223-D: function "Read_24LC64" declared implicitly
-pbd.c(195): warning:  #223-D: function "Write_24LC64" declared implicitly
-pbd.c(199): warning:  #223-D: function "Write_24LC64" declared implicitly
-pbd.c(188): warning:  #177-D: variable "value" was declared but never referenced
-pbd.c(206): warning:  #223-D: function "Write_24LC64" declared implicitly
-linking...
-Program Size: Code=9808 RO-data=244 RW-data=1644 ZI-data=1236  
-User command #1: fromelf --bin ".\obj\PBD.axf" --output ".\obj\PBD.bin"
-User command #2: fromelf --text -c ".\obj\PBD.axf" --output ".\obj\PBD.txt"
-".\obj\PBD.axf" - 0 Error(s), 7 Warning(s).
-Load "C:\\Users\\ize\\Desktop\\pbd\\obj\\PBD.AXF" 
-Build target 'PBD'
-compiling pbd.c...
-pbd.c(111): warning:  #223-D: function "Read_24LC64" declared implicitly
-pbd.c(108): warning:  #177-D: variable "i" was declared but never referenced
-pbd.c(190): warning:  #223-D: function "Read_24LC64" declared implicitly
-pbd.c(195): warning:  #223-D: function "Write_24LC64" declared implicitly
-pbd.c(199): warning:  #223-D: function "Write_24LC64" declared implicitly
-pbd.c(188): warning:  #177-D: variable "value" was declared but never referenced
-pbd.c(206): warning:  #223-D: function "Write_24LC64" declared implicitly
-linking...
-Program Size: Code=9808 RO-data=244 RW-data=1644 ZI-data=1236  
-User command #1: fromelf --bin ".\obj\PBD.axf" --output ".\obj\PBD.bin"
-User command #2: fromelf --text -c ".\obj\PBD.axf" --output ".\obj\PBD.txt"
-".\obj\PBD.axf" - 0 Error(s), 7 Warning(s).
-Load "C:\\Users\\ize\\Desktop\\pbd\\obj\\PBD.AXF" 
-Build target 'PBD'
-compiling pbd.c...
-pbd.c(111): warning:  #223-D: function "Read_24LC64" declared implicitly
-pbd.c(108): warning:  #177-D: variable "i" was declared but never referenced
-pbd.c(190): warning:  #223-D: function "Read_24LC64" declared implicitly
-pbd.c(195): warning:  #223-D: function "Write_24LC64" declared implicitly
-pbd.c(199): warning:  #223-D: function "Write_24LC64" declared implicitly
-pbd.c(188): warning:  #177-D: variable "value" was declared but never referenced
-pbd.c(206): warning:  #223-D: function "Write_24LC64" declared implicitly
-pbd.c(457): warning:  #177-D: variable "temp" was declared but never referenced
-linking...
-Program Size: Code=9452 RO-data=244 RW-data=1644 ZI-data=1236  
-User command #1: fromelf --bin ".\obj\PBD.axf" --output ".\obj\PBD.bin"
-User command #2: fromelf --text -c ".\obj\PBD.axf" --output ".\obj\PBD.txt"
-".\obj\PBD.axf" - 0 Error(s), 8 Warning(s).
-Load "C:\\Users\\ize\\Desktop\\pbd\\obj\\PBD.AXF" 
-Build target 'PBD'
-compiling pbd.c...
-pbd.c(111): warning:  #223-D: function "Read_24LC64" declared implicitly
-pbd.c(108): warning:  #177-D: variable "i" was declared but never referenced
-pbd.c(190): warning:  #223-D: function "Read_24LC64" declared implicitly
-pbd.c(195): warning:  #223-D: function "Write_24LC64" declared implicitly
-pbd.c(199): warning:  #223-D: function "Write_24LC64" declared implicitly
-pbd.c(188): warning:  #177-D: variable "value" was declared but never referenced
-pbd.c(206): warning:  #223-D: function "Write_24LC64" declared implicitly
-pbd.c(457): warning:  #177-D: variable "temp" was declared but never referenced
-linking...
-Program Size: Code=9452 RO-data=244 RW-data=1644 ZI-data=1236  
-User command #1: fromelf --bin ".\obj\PBD.axf" --output ".\obj\PBD.bin"
-User command #2: fromelf --text -c ".\obj\PBD.axf" --output ".\obj\PBD.txt"
-".\obj\PBD.axf" - 0 Error(s), 8 Warning(s).
-Load "C:\\Users\\ize\\Desktop\\pbd\\obj\\PBD.AXF" 
-Build target 'PBD'
-compiling pbd.c...
-pbd.c(111): warning:  #223-D: function "Read_24LC64" declared implicitly
-pbd.c(108): warning:  #177-D: variable "i" was declared but never referenced
-pbd.c(190): warning:  #223-D: function "Read_24LC64" declared implicitly
-pbd.c(195): warning:  #223-D: function "Write_24LC64" declared implicitly
-pbd.c(199): warning:  #223-D: function "Write_24LC64" declared implicitly
-pbd.c(188): warning:  #177-D: variable "value" was declared but never referenced
-pbd.c(206): warning:  #223-D: function "Write_24LC64" declared implicitly
-pbd.c(457): warning:  #177-D: variable "temp" was declared but never referenced
-linking...
-Program Size: Code=9456 RO-data=244 RW-data=1644 ZI-data=1236  
-User command #1: fromelf --bin ".\obj\PBD.axf" --output ".\obj\PBD.bin"
-User command #2: fromelf --text -c ".\obj\PBD.axf" --output ".\obj\PBD.txt"
-".\obj\PBD.axf" - 0 Error(s), 8 Warning(s).
-Load "C:\\Users\\ize\\Desktop\\pbd\\obj\\PBD.AXF" 
-Build target 'PBD'
-compiling pbd.c...
-pbd.c(111): warning:  #223-D: function "Read_24LC64" declared implicitly
-pbd.c(108): warning:  #177-D: variable "i" was declared but never referenced
-pbd.c(190): warning:  #223-D: function "Read_24LC64" declared implicitly
-pbd.c(195): warning:  #223-D: function "Write_24LC64" declared implicitly
-pbd.c(199): warning:  #223-D: function "Write_24LC64" declared implicitly
-pbd.c(188): warning:  #177-D: variable "value" was declared but never referenced
-pbd.c(206): warning:  #223-D: function "Write_24LC64" declared implicitly
-pbd.c(457): warning:  #177-D: variable "temp" was declared but never referenced
-linking...
-Program Size: Code=9456 RO-data=244 RW-data=1644 ZI-data=1236  
-User command #1: fromelf --bin ".\obj\PBD.axf" --output ".\obj\PBD.bin"
-User command #2: fromelf --text -c ".\obj\PBD.axf" --output ".\obj\PBD.txt"
-".\obj\PBD.axf" - 0 Error(s), 8 Warning(s).
-Load "C:\\Users\\ize\\Desktop\\pbd\\obj\\PBD.AXF" 
-Build target 'PBD'
-compiling pbd.c...
-pbd.c(111): warning:  #223-D: function "Read_24LC64" declared implicitly
-pbd.c(108): warning:  #177-D: variable "i" was declared but never referenced
-pbd.c(190): warning:  #223-D: function "Read_24LC64" declared implicitly
-pbd.c(195): warning:  #223-D: function "Write_24LC64" declared implicitly
-pbd.c(199): warning:  #223-D: function "Write_24LC64" declared implicitly
-pbd.c(188): warning:  #177-D: variable "value" was declared but never referenced
-pbd.c(206): warning:  #223-D: function "Write_24LC64" declared implicitly
-pbd.c(457): warning:  #177-D: variable "temp" was declared but never referenced
-linking...
-Program Size: Code=9456 RO-data=244 RW-data=1644 ZI-data=1236  
-User command #1: fromelf --bin ".\obj\PBD.axf" --output ".\obj\PBD.bin"
-User command #2: fromelf --text -c ".\obj\PBD.axf" --output ".\obj\PBD.txt"
-".\obj\PBD.axf" - 0 Error(s), 8 Warning(s).
-Load "C:\\Users\\ize\\Desktop\\pbd\\obj\\PBD.AXF" 
-Build target 'PBD'
-compiling pbd.c...
-pbd.c(111): warning:  #223-D: function "Read_24LC64" declared implicitly
-pbd.c(108): warning:  #177-D: variable "i" was declared but never referenced
-pbd.c(190): warning:  #223-D: function "Read_24LC64" declared implicitly
-pbd.c(195): warning:  #223-D: function "Write_24LC64" declared implicitly
-pbd.c(199): warning:  #223-D: function "Write_24LC64" declared implicitly
-pbd.c(188): warning:  #177-D: variable "value" was declared but never referenced
-pbd.c(206): warning:  #223-D: function "Write_24LC64" declared implicitly
-pbd.c(457): warning:  #177-D: variable "temp" was declared but never referenced
-linking...
-Program Size: Code=9456 RO-data=244 RW-data=1644 ZI-data=1236  
-User command #1: fromelf --bin ".\obj\PBD.axf" --output ".\obj\PBD.bin"
-User command #2: fromelf --text -c ".\obj\PBD.axf" --output ".\obj\PBD.txt"
-".\obj\PBD.axf" - 0 Error(s), 8 Warning(s).
-Load "C:\\Users\\ize\\Desktop\\pbd\\obj\\PBD.AXF" 
-Build target 'PBD'
-compiling pbd.c...
-pbd.c(111): warning:  #223-D: function "Read_24LC64" declared implicitly
-pbd.c(108): warning:  #177-D: variable "i" was declared but never referenced
-pbd.c(190): warning:  #223-D: function "Read_24LC64" declared implicitly
-pbd.c(195): warning:  #223-D: function "Write_24LC64" declared implicitly
-pbd.c(199): warning:  #223-D: function "Write_24LC64" declared implicitly
-pbd.c(188): warning:  #177-D: variable "value" was declared but never referenced
-pbd.c(206): warning:  #223-D: function "Write_24LC64" declared implicitly
-pbd.c(457): warning:  #177-D: variable "temp" was declared but never referenced
-linking...
-Program Size: Code=9448 RO-data=244 RW-data=1644 ZI-data=1236  
-User command #1: fromelf --bin ".\obj\PBD.axf" --output ".\obj\PBD.bin"
-User command #2: fromelf --text -c ".\obj\PBD.axf" --output ".\obj\PBD.txt"
-".\obj\PBD.axf" - 0 Error(s), 8 Warning(s).
-Load "C:\\Users\\ize\\Desktop\\pbd\\obj\\PBD.AXF" 
-Build target 'PBD'
-compiling pbd.c...
-pbd.c(111): warning:  #223-D: function "Read_24LC64" declared implicitly
-pbd.c(108): warning:  #177-D: variable "i" was declared but never referenced
-pbd.c(190): warning:  #223-D: function "Read_24LC64" declared implicitly
-pbd.c(195): warning:  #223-D: function "Write_24LC64" declared implicitly
-pbd.c(199): warning:  #223-D: function "Write_24LC64" declared implicitly
-pbd.c(188): warning:  #177-D: variable "value" was declared but never referenced
-pbd.c(206): warning:  #223-D: function "Write_24LC64" declared implicitly
-pbd.c(457): warning:  #177-D: variable "temp" was declared but never referenced
-linking...
-Program Size: Code=9456 RO-data=244 RW-data=1644 ZI-data=1236  
-User command #1: fromelf --bin ".\obj\PBD.axf" --output ".\obj\PBD.bin"
-User command #2: fromelf --text -c ".\obj\PBD.axf" --output ".\obj\PBD.txt"
-".\obj\PBD.axf" - 0 Error(s), 8 Warning(s).
-Load "C:\\Users\\ize\\Desktop\\pbd\\obj\\PBD.AXF" 
-Build target 'PBD'
-compiling pbd.c...
-pbd.c(111): warning:  #223-D: function "Read_24LC64" declared implicitly
-pbd.c(108): warning:  #177-D: variable "i" was declared but never referenced
-pbd.c(190): warning:  #223-D: function "Read_24LC64" declared implicitly
-pbd.c(195): warning:  #223-D: function "Write_24LC64" declared implicitly
-pbd.c(199): warning:  #223-D: function "Write_24LC64" declared implicitly
-pbd.c(188): warning:  #177-D: variable "value" was declared but never referenced
-pbd.c(206): warning:  #223-D: function "Write_24LC64" declared implicitly
-pbd.c(457): warning:  #177-D: variable "temp" was declared but never referenced
-linking...
-Program Size: Code=9452 RO-data=244 RW-data=1644 ZI-data=1236  
-User command #1: fromelf --bin ".\obj\PBD.axf" --output ".\obj\PBD.bin"
-User command #2: fromelf --text -c ".\obj\PBD.axf" --output ".\obj\PBD.txt"
-".\obj\PBD.axf" - 0 Error(s), 8 Warning(s).
-Load "C:\\Users\\ize\\Desktop\\pbd\\obj\\PBD.AXF" 
-Build target 'PBD'
-compiling pbd.c...
-pbd.c(111): warning:  #223-D: function "Read_24LC64" declared implicitly
-pbd.c(108): warning:  #177-D: variable "i" was declared but never referenced
-pbd.c(190): warning:  #223-D: function "Read_24LC64" declared implicitly
-pbd.c(195): warning:  #223-D: function "Write_24LC64" declared implicitly
-pbd.c(199): warning:  #223-D: function "Write_24LC64" declared implicitly
-pbd.c(188): warning:  #177-D: variable "value" was declared but never referenced
-pbd.c(206): warning:  #223-D: function "Write_24LC64" declared implicitly
-pbd.c(457): warning:  #177-D: variable "temp" was declared but never referenced
-linking...
-Program Size: Code=9452 RO-data=244 RW-data=1644 ZI-data=1236  
-User command #1: fromelf --bin ".\obj\PBD.axf" --output ".\obj\PBD.bin"
-User command #2: fromelf --text -c ".\obj\PBD.axf" --output ".\obj\PBD.txt"
-".\obj\PBD.axf" - 0 Error(s), 8 Warning(s).
-Load "C:\\Users\\ize\\Desktop\\pbd\\obj\\PBD.AXF" 
-Build target 'PBD'
-compiling pbd.c...
-pbd.c(111): warning:  #223-D: function "Read_24LC64" declared implicitly
-pbd.c(108): warning:  #177-D: variable "i" was declared but never referenced
-pbd.c(190): warning:  #223-D: function "Read_24LC64" declared implicitly
-pbd.c(195): warning:  #223-D: function "Write_24LC64" declared implicitly
-pbd.c(199): warning:  #223-D: function "Write_24LC64" declared implicitly
-pbd.c(188): warning:  #177-D: variable "value" was declared but never referenced
-pbd.c(206): warning:  #223-D: function "Write_24LC64" declared implicitly
-pbd.c(456): warning:  #177-D: variable "lcd" was declared but never referenced
-pbd.c(457): warning:  #177-D: variable "temp" was declared but never referenced
-linking...
-Program Size: Code=3956 RO-data=224 RW-data=124 ZI-data=1236  
-User command #1: fromelf --bin ".\obj\PBD.axf" --output ".\obj\PBD.bin"
-User command #2: fromelf --text -c ".\obj\PBD.axf" --output ".\obj\PBD.txt"
-".\obj\PBD.axf" - 0 Error(s), 9 Warning(s).
-Load "C:\\Users\\ize\\Desktop\\pbd\\obj\\PBD.AXF" 
-Build target 'PBD'
-compiling pbd.c...
-pbd.c(111): warning:  #223-D: function "Read_24LC64" declared implicitly
-pbd.c(108): warning:  #177-D: variable "i" was declared but never referenced
-pbd.c(190): warning:  #223-D: function "Read_24LC64" declared implicitly
-pbd.c(195): warning:  #223-D: function "Write_24LC64" declared implicitly
-pbd.c(199): warning:  #223-D: function "Write_24LC64" declared implicitly
-pbd.c(188): warning:  #177-D: variable "value" was declared but never referenced
-pbd.c(206): warning:  #223-D: function "Write_24LC64" declared implicitly
-pbd.c(457): warning:  #177-D: variable "temp" was declared but never referenced
-linking...
-Program Size: Code=4132 RO-data=224 RW-data=1644 ZI-data=1236  
-User command #1: fromelf --bin ".\obj\PBD.axf" --output ".\obj\PBD.bin"
-User command #2: fromelf --text -c ".\obj\PBD.axf" --output ".\obj\PBD.txt"
-".\obj\PBD.axf" - 0 Error(s), 8 Warning(s).
-Load "C:\\Users\\ize\\Desktop\\pbd\\obj\\PBD.AXF" 
-Build target 'PBD'
-compiling pbd.c...
-pbd.c(111): warning:  #223-D: function "Read_24LC64" declared implicitly
-pbd.c(108): warning:  #177-D: variable "i" was declared but never referenced
-pbd.c(190): warning:  #223-D: function "Read_24LC64" declared implicitly
-pbd.c(195): warning:  #223-D: function "Write_24LC64" declared implicitly
-pbd.c(199): warning:  #223-D: function "Write_24LC64" declared implicitly
-pbd.c(188): warning:  #177-D: variable "value" was declared but never referenced
-pbd.c(206): warning:  #223-D: function "Write_24LC64" declared implicitly
-pbd.c(457): warning:  #177-D: variable "temp" was declared but never referenced
-linking...
-Program Size: Code=8124 RO-data=240 RW-data=1644 ZI-data=1236  
-User command #1: fromelf --bin ".\obj\PBD.axf" --output ".\obj\PBD.bin"
-User command #2: fromelf --text -c ".\obj\PBD.axf" --output ".\obj\PBD.txt"
-".\obj\PBD.axf" - 0 Error(s), 8 Warning(s).
-Load "C:\\Users\\ize\\Desktop\\pbd\\obj\\PBD.AXF" 
-Build target 'PBD'
-compiling pbd.c...
-pbd.c(111): warning:  #223-D: function "Read_24LC64" declared implicitly
-pbd.c(108): warning:  #177-D: variable "i" was declared but never referenced
-pbd.c(190): warning:  #223-D: function "Read_24LC64" declared implicitly
-pbd.c(195): warning:  #223-D: function "Write_24LC64" declared implicitly
-pbd.c(199): warning:  #223-D: function "Write_24LC64" declared implicitly
-pbd.c(188): warning:  #177-D: variable "value" was declared but never referenced
-pbd.c(206): warning:  #223-D: function "Write_24LC64" declared implicitly
-pbd.c(457): warning:  #177-D: variable "temp" was declared but never referenced
-linking...
-Program Size: Code=9452 RO-data=244 RW-data=1644 ZI-data=1236  
-User command #1: fromelf --bin ".\obj\PBD.axf" --output ".\obj\PBD.bin"
-User command #2: fromelf --text -c ".\obj\PBD.axf" --output ".\obj\PBD.txt"
-".\obj\PBD.axf" - 0 Error(s), 8 Warning(s).
-Load "C:\\Users\\ize\\Desktop\\pbd\\obj\\PBD.AXF" 
-Build target 'PBD'
-linking...
-Program Size: Code=9452 RO-data=244 RW-data=1644 ZI-data=1236  
-User command #1: fromelf --bin ".\obj\PBD.axf" --output ".\obj\PBD.bin"
-User command #2: fromelf --text -c ".\obj\PBD.axf" --output ".\obj\PBD.txt"
-".\obj\PBD.axf" - 0 Error(s), 0 Warning(s).
-Build target 'PBD'
-compiling pbd.c...
-pbd.c(111): warning:  #223-D: function "Read_24LC64" declared implicitly
-pbd.c(108): warning:  #177-D: variable "i" was declared but never referenced
-pbd.c(190): warning:  #223-D: function "Read_24LC64" declared implicitly
-pbd.c(195): warning:  #223-D: function "Write_24LC64" declared implicitly
-pbd.c(199): warning:  #223-D: function "Write_24LC64" declared implicitly
-pbd.c(188): warning:  #177-D: variable "value" was declared but never referenced
-pbd.c(206): warning:  #223-D: function "Write_24LC64" declared implicitly
-pbd.c(457): warning:  #177-D: variable "temp" was declared but never referenced
-linking...
-Program Size: Code=9456 RO-data=244 RW-data=1644 ZI-data=1236  
-User command #1: fromelf --bin ".\obj\PBD.axf" --output ".\obj\PBD.bin"
-User command #2: fromelf --text -c ".\obj\PBD.axf" --output ".\obj\PBD.txt"
-".\obj\PBD.axf" - 0 Error(s), 8 Warning(s).
-Load "C:\\Users\\ize\\Desktop\\pbd\\obj\\PBD.AXF" 
-Build target 'PBD'
-compiling pbd.c...
-pbd.c(111): warning:  #223-D: function "Read_24LC64" declared implicitly
-pbd.c(108): warning:  #177-D: variable "i" was declared but never referenced
-pbd.c(190): warning:  #223-D: function "Read_24LC64" declared implicitly
-pbd.c(195): warning:  #223-D: function "Write_24LC64" declared implicitly
-pbd.c(199): warning:  #223-D: function "Write_24LC64" declared implicitly
-pbd.c(188): warning:  #177-D: variable "value" was declared but never referenced
-pbd.c(206): warning:  #223-D: function "Write_24LC64" declared implicitly
-pbd.c(457): warning:  #177-D: variable "temp" was declared but never referenced
-linking...
-Program Size: Code=9452 RO-data=244 RW-data=1644 ZI-data=1236  
-User command #1: fromelf --bin ".\obj\PBD.axf" --output ".\obj\PBD.bin"
-User command #2: fromelf --text -c ".\obj\PBD.axf" --output ".\obj\PBD.txt"
-".\obj\PBD.axf" - 0 Error(s), 8 Warning(s).
-Load "C:\\Users\\ize\\Desktop\\pbd\\obj\\PBD.AXF" 
-Build target 'PBD'
-compiling pbd.c...
-pbd.c(111): warning:  #223-D: function "Read_24LC64" declared implicitly
-pbd.c(108): warning:  #177-D: variable "i" was declared but never referenced
-pbd.c(190): warning:  #223-D: function "Read_24LC64" declared implicitly
-pbd.c(195): warning:  #223-D: function "Write_24LC64" declared implicitly
-pbd.c(199): warning:  #223-D: function "Write_24LC64" declared implicitly
-pbd.c(188): warning:  #177-D: variable "value" was declared but never referenced
-pbd.c(206): warning:  #223-D: function "Write_24LC64" declared implicitly
-pbd.c(457): warning:  #177-D: variable "temp" was declared but never referenced
-linking...
-Program Size: Code=9452 RO-data=244 RW-data=1644 ZI-data=1236  
-User command #1: fromelf --bin ".\obj\PBD.axf" --output ".\obj\PBD.bin"
-User command #2: fromelf --text -c ".\obj\PBD.axf" --output ".\obj\PBD.txt"
-".\obj\PBD.axf" - 0 Error(s), 8 Warning(s).
-Load "C:\\Users\\ize\\Desktop\\pbd\\obj\\PBD.AXF" 
-Build target 'PBD'
-compiling pbd.c...
-pbd.c(111): warning:  #223-D: function "Read_24LC64" declared implicitly
-pbd.c(108): warning:  #177-D: variable "i" was declared but never referenced
-pbd.c(190): warning:  #223-D: function "Read_24LC64" declared implicitly
-pbd.c(195): warning:  #223-D: function "Write_24LC64" declared implicitly
-pbd.c(199): warning:  #223-D: function "Write_24LC64" declared implicitly
-pbd.c(188): warning:  #177-D: variable "value" was declared but never referenced
-pbd.c(206): warning:  #223-D: function "Write_24LC64" declared implicitly
-pbd.c(457): warning:  #177-D: variable "temp" was declared but never referenced
-linking...
-Program Size: Code=9452 RO-data=244 RW-data=1644 ZI-data=1236  
-User command #1: fromelf --bin ".\obj\PBD.axf" --output ".\obj\PBD.bin"
-User command #2: fromelf --text -c ".\obj\PBD.axf" --output ".\obj\PBD.txt"
-".\obj\PBD.axf" - 0 Error(s), 8 Warning(s).
-Load "C:\\Users\\ize\\Desktop\\pbd\\obj\\PBD.AXF" 
-Build target 'PBD'
-compiling pbd.c...
-pbd.c(111): warning:  #223-D: function "Read_24LC64" declared implicitly
-pbd.c(108): warning:  #177-D: variable "i" was declared but never referenced
-pbd.c(190): warning:  #223-D: function "Read_24LC64" declared implicitly
-pbd.c(195): warning:  #223-D: function "Write_24LC64" declared implicitly
-pbd.c(199): warning:  #223-D: function "Write_24LC64" declared implicitly
-pbd.c(188): warning:  #177-D: variable "value" was declared but never referenced
-pbd.c(206): warning:  #223-D: function "Write_24LC64" declared implicitly
-pbd.c(457): warning:  #177-D: variable "temp" was declared but never referenced
-linking...
-Program Size: Code=9452 RO-data=244 RW-data=1644 ZI-data=1236  
-User command #1: fromelf --bin ".\obj\PBD.axf" --output ".\obj\PBD.bin"
-User command #2: fromelf --text -c ".\obj\PBD.axf" --output ".\obj\PBD.txt"
-".\obj\PBD.axf" - 0 Error(s), 8 Warning(s).
-Load "C:\\Users\\ize\\Desktop\\pbd\\obj\\PBD.AXF" 
-Build target 'PBD'
-compiling pbd.c...
-pbd.c(111): warning:  #223-D: function "Read_24LC64" declared implicitly
-pbd.c(108): warning:  #177-D: variable "i" was declared but never referenced
-pbd.c(190): warning:  #223-D: function "Read_24LC64" declared implicitly
-pbd.c(195): warning:  #223-D: function "Write_24LC64" declared implicitly
-pbd.c(199): warning:  #223-D: function "Write_24LC64" declared implicitly
-pbd.c(188): warning:  #177-D: variable "value" was declared but never referenced
-pbd.c(206): warning:  #223-D: function "Write_24LC64" declared implicitly
-pbd.c(457): warning:  #177-D: variable "temp" was declared but never referenced
-linking...
-Program Size: Code=9456 RO-data=244 RW-data=1644 ZI-data=1236  
-User command #1: fromelf --bin ".\obj\PBD.axf" --output ".\obj\PBD.bin"
-User command #2: fromelf --text -c ".\obj\PBD.axf" --output ".\obj\PBD.txt"
-".\obj\PBD.axf" - 0 Error(s), 8 Warning(s).
-Load "C:\\Users\\ize\\Desktop\\pbd\\obj\\PBD.AXF" 
-Build target 'PBD'
-compiling pbd.c...
-pbd.c(111): warning:  #223-D: function "Read_24LC64" declared implicitly
-pbd.c(108): warning:  #177-D: variable "i" was declared but never referenced
-pbd.c(190): warning:  #223-D: function "Read_24LC64" declared implicitly
-pbd.c(195): warning:  #223-D: function "Write_24LC64" declared implicitly
-pbd.c(199): warning:  #223-D: function "Write_24LC64" declared implicitly
-pbd.c(188): warning:  #177-D: variable "value" was declared but never referenced
-pbd.c(206): warning:  #223-D: function "Write_24LC64" declared implicitly
-pbd.c(457): warning:  #177-D: variable "temp" was declared but never referenced
-linking...
-Program Size: Code=9448 RO-data=244 RW-data=1644 ZI-data=1236  
-User command #1: fromelf --bin ".\obj\PBD.axf" --output ".\obj\PBD.bin"
-User command #2: fromelf --text -c ".\obj\PBD.axf" --output ".\obj\PBD.txt"
-".\obj\PBD.axf" - 0 Error(s), 8 Warning(s).
-Load "C:\\Users\\ize\\Desktop\\pbd\\obj\\PBD.AXF" 
-Build target 'PBD'
-compiling pbd.c...
-pbd.c(111): warning:  #223-D: function "Read_24LC64" declared implicitly
-pbd.c(108): warning:  #177-D: variable "i" was declared but never referenced
-pbd.c(190): warning:  #223-D: function "Read_24LC64" declared implicitly
-pbd.c(195): warning:  #223-D: function "Write_24LC64" declared implicitly
-pbd.c(199): warning:  #223-D: function "Write_24LC64" declared implicitly
-pbd.c(188): warning:  #177-D: variable "value" was declared but never referenced
-pbd.c(206): warning:  #223-D: function "Write_24LC64" declared implicitly
-pbd.c(457): warning:  #177-D: variable "temp" was declared but never referenced
-linking...
-Program Size: Code=9456 RO-data=244 RW-data=1644 ZI-data=1236  
-User command #1: fromelf --bin ".\obj\PBD.axf" --output ".\obj\PBD.bin"
-User command #2: fromelf --text -c ".\obj\PBD.axf" --output ".\obj\PBD.txt"
-".\obj\PBD.axf" - 0 Error(s), 8 Warning(s).
-Load "C:\\Users\\ize\\Desktop\\pbd\\obj\\PBD.AXF" 
-Build target 'PBD'
-compiling pbd.c...
-pbd.c(111): warning:  #223-D: function "Read_24LC64" declared implicitly
-pbd.c(108): warning:  #177-D: variable "i" was declared but never referenced
-pbd.c(190): warning:  #223-D: function "Read_24LC64" declared implicitly
-pbd.c(195): warning:  #223-D: function "Write_24LC64" declared implicitly
-pbd.c(199): warning:  #223-D: function "Write_24LC64" declared implicitly
-pbd.c(188): warning:  #177-D: variable "value" was declared but never referenced
-pbd.c(206): warning:  #223-D: function "Write_24LC64" declared implicitly
-pbd.c(457): warning:  #177-D: variable "temp" was declared but never referenced
-linking...
-Program Size: Code=9452 RO-data=244 RW-data=1644 ZI-data=1236  
-User command #1: fromelf --bin ".\obj\PBD.axf" --output ".\obj\PBD.bin"
-User command #2: fromelf --text -c ".\obj\PBD.axf" --output ".\obj\PBD.txt"
-".\obj\PBD.axf" - 0 Error(s), 8 Warning(s).
-Load "C:\\Users\\ize\\Desktop\\pbd\\obj\\PBD.AXF" 
-Build target 'PBD'
-compiling pbd.c...
-pbd.c(111): warning:  #223-D: function "Read_24LC64" declared implicitly
-pbd.c(108): warning:  #177-D: variable "i" was declared but never referenced
-pbd.c(190): warning:  #223-D: function "Read_24LC64" declared implicitly
-pbd.c(195): warning:  #223-D: function "Write_24LC64" declared implicitly
-pbd.c(199): warning:  #223-D: function "Write_24LC64" declared implicitly
-pbd.c(188): warning:  #177-D: variable "value" was declared but never referenced
-pbd.c(206): warning:  #223-D: function "Write_24LC64" declared implicitly
-pbd.c(457): warning:  #177-D: variable "temp" was declared but never referenced
-linking...
-Program Size: Code=9456 RO-data=244 RW-data=1644 ZI-data=1236  
-User command #1: fromelf --bin ".\obj\PBD.axf" --output ".\obj\PBD.bin"
-User command #2: fromelf --text -c ".\obj\PBD.axf" --output ".\obj\PBD.txt"
-".\obj\PBD.axf" - 0 Error(s), 8 Warning(s).
-Load "C:\\Users\\ize\\Desktop\\pbd\\obj\\PBD.AXF" 
-Build target 'PBD'
-compiling pbd.c...
-pbd.c(111): warning:  #223-D: function "Read_24LC64" declared implicitly
-pbd.c(108): warning:  #177-D: variable "i" was declared but never referenced
-pbd.c(190): warning:  #223-D: function "Read_24LC64" declared implicitly
-pbd.c(195): warning:  #223-D: function "Write_24LC64" declared implicitly
-pbd.c(199): warning:  #223-D: function "Write_24LC64" declared implicitly
-pbd.c(188): warning:  #177-D: variable "value" was declared but never referenced
-pbd.c(206): warning:  #223-D: function "Write_24LC64" declared implicitly
-pbd.c(457): warning:  #177-D: variable "temp" was declared but never referenced
-linking...
-Program Size: Code=9452 RO-data=244 RW-data=1644 ZI-data=1236  
-User command #1: fromelf --bin ".\obj\PBD.axf" --output ".\obj\PBD.bin"
-User command #2: fromelf --text -c ".\obj\PBD.axf" --output ".\obj\PBD.txt"
-".\obj\PBD.axf" - 0 Error(s), 8 Warning(s).
-Load "C:\\Users\\ize\\Desktop\\pbd\\obj\\PBD.AXF" 
-Build target 'PBD'
-compiling pbd.c...
-pbd.c(111): warning:  #223-D: function "Read_24LC64" declared implicitly
-pbd.c(108): warning:  #177-D: variable "i" was declared but never referenced
-pbd.c(190): warning:  #223-D: function "Read_24LC64" declared implicitly
-pbd.c(195): warning:  #223-D: function "Write_24LC64" declared implicitly
-pbd.c(199): warning:  #223-D: function "Write_24LC64" declared implicitly
-pbd.c(188): warning:  #177-D: variable "value" was declared but never referenced
-pbd.c(206): warning:  #223-D: function "Write_24LC64" declared implicitly
-pbd.c(457): warning:  #177-D: variable "temp" was declared but never referenced
-linking...
-Program Size: Code=9452 RO-data=244 RW-data=1644 ZI-data=1236  
-User command #1: fromelf --bin ".\obj\PBD.axf" --output ".\obj\PBD.bin"
-User command #2: fromelf --text -c ".\obj\PBD.axf" --output ".\obj\PBD.txt"
-".\obj\PBD.axf" - 0 Error(s), 8 Warning(s).
-Load "C:\\Users\\ize\\Desktop\\pbd\\obj\\PBD.AXF" 
-Build target 'PBD'
-compiling pbd.c...
-pbd.c(111): warning:  #223-D: function "Read_24LC64" declared implicitly
-pbd.c(108): warning:  #177-D: variable "i" was declared but never referenced
-pbd.c(190): warning:  #223-D: function "Read_24LC64" declared implicitly
-pbd.c(195): warning:  #223-D: function "Write_24LC64" declared implicitly
-pbd.c(199): warning:  #223-D: function "Write_24LC64" declared implicitly
-pbd.c(188): warning:  #177-D: variable "value" was declared but never referenced
-pbd.c(206): warning:  #223-D: function "Write_24LC64" declared implicitly
-pbd.c(457): warning:  #177-D: variable "temp" was declared but never referenced
-linking...
-Program Size: Code=9452 RO-data=244 RW-data=1644 ZI-data=1236  
-User command #1: fromelf --bin ".\obj\PBD.axf" --output ".\obj\PBD.bin"
-User command #2: fromelf --text -c ".\obj\PBD.axf" --output ".\obj\PBD.txt"
-".\obj\PBD.axf" - 0 Error(s), 8 Warning(s).
-Load "C:\\Users\\ize\\Desktop\\pbd\\obj\\PBD.AXF" 
-Build target 'PBD'
-compiling pbd.c...
-pbd.c(111): warning:  #223-D: function "Read_24LC64" declared implicitly
-pbd.c(108): warning:  #177-D: variable "i" was declared but never referenced
-pbd.c(190): warning:  #223-D: function "Read_24LC64" declared implicitly
-pbd.c(195): warning:  #223-D: function "Write_24LC64" declared implicitly
-pbd.c(199): warning:  #223-D: function "Write_24LC64" declared implicitly
-pbd.c(188): warning:  #177-D: variable "value" was declared but never referenced
-pbd.c(206): warning:  #223-D: function "Write_24LC64" declared implicitly
-pbd.c(457): warning:  #177-D: variable "temp" was declared but never referenced
-linking...
-Program Size: Code=9456 RO-data=244 RW-data=1644 ZI-data=1236  
-User command #1: fromelf --bin ".\obj\PBD.axf" --output ".\obj\PBD.bin"
-User command #2: fromelf --text -c ".\obj\PBD.axf" --output ".\obj\PBD.txt"
-".\obj\PBD.axf" - 0 Error(s), 8 Warning(s).
-Load "C:\\Users\\ize\\Desktop\\pbd\\obj\\PBD.AXF" 
-Build target 'PBD'
-compiling pbd.c...
-pbd.c(111): warning:  #223-D: function "Read_24LC64" declared implicitly
-pbd.c(108): warning:  #177-D: variable "i" was declared but never referenced
-pbd.c(190): warning:  #223-D: function "Read_24LC64" declared implicitly
-pbd.c(195): warning:  #223-D: function "Write_24LC64" declared implicitly
-pbd.c(199): warning:  #223-D: function "Write_24LC64" declared implicitly
-pbd.c(188): warning:  #177-D: variable "value" was declared but never referenced
-pbd.c(206): warning:  #223-D: function "Write_24LC64" declared implicitly
-linking...
-Program Size: Code=9816 RO-data=244 RW-data=1644 ZI-data=1236  
-User command #1: fromelf --bin ".\obj\PBD.axf" --output ".\obj\PBD.bin"
-User command #2: fromelf --text -c ".\obj\PBD.axf" --output ".\obj\PBD.txt"
-".\obj\PBD.axf" - 0 Error(s), 7 Warning(s).
-Load "C:\\Users\\ize\\Desktop\\pbd\\obj\\PBD.AXF" 
-Build target 'PBD'
-compiling pbd.c...
-pbd.c(111): warning:  #223-D: function "Read_24LC64" declared implicitly
-pbd.c(108): warning:  #177-D: variable "i" was declared but never referenced
-pbd.c(190): warning:  #223-D: function "Read_24LC64" declared implicitly
-pbd.c(195): warning:  #223-D: function "Write_24LC64" declared implicitly
-pbd.c(199): warning:  #223-D: function "Write_24LC64" declared implicitly
-pbd.c(188): warning:  #177-D: variable "value" was declared but never referenced
-pbd.c(206): warning:  #223-D: function "Write_24LC64" declared implicitly
-linking...
-Program Size: Code=9816 RO-data=244 RW-data=1644 ZI-data=1236  
-User command #1: fromelf --bin ".\obj\PBD.axf" --output ".\obj\PBD.bin"
-User command #2: fromelf --text -c ".\obj\PBD.axf" --output ".\obj\PBD.txt"
-".\obj\PBD.axf" - 0 Error(s), 7 Warning(s).
-Load "C:\\Users\\ize\\Desktop\\pbd\\obj\\PBD.AXF" 
-Build target 'PBD'
-compiling pbd.c...
-pbd.c(111): warning:  #223-D: function "Read_24LC64" declared implicitly
-pbd.c(108): warning:  #177-D: variable "i" was declared but never referenced
-pbd.c(190): warning:  #223-D: function "Read_24LC64" declared implicitly
-pbd.c(195): warning:  #223-D: function "Write_24LC64" declared implicitly
-pbd.c(199): warning:  #223-D: function "Write_24LC64" declared implicitly
-pbd.c(188): warning:  #177-D: variable "value" was declared but never referenced
-pbd.c(206): warning:  #223-D: function "Write_24LC64" declared implicitly
-linking...
-Program Size: Code=9812 RO-data=244 RW-data=1644 ZI-data=1236  
-User command #1: fromelf --bin ".\obj\PBD.axf" --output ".\obj\PBD.bin"
-User command #2: fromelf --text -c ".\obj\PBD.axf" --output ".\obj\PBD.txt"
-".\obj\PBD.axf" - 0 Error(s), 7 Warning(s).
-Load "C:\\Users\\ize\\Desktop\\pbd\\obj\\PBD.AXF" 
-Build target 'PBD'
-compiling pbd.c...
-pbd.c(111): warning:  #223-D: function "Read_24LC64" declared implicitly
-pbd.c(108): warning:  #177-D: variable "i" was declared but never referenced
-pbd.c(190): warning:  #223-D: function "Read_24LC64" declared implicitly
-pbd.c(195): warning:  #223-D: function "Write_24LC64" declared implicitly
-pbd.c(199): warning:  #223-D: function "Write_24LC64" declared implicitly
-pbd.c(188): warning:  #177-D: variable "value" was declared but never referenced
-pbd.c(206): warning:  #223-D: function "Write_24LC64" declared implicitly
-pbd.c(457): warning:  #177-D: variable "temp" was declared but never referenced
-linking...
-Program Size: Code=9456 RO-data=244 RW-data=1644 ZI-data=1236  
-User command #1: fromelf --bin ".\obj\PBD.axf" --output ".\obj\PBD.bin"
-User command #2: fromelf --text -c ".\obj\PBD.axf" --output ".\obj\PBD.txt"
-".\obj\PBD.axf" - 0 Error(s), 8 Warning(s).
-Load "C:\\Users\\ize\\Desktop\\pbd\\obj\\PBD.AXF" 
-Build target 'PBD'
-compiling pbd.c...
-pbd.c(111): warning:  #223-D: function "Read_24LC64" declared implicitly
-pbd.c(108): warning:  #177-D: variable "i" was declared but never referenced
-pbd.c(190): warning:  #223-D: function "Read_24LC64" declared implicitly
-pbd.c(195): warning:  #223-D: function "Write_24LC64" declared implicitly
-pbd.c(199): warning:  #223-D: function "Write_24LC64" declared implicitly
-pbd.c(188): warning:  #177-D: variable "value" was declared but never referenced
-pbd.c(206): warning:  #223-D: function "Write_24LC64" declared implicitly
-pbd.c(457): warning:  #177-D: variable "temp" was declared but never referenced
-linking...
-Program Size: Code=9456 RO-data=244 RW-data=1644 ZI-data=1236  
-User command #1: fromelf --bin ".\obj\PBD.axf" --output ".\obj\PBD.bin"
-User command #2: fromelf --text -c ".\obj\PBD.axf" --output ".\obj\PBD.txt"
-".\obj\PBD.axf" - 0 Error(s), 8 Warning(s).
-Load "C:\\Users\\ize\\Desktop\\pbd\\obj\\PBD.AXF" 
-Build target 'PBD'
-compiling pbd.c...
-pbd.c(111): warning:  #223-D: function "Read_24LC64" declared implicitly
-pbd.c(108): warning:  #177-D: variable "i" was declared but never referenced
-pbd.c(190): warning:  #223-D: function "Read_24LC64" declared implicitly
-pbd.c(195): warning:  #223-D: function "Write_24LC64" declared implicitly
-pbd.c(199): warning:  #223-D: function "Write_24LC64" declared implicitly
-pbd.c(188): warning:  #177-D: variable "value" was declared but never referenced
-pbd.c(206): warning:  #223-D: function "Write_24LC64" declared implicitly
-pbd.c(457): warning:  #177-D: variable "temp" was declared but never referenced
-linking...
-Program Size: Code=9472 RO-data=244 RW-data=1644 ZI-data=1236  
-User command #1: fromelf --bin ".\obj\PBD.axf" --output ".\obj\PBD.bin"
-User command #2: fromelf --text -c ".\obj\PBD.axf" --output ".\obj\PBD.txt"
-".\obj\PBD.axf" - 0 Error(s), 8 Warning(s).
-Load "C:\\Users\\ize\\Desktop\\pbd\\obj\\PBD.AXF" 
-Build target 'PBD'
-compiling pbd.c...
-pbd.c(111): warning:  #223-D: function "Read_24LC64" declared implicitly
-pbd.c(108): warning:  #177-D: variable "i" was declared but never referenced
-pbd.c(190): warning:  #223-D: function "Read_24LC64" declared implicitly
-pbd.c(195): warning:  #223-D: function "Write_24LC64" declared implicitly
-pbd.c(199): warning:  #223-D: function "Write_24LC64" declared implicitly
-pbd.c(188): warning:  #177-D: variable "value" was declared but never referenced
-pbd.c(206): warning:  #223-D: function "Write_24LC64" declared implicitly
-pbd.c(457): warning:  #177-D: variable "temp" was declared but never referenced
-linking...
-Program Size: Code=9468 RO-data=244 RW-data=1644 ZI-data=1236  
-User command #1: fromelf --bin ".\obj\PBD.axf" --output ".\obj\PBD.bin"
-User command #2: fromelf --text -c ".\obj\PBD.axf" --output ".\obj\PBD.txt"
-".\obj\PBD.axf" - 0 Error(s), 8 Warning(s).
-Load "C:\\Users\\ize\\Desktop\\pbd\\obj\\PBD.AXF" 
-Build target 'PBD'
-compiling pbd.c...
-pbd.c(111): warning:  #223-D: function "Read_24LC64" declared implicitly
-pbd.c(108): warning:  #177-D: variable "i" was declared but never referenced
-pbd.c(190): warning:  #223-D: function "Read_24LC64" declared implicitly
-pbd.c(195): warning:  #223-D: function "Write_24LC64" declared implicitly
-pbd.c(199): warning:  #223-D: function "Write_24LC64" declared implicitly
-pbd.c(188): warning:  #177-D: variable "value" was declared but never referenced
-pbd.c(206): warning:  #223-D: function "Write_24LC64" declared implicitly
-pbd.c(457): warning:  #177-D: variable "temp" was declared but never referenced
-linking...
-Program Size: Code=9456 RO-data=244 RW-data=1644 ZI-data=1236  
-User command #1: fromelf --bin ".\obj\PBD.axf" --output ".\obj\PBD.bin"
-User command #2: fromelf --text -c ".\obj\PBD.axf" --output ".\obj\PBD.txt"
-".\obj\PBD.axf" - 0 Error(s), 8 Warning(s).
-Load "C:\\Users\\ize\\Desktop\\pbd\\obj\\PBD.AXF" 
-Build target 'PBD'
-compiling pbd.c...
-pbd.c(111): warning:  #223-D: function "Read_24LC64" declared implicitly
-pbd.c(108): warning:  #177-D: variable "i" was declared but never referenced
-pbd.c(190): warning:  #223-D: function "Read_24LC64" declared implicitly
-pbd.c(195): warning:  #223-D: function "Write_24LC64" declared implicitly
-pbd.c(199): warning:  #223-D: function "Write_24LC64" declared implicitly
-pbd.c(188): warning:  #177-D: variable "value" was declared but never referenced
-pbd.c(206): warning:  #223-D: function "Write_24LC64" declared implicitly
-pbd.c(457): warning:  #177-D: variable "temp" was declared but never referenced
-linking...
-Program Size: Code=9456 RO-data=244 RW-data=1644 ZI-data=1236  
-User command #1: fromelf --bin ".\obj\PBD.axf" --output ".\obj\PBD.bin"
-User command #2: fromelf --text -c ".\obj\PBD.axf" --output ".\obj\PBD.txt"
-".\obj\PBD.axf" - 0 Error(s), 8 Warning(s).
-Load "C:\\Users\\ize\\Desktop\\pbd\\obj\\PBD.AXF" 
-Build target 'PBD'
-compiling pbd.c...
-pbd.c(111): warning:  #223-D: function "Read_24LC64" declared implicitly
-pbd.c(108): warning:  #177-D: variable "i" was declared but never referenced
-pbd.c(190): warning:  #223-D: function "Read_24LC64" declared implicitly
-pbd.c(195): warning:  #223-D: function "Write_24LC64" declared implicitly
-pbd.c(199): warning:  #223-D: function "Write_24LC64" declared implicitly
-pbd.c(188): warning:  #177-D: variable "value" was declared but never referenced
-pbd.c(206): warning:  #223-D: function "Write_24LC64" declared implicitly
-pbd.c(457): warning:  #177-D: variable "temp" was declared but never referenced
-linking...
-Program Size: Code=9456 RO-data=244 RW-data=1644 ZI-data=1236  
-User command #1: fromelf --bin ".\obj\PBD.axf" --output ".\obj\PBD.bin"
-User command #2: fromelf --text -c ".\obj\PBD.axf" --output ".\obj\PBD.txt"
-".\obj\PBD.axf" - 0 Error(s), 8 Warning(s).
-Load "C:\\Users\\ize\\Desktop\\pbd\\obj\\PBD.AXF" 
-Build target 'PBD'
-compiling pbd.c...
-pbd.c(111): warning:  #223-D: function "Read_24LC64" declared implicitly
-pbd.c(108): warning:  #177-D: variable "i" was declared but never referenced
-pbd.c(190): warning:  #223-D: function "Read_24LC64" declared implicitly
-pbd.c(195): warning:  #223-D: function "Write_24LC64" declared implicitly
-pbd.c(199): warning:  #223-D: function "Write_24LC64" declared implicitly
-pbd.c(188): warning:  #177-D: variable "value" was declared but never referenced
-pbd.c(206): warning:  #223-D: function "Write_24LC64" declared implicitly
-pbd.c(457): warning:  #177-D: variable "temp" was declared but never referenced
-linking...
-Program Size: Code=9456 RO-data=244 RW-data=1644 ZI-data=1236  
-User command #1: fromelf --bin ".\obj\PBD.axf" --output ".\obj\PBD.bin"
-User command #2: fromelf --text -c ".\obj\PBD.axf" --output ".\obj\PBD.txt"
-".\obj\PBD.axf" - 0 Error(s), 8 Warning(s).
-Load "C:\\Users\\ize\\Desktop\\pbd\\obj\\PBD.AXF" 
-Build target 'PBD'
-compiling pbd.c...
-pbd.c(111): warning:  #223-D: function "Read_24LC64" declared implicitly
-pbd.c(108): warning:  #177-D: variable "i" was declared but never referenced
-pbd.c(190): warning:  #223-D: function "Read_24LC64" declared implicitly
-pbd.c(195): warning:  #223-D: function "Write_24LC64" declared implicitly
-pbd.c(199): warning:  #223-D: function "Write_24LC64" declared implicitly
-pbd.c(188): warning:  #177-D: variable "value" was declared but never referenced
-pbd.c(206): warning:  #223-D: function "Write_24LC64" declared implicitly
-pbd.c(457): warning:  #177-D: variable "temp" was declared but never referenced
-linking...
-Program Size: Code=9456 RO-data=244 RW-data=1644 ZI-data=1236  
-User command #1: fromelf --bin ".\obj\PBD.axf" --output ".\obj\PBD.bin"
-User command #2: fromelf --text -c ".\obj\PBD.axf" --output ".\obj\PBD.txt"
-".\obj\PBD.axf" - 0 Error(s), 8 Warning(s).
-Load "C:\\Users\\ize\\Desktop\\pbd\\obj\\PBD.AXF" 
-Build target 'PBD'
-compiling pbd.c...
-pbd.c(111): warning:  #223-D: function "Read_24LC64" declared implicitly
-pbd.c(108): warning:  #177-D: variable "i" was declared but never referenced
-pbd.c(190): warning:  #223-D: function "Read_24LC64" declared implicitly
-pbd.c(195): warning:  #223-D: function "Write_24LC64" declared implicitly
-pbd.c(199): warning:  #223-D: function "Write_24LC64" declared implicitly
-pbd.c(188): warning:  #177-D: variable "value" was declared but never referenced
-pbd.c(206): warning:  #223-D: function "Write_24LC64" declared implicitly
-pbd.c(457): warning:  #177-D: variable "temp" was declared but never referenced
-linking...
-Program Size: Code=9456 RO-data=244 RW-data=1644 ZI-data=1236  
-User command #1: fromelf --bin ".\obj\PBD.axf" --output ".\obj\PBD.bin"
-User command #2: fromelf --text -c ".\obj\PBD.axf" --output ".\obj\PBD.txt"
-".\obj\PBD.axf" - 0 Error(s), 8 Warning(s).
-Load "C:\\Users\\ize\\Desktop\\pbd\\obj\\PBD.AXF" 
-Build target 'PBD'
-compiling pbd.c...
-pbd.c(111): warning:  #223-D: function "Read_24LC64" declared implicitly
-pbd.c(108): warning:  #177-D: variable "i" was declared but never referenced
-pbd.c(190): warning:  #223-D: function "Read_24LC64" declared implicitly
-pbd.c(195): warning:  #223-D: function "Write_24LC64" declared implicitly
-pbd.c(199): warning:  #223-D: function "Write_24LC64" declared implicitly
-pbd.c(188): warning:  #177-D: variable "value" was declared but never referenced
-pbd.c(206): warning:  #223-D: function "Write_24LC64" declared implicitly
-pbd.c(457): warning:  #177-D: variable "temp" was declared but never referenced
-pbd.c(26): warning:  #177-D: variable "count" was declared but never referenced
-pbd.c(27): warning:  #177-D: variable "loop" was declared but never referenced
-linking...
-Program Size: Code=9332 RO-data=244 RW-data=1644 ZI-data=1236  
-User command #1: fromelf --bin ".\obj\PBD.axf" --output ".\obj\PBD.bin"
-User command #2: fromelf --text -c ".\obj\PBD.axf" --output ".\obj\PBD.txt"
-".\obj\PBD.axf" - 0 Error(s), 10 Warning(s).
-Load "C:\\Users\\ize\\Desktop\\pbd\\obj\\PBD.AXF" 
-Build target 'PBD'
-compiling pbd.c...
-pbd.c(31): warning:  #177-D: variable "i" was declared but never referenced
-pbd.c(111): warning:  #223-D: function "Read_24LC64" declared implicitly
-pbd.c(108): warning:  #177-D: variable "i" was declared but never referenced
-pbd.c(190): warning:  #223-D: function "Read_24LC64" declared implicitly
-pbd.c(195): warning:  #223-D: function "Write_24LC64" declared implicitly
-pbd.c(199): warning:  #223-D: function "Write_24LC64" declared implicitly
-pbd.c(188): warning:  #177-D: variable "value" was declared but never referenced
-pbd.c(206): warning:  #223-D: function "Write_24LC64" declared implicitly
-pbd.c(457): warning:  #177-D: variable "temp" was declared but never referenced
-pbd.c(26): warning:  #177-D: variable "count" was declared but never referenced
-pbd.c(27): warning:  #177-D: variable "loop" was declared but never referenced
-linking...
-Program Size: Code=9356 RO-data=244 RW-data=1644 ZI-data=1236  
-User command #1: fromelf --bin ".\obj\PBD.axf" --output ".\obj\PBD.bin"
-User command #2: fromelf --text -c ".\obj\PBD.axf" --output ".\obj\PBD.txt"
-".\obj\PBD.axf" - 0 Error(s), 11 Warning(s).
-Load "C:\\Users\\ize\\Desktop\\pbd\\obj\\PBD.AXF" 
-Build target 'PBD'
-compiling pbd.c...
-pbd.c(31): warning:  #177-D: variable "i" was declared but never referenced
-pbd.c(111): warning:  #223-D: function "Read_24LC64" declared implicitly
-pbd.c(108): warning:  #177-D: variable "i" was declared but never referenced
-pbd.c(190): warning:  #223-D: function "Read_24LC64" declared implicitly
-pbd.c(195): warning:  #223-D: function "Write_24LC64" declared implicitly
-pbd.c(199): warning:  #223-D: function "Write_24LC64" declared implicitly
-pbd.c(188): warning:  #177-D: variable "value" was declared but never referenced
-pbd.c(206): warning:  #223-D: function "Write_24LC64" declared implicitly
-pbd.c(457): warning:  #177-D: variable "temp" was declared but never referenced
-pbd.c(26): warning:  #177-D: variable "count" was declared but never referenced
-pbd.c(27): warning:  #177-D: variable "loop" was declared but never referenced
-linking...
-Program Size: Code=9356 RO-data=244 RW-data=1644 ZI-data=1236  
-User command #1: fromelf --bin ".\obj\PBD.axf" --output ".\obj\PBD.bin"
-User command #2: fromelf --text -c ".\obj\PBD.axf" --output ".\obj\PBD.txt"
-".\obj\PBD.axf" - 0 Error(s), 11 Warning(s).
-Load "C:\\Users\\ize\\Desktop\\pbd\\obj\\PBD.AXF" 
-Build target 'PBD'
-compiling pbd.c...
-pbd.c(111): warning:  #223-D: function "Read_24LC64" declared implicitly
-pbd.c(108): warning:  #177-D: variable "i" was declared but never referenced
-pbd.c(190): warning:  #223-D: function "Read_24LC64" declared implicitly
-pbd.c(195): warning:  #223-D: function "Write_24LC64" declared implicitly
-pbd.c(199): warning:  #223-D: function "Write_24LC64" declared implicitly
-pbd.c(188): warning:  #177-D: variable "value" was declared but never referenced
-pbd.c(206): warning:  #223-D: function "Write_24LC64" declared implicitly
-pbd.c(457): warning:  #177-D: variable "temp" was declared but never referenced
-linking...
-Program Size: Code=9456 RO-data=244 RW-data=1644 ZI-data=1236  
-User command #1: fromelf --bin ".\obj\PBD.axf" --output ".\obj\PBD.bin"
-User command #2: fromelf --text -c ".\obj\PBD.axf" --output ".\obj\PBD.txt"
-".\obj\PBD.axf" - 0 Error(s), 8 Warning(s).
-Load "C:\\Users\\ize\\Desktop\\pbd\\obj\\PBD.AXF" 
-Build target 'PBD'
-compiling pbd.c...
-pbd.c(111): warning:  #223-D: function "Read_24LC64" declared implicitly
-pbd.c(108): warning:  #177-D: variable "i" was declared but never referenced
-pbd.c(190): warning:  #223-D: function "Read_24LC64" declared implicitly
-pbd.c(195): warning:  #223-D: function "Write_24LC64" declared implicitly
-pbd.c(199): warning:  #223-D: function "Write_24LC64" declared implicitly
-pbd.c(188): warning:  #177-D: variable "value" was declared but never referenced
-pbd.c(206): warning:  #223-D: function "Write_24LC64" declared implicitly
-pbd.c(457): warning:  #177-D: variable "temp" was declared but never referenced
-linking...
-Program Size: Code=9724 RO-data=284 RW-data=1644 ZI-data=1236  
-User command #1: fromelf --bin ".\obj\PBD.axf" --output ".\obj\PBD.bin"
-User command #2: fromelf --text -c ".\obj\PBD.axf" --output ".\obj\PBD.txt"
-".\obj\PBD.axf" - 0 Error(s), 8 Warning(s).
-Load "C:\\Users\\ize\\Desktop\\pbd\\obj\\PBD.AXF" 
-Build target 'PBD'
-compiling pbd.c...
 pbd.c(87): warning:  #223-D: function "Read_24LC64" declared implicitly
-pbd.c(144): warning:  #223-D: function "convert_to_hex" declared implicitly
-pbd.c(84): warning:  #177-D: variable "i" was declared but never referenced
-pbd.c(166): warning:  #223-D: function "Read_24LC64" declared implicitly
-pbd.c(171): warning:  #223-D: function "Write_24LC64" declared implicitly
-pbd.c(175): warning:  #223-D: function "Write_24LC64" declared implicitly
-pbd.c(164): warning:  #177-D: variable "value" was declared but never referenced
-pbd.c(182): warning:  #223-D: function "Write_24LC64" declared implicitly
-pbd.c(433): warning:  #177-D: variable "temp" was declared but never referenced
-linking...
-.\obj\PBD.axf: Error: L6218E: Undefined symbol convert_to_hex (referred from pbd.o).
-Target not created
-Load "C:\\Users\\ize\\Desktop\\pbd\\obj\\PBD.AXF" 
-_____^
-*** error 56: cannot open file
-Build target 'PBD'
-compiling pbd.c...
-pbd.c(87): warning:  #223-D: function "Read_24LC64" declared implicitly
-pbd.c(153): warning:  #226-D: invalid format string conversion
-pbd.c(84): warning:  #177-D: variable "i" was declared but never referenced
-pbd.c(166): warning:  #223-D: function "Read_24LC64" declared implicitly
-pbd.c(171): warning:  #223-D: function "Write_24LC64" declared implicitly
-pbd.c(175): warning:  #223-D: function "Write_24LC64" declared implicitly
-pbd.c(164): warning:  #177-D: variable "value" was declared but never referenced
-pbd.c(182): warning:  #223-D: function "Write_24LC64" declared implicitly
-pbd.c(433): warning:  #177-D: variable "temp" was declared but never referenced
-linking...
-Program Size: Code=9496 RO-data=284 RW-data=1644 ZI-data=1236  
-User command #1: fromelf --bin ".\obj\PBD.axf" --output ".\obj\PBD.bin"
-User command #2: fromelf --text -c ".\obj\PBD.axf" --output ".\obj\PBD.txt"
-".\obj\PBD.axf" - 0 Error(s), 9 Warning(s).
-Load "C:\\Users\\ize\\Desktop\\pbd\\obj\\PBD.AXF" 
-Build target 'PBD'
-compiling pbd.c...
-pbd.c(87): warning:  #223-D: function "Read_24LC64" declared implicitly
-pbd.c(153): warning:  #226-D: invalid format string conversion
-pbd.c(84): warning:  #177-D: variable "i" was declared but never referenced
-pbd.c(166): warning:  #223-D: function "Read_24LC64" declared implicitly
-pbd.c(171): warning:  #223-D: function "Write_24LC64" declared implicitly
-pbd.c(175): warning:  #223-D: function "Write_24LC64" declared implicitly
-pbd.c(164): warning:  #177-D: variable "value" was declared but never referenced
-pbd.c(182): warning:  #223-D: function "Write_24LC64" declared implicitly
-pbd.c(433): warning:  #177-D: variable "temp" was declared but never referenced
-linking...
-Program Size: Code=9512 RO-data=284 RW-data=1644 ZI-data=1236  
-User command #1: fromelf --bin ".\obj\PBD.axf" --output ".\obj\PBD.bin"
-User command #2: fromelf --text -c ".\obj\PBD.axf" --output ".\obj\PBD.txt"
-".\obj\PBD.axf" - 0 Error(s), 9 Warning(s).
-Load "C:\\Users\\ize\\Desktop\\pbd\\obj\\PBD.AXF" 
-Build target 'PBD'
-compiling pbd.c...
-pbd.c(87): warning:  #223-D: function "Read_24LC64" declared implicitly
-pbd.c(84): warning:  #177-D: variable "i" was declared but never referenced
-pbd.c(166): warning:  #223-D: function "Read_24LC64" declared implicitly
-pbd.c(171): warning:  #223-D: function "Write_24LC64" declared implicitly
-pbd.c(175): warning:  #223-D: function "Write_24LC64" declared implicitly
-pbd.c(164): warning:  #177-D: variable "value" was declared but never referenced
-pbd.c(182): warning:  #223-D: function "Write_24LC64" declared implicitly
-pbd.c(433): warning:  #177-D: variable "temp" was declared but never referenced
-linking...
-Program Size: Code=9508 RO-data=284 RW-data=1644 ZI-data=1236  
-User command #1: fromelf --bin ".\obj\PBD.axf" --output ".\obj\PBD.bin"
-User command #2: fromelf --text -c ".\obj\PBD.axf" --output ".\obj\PBD.txt"
-".\obj\PBD.axf" - 0 Error(s), 8 Warning(s).
-Load "C:\\Users\\ize\\Desktop\\pbd\\obj\\PBD.AXF" 
-Build target 'PBD'
-compiling pbd.c...
-pbd.c(88): warning:  #223-D: function "Read_24LC64" declared implicitly
-pbd.c(169): warning:  #186-D: pointless comparison of unsigned integer with zero
-pbd.c(84): warning:  #177-D: variable "i" was declared but never referenced
-pbd.c(271): warning:  #223-D: function "Read_24LC64" declared implicitly
-pbd.c(276): warning:  #223-D: function "Write_24LC64" declared implicitly
-pbd.c(280): warning:  #223-D: function "Write_24LC64" declared implicitly
-pbd.c(269): warning:  #177-D: variable "value" was declared but never referenced
-pbd.c(287): warning:  #223-D: function "Write_24LC64" declared implicitly
-pbd.c(538): warning:  #177-D: variable "temp" was declared but never referenced
-linking...
-Program Size: Code=10276 RO-data=284 RW-data=1644 ZI-data=1236  
-User command #1: fromelf --bin ".\obj\PBD.axf" --output ".\obj\PBD.bin"
-User command #2: fromelf --text -c ".\obj\PBD.axf" --output ".\obj\PBD.txt"
-".\obj\PBD.axf" - 0 Error(s), 9 Warning(s).
-Load "C:\\Users\\ize\\Desktop\\pbd\\obj\\PBD.AXF" 
-Build target 'PBD'
-compiling pbd.c...
-pbd.c(88): warning:  #223-D: function "Read_24LC64" declared implicitly
-pbd.c(169): warning:  #186-D: pointless comparison of unsigned integer with zero
 pbd.c(84): warning:  #177-D: variable "i" was declared but never referenced
 pbd.c(271): warning:  #223-D: function "Read_24LC64" declared implicitly
 pbd.c(276): warning:  #223-D: function "Write_24LC64" declared implicitly
@@ -1802,59 +18,17 @@ pbd.c(269): warning:  #177-D: variable "value" was declared but never referenced
 pbd.c(287): warning:  #223-D: function "Write_24LC64" declared implicitly
 pbd.c(539): warning:  #177-D: variable "temp" was declared but never referenced
 linking...
-Program Size: Code=10292 RO-data=284 RW-data=1644 ZI-data=1236  
-User command #1: fromelf --bin ".\obj\PBD.axf" --output ".\obj\PBD.bin"
-User command #2: fromelf --text -c ".\obj\PBD.axf" --output ".\obj\PBD.txt"
-".\obj\PBD.axf" - 0 Error(s), 9 Warning(s).
-Load "C:\\Users\\ize\\Desktop\\pbd\\obj\\PBD.AXF" 
-Build target 'PBD'
-compiling pbd.c...
-pbd.c(87): warning:  #223-D: function "Read_24LC64" declared implicitly
-pbd.c(84): warning:  #177-D: variable "i" was declared but never referenced
-pbd.c(270): warning:  #223-D: function "Read_24LC64" declared implicitly
-pbd.c(275): warning:  #223-D: function "Write_24LC64" declared implicitly
-pbd.c(279): warning:  #223-D: function "Write_24LC64" declared implicitly
-pbd.c(268): warning:  #177-D: variable "value" was declared but never referenced
-pbd.c(286): warning:  #223-D: function "Write_24LC64" declared implicitly
-pbd.c(538): warning:  #177-D: variable "temp" was declared but never referenced
-linking...
-Program Size: Code=10292 RO-data=284 RW-data=1644 ZI-data=1236  
-User command #1: fromelf --bin ".\obj\PBD.axf" --output ".\obj\PBD.bin"
-User command #2: fromelf --text -c ".\obj\PBD.axf" --output ".\obj\PBD.txt"
-".\obj\PBD.axf" - 0 Error(s), 8 Warning(s).
-Load "C:\\Users\\ize\\Desktop\\pbd\\obj\\PBD.AXF" 
-Load "C:\\Users\\ize\\Desktop\\pbd\\obj\\PBD.AXF" 
-Build target 'PBD'
-compiling pbd.c...
-pbd.c(87): warning:  #223-D: function "Read_24LC64" declared implicitly
-pbd.c(84): warning:  #177-D: variable "i" was declared but never referenced
-pbd.c(270): warning:  #223-D: function "Read_24LC64" declared implicitly
-pbd.c(275): warning:  #223-D: function "Write_24LC64" declared implicitly
-pbd.c(279): warning:  #223-D: function "Write_24LC64" declared implicitly
-pbd.c(268): warning:  #177-D: variable "value" was declared but never referenced
-pbd.c(286): warning:  #223-D: function "Write_24LC64" declared implicitly
-pbd.c(538): warning:  #177-D: variable "temp" was declared but never referenced
-linking...
-Program Size: Code=10296 RO-data=284 RW-data=1644 ZI-data=1236  
+Program Size: Code=10312 RO-data=284 RW-data=1644 ZI-data=1236  
 User command #1: fromelf --bin ".\obj\PBD.axf" --output ".\obj\PBD.bin"
 User command #2: fromelf --text -c ".\obj\PBD.axf" --output ".\obj\PBD.txt"
 ".\obj\PBD.axf" - 0 Error(s), 8 Warning(s).
 Load "C:\\Users\\ize\\Desktop\\pbd\\obj\\PBD.AXF" 
 Build target 'PBD'
-compiling pbd.c...
-pbd.c(87): warning:  #223-D: function "Read_24LC64" declared implicitly
-pbd.c(84): warning:  #177-D: variable "i" was declared but never referenced
-pbd.c(270): warning:  #223-D: function "Read_24LC64" declared implicitly
-pbd.c(275): warning:  #223-D: function "Write_24LC64" declared implicitly
-pbd.c(279): warning:  #223-D: function "Write_24LC64" declared implicitly
-pbd.c(268): warning:  #177-D: variable "value" was declared but never referenced
-pbd.c(286): warning:  #223-D: function "Write_24LC64" declared implicitly
-pbd.c(538): warning:  #177-D: variable "temp" was declared but never referenced
 linking...
-Program Size: Code=10292 RO-data=284 RW-data=1644 ZI-data=1236  
+Program Size: Code=10312 RO-data=284 RW-data=1644 ZI-data=1236  
 User command #1: fromelf --bin ".\obj\PBD.axf" --output ".\obj\PBD.bin"
 User command #2: fromelf --text -c ".\obj\PBD.axf" --output ".\obj\PBD.txt"
-".\obj\PBD.axf" - 0 Error(s), 8 Warning(s).
+".\obj\PBD.axf" - 0 Error(s), 0 Warning(s).
 Load "C:\\Users\\ize\\Desktop\\pbd\\obj\\PBD.AXF" 
 Build target 'PBD'
 compiling pbd.c...
@@ -1867,7 +41,7 @@ pbd.c(269): warning:  #177-D: variable "value" was declared but never referenced
 pbd.c(287): warning:  #223-D: function "Write_24LC64" declared implicitly
 pbd.c(539): warning:  #177-D: variable "temp" was declared but never referenced
 linking...
-Program Size: Code=10296 RO-data=284 RW-data=1644 ZI-data=1236  
+Program Size: Code=10312 RO-data=284 RW-data=1644 ZI-data=1236  
 User command #1: fromelf --bin ".\obj\PBD.axf" --output ".\obj\PBD.bin"
 User command #2: fromelf --text -c ".\obj\PBD.axf" --output ".\obj\PBD.txt"
 ".\obj\PBD.axf" - 0 Error(s), 8 Warning(s).
@@ -1887,4 +61,671 @@ Program Size: Code=10316 RO-data=284 RW-data=1644 ZI-data=1236
 User command #1: fromelf --bin ".\obj\PBD.axf" --output ".\obj\PBD.bin"
 User command #2: fromelf --text -c ".\obj\PBD.axf" --output ".\obj\PBD.txt"
 ".\obj\PBD.axf" - 0 Error(s), 8 Warning(s).
+Load "C:\\Users\\ize\\Desktop\\pbd\\obj\\PBD.AXF" 
+Build target 'PBD'
+compiling pbd.c...
+pbd.c(87): warning:  #223-D: function "Read_24LC64" declared implicitly
+pbd.c(84): warning:  #177-D: variable "i" was declared but never referenced
+pbd.c(271): warning:  #223-D: function "Read_24LC64" declared implicitly
+pbd.c(276): warning:  #223-D: function "Write_24LC64" declared implicitly
+pbd.c(280): warning:  #223-D: function "Write_24LC64" declared implicitly
+pbd.c(269): warning:  #177-D: variable "value" was declared but never referenced
+pbd.c(287): warning:  #223-D: function "Write_24LC64" declared implicitly
+pbd.c(539): warning:  #177-D: variable "temp" was declared but never referenced
+linking...
+Program Size: Code=10312 RO-data=284 RW-data=1644 ZI-data=1236  
+User command #1: fromelf --bin ".\obj\PBD.axf" --output ".\obj\PBD.bin"
+User command #2: fromelf --text -c ".\obj\PBD.axf" --output ".\obj\PBD.txt"
+".\obj\PBD.axf" - 0 Error(s), 8 Warning(s).
+Load "C:\\Users\\ize\\Desktop\\pbd\\obj\\PBD.AXF" 
+Build target 'PBD'
+compiling pbd.c...
+pbd.c(87): warning:  #223-D: function "Read_24LC64" declared implicitly
+pbd.c(84): warning:  #177-D: variable "i" was declared but never referenced
+pbd.c(271): warning:  #223-D: function "Read_24LC64" declared implicitly
+pbd.c(276): warning:  #223-D: function "Write_24LC64" declared implicitly
+pbd.c(280): warning:  #223-D: function "Write_24LC64" declared implicitly
+pbd.c(269): warning:  #177-D: variable "value" was declared but never referenced
+pbd.c(287): warning:  #223-D: function "Write_24LC64" declared implicitly
+pbd.c(539): warning:  #177-D: variable "temp" was declared but never referenced
+linking...
+Program Size: Code=10312 RO-data=284 RW-data=1644 ZI-data=1236  
+User command #1: fromelf --bin ".\obj\PBD.axf" --output ".\obj\PBD.bin"
+User command #2: fromelf --text -c ".\obj\PBD.axf" --output ".\obj\PBD.txt"
+".\obj\PBD.axf" - 0 Error(s), 8 Warning(s).
+Load "C:\\Users\\ize\\Desktop\\pbd\\obj\\PBD.AXF" 
+Build target 'PBD'
+compiling pbd.c...
+pbd.c(87): warning:  #223-D: function "Read_24LC64" declared implicitly
+pbd.c(84): warning:  #177-D: variable "i" was declared but never referenced
+pbd.c(271): warning:  #223-D: function "Read_24LC64" declared implicitly
+pbd.c(276): warning:  #223-D: function "Write_24LC64" declared implicitly
+pbd.c(280): warning:  #223-D: function "Write_24LC64" declared implicitly
+pbd.c(269): warning:  #177-D: variable "value" was declared but never referenced
+pbd.c(287): warning:  #223-D: function "Write_24LC64" declared implicitly
+pbd.c(539): warning:  #177-D: variable "temp" was declared but never referenced
+linking...
+Program Size: Code=10312 RO-data=284 RW-data=1644 ZI-data=1236  
+User command #1: fromelf --bin ".\obj\PBD.axf" --output ".\obj\PBD.bin"
+User command #2: fromelf --text -c ".\obj\PBD.axf" --output ".\obj\PBD.txt"
+".\obj\PBD.axf" - 0 Error(s), 8 Warning(s).
+Load "C:\\Users\\ize\\Desktop\\pbd\\obj\\PBD.AXF" 
+Build target 'PBD'
+compiling pbd.c...
+pbd.c(87): warning:  #223-D: function "Read_24LC64" declared implicitly
+pbd.c(84): warning:  #177-D: variable "i" was declared but never referenced
+pbd.c(271): warning:  #223-D: function "Read_24LC64" declared implicitly
+pbd.c(276): warning:  #223-D: function "Write_24LC64" declared implicitly
+pbd.c(280): warning:  #223-D: function "Write_24LC64" declared implicitly
+pbd.c(269): warning:  #177-D: variable "value" was declared but never referenced
+pbd.c(287): warning:  #223-D: function "Write_24LC64" declared implicitly
+pbd.c(539): warning:  #177-D: variable "temp" was declared but never referenced
+linking...
+Program Size: Code=10316 RO-data=284 RW-data=1644 ZI-data=1236  
+User command #1: fromelf --bin ".\obj\PBD.axf" --output ".\obj\PBD.bin"
+User command #2: fromelf --text -c ".\obj\PBD.axf" --output ".\obj\PBD.txt"
+".\obj\PBD.axf" - 0 Error(s), 8 Warning(s).
+Load "C:\\Users\\ize\\Desktop\\pbd\\obj\\PBD.AXF" 
+Build target 'PBD'
+compiling pbd.c...
+pbd.c(87): warning:  #223-D: function "Read_24LC64" declared implicitly
+pbd.c(84): warning:  #177-D: variable "i" was declared but never referenced
+pbd.c(271): warning:  #223-D: function "Read_24LC64" declared implicitly
+pbd.c(276): warning:  #223-D: function "Write_24LC64" declared implicitly
+pbd.c(280): warning:  #223-D: function "Write_24LC64" declared implicitly
+pbd.c(269): warning:  #177-D: variable "value" was declared but never referenced
+pbd.c(287): warning:  #223-D: function "Write_24LC64" declared implicitly
+pbd.c(538): warning:  #177-D: variable "lcd" was declared but never referenced
+pbd.c(539): warning:  #177-D: variable "temp" was declared but never referenced
+linking...
+Program Size: Code=3964 RO-data=224 RW-data=124 ZI-data=1236  
+User command #1: fromelf --bin ".\obj\PBD.axf" --output ".\obj\PBD.bin"
+User command #2: fromelf --text -c ".\obj\PBD.axf" --output ".\obj\PBD.txt"
+".\obj\PBD.axf" - 0 Error(s), 9 Warning(s).
+Load "C:\\Users\\ize\\Desktop\\pbd\\obj\\PBD.AXF" 
+Build target 'PBD'
+compiling pbd.c...
+pbd.c(19): warning:  #186-D: pointless comparison of unsigned integer with zero
+pbd.c(87): warning:  #223-D: function "Read_24LC64" declared implicitly
+pbd.c(84): warning:  #177-D: variable "i" was declared but never referenced
+pbd.c(271): warning:  #223-D: function "Read_24LC64" declared implicitly
+pbd.c(276): warning:  #223-D: function "Write_24LC64" declared implicitly
+pbd.c(280): warning:  #223-D: function "Write_24LC64" declared implicitly
+pbd.c(269): warning:  #177-D: variable "value" was declared but never referenced
+pbd.c(287): warning:  #223-D: function "Write_24LC64" declared implicitly
+pbd.c(538): warning:  #177-D: variable "lcd" was declared but never referenced
+pbd.c(539): warning:  #177-D: variable "temp" was declared but never referenced
+linking...
+Program Size: Code=3952 RO-data=224 RW-data=124 ZI-data=1236  
+User command #1: fromelf --bin ".\obj\PBD.axf" --output ".\obj\PBD.bin"
+User command #2: fromelf --text -c ".\obj\PBD.axf" --output ".\obj\PBD.txt"
+".\obj\PBD.axf" - 0 Error(s), 10 Warning(s).
+Load "C:\\Users\\ize\\Desktop\\pbd\\obj\\PBD.AXF" 
+Build target 'PBD'
+compiling pbd.c...
+pbd.c(87): warning:  #223-D: function "Read_24LC64" declared implicitly
+pbd.c(84): warning:  #177-D: variable "i" was declared but never referenced
+pbd.c(271): warning:  #223-D: function "Read_24LC64" declared implicitly
+pbd.c(276): warning:  #223-D: function "Write_24LC64" declared implicitly
+pbd.c(280): warning:  #223-D: function "Write_24LC64" declared implicitly
+pbd.c(269): warning:  #177-D: variable "value" was declared but never referenced
+pbd.c(287): warning:  #223-D: function "Write_24LC64" declared implicitly
+pbd.c(538): warning:  #177-D: variable "lcd" was declared but never referenced
+pbd.c(539): warning:  #177-D: variable "temp" was declared but never referenced
+linking...
+Program Size: Code=3960 RO-data=224 RW-data=124 ZI-data=1236  
+User command #1: fromelf --bin ".\obj\PBD.axf" --output ".\obj\PBD.bin"
+User command #2: fromelf --text -c ".\obj\PBD.axf" --output ".\obj\PBD.txt"
+".\obj\PBD.axf" - 0 Error(s), 9 Warning(s).
+Load "C:\\Users\\ize\\Desktop\\pbd\\obj\\PBD.AXF" 
+Build target 'PBD'
+compiling pbd.c...
+pbd.c(87): warning:  #223-D: function "Read_24LC64" declared implicitly
+pbd.c(84): warning:  #177-D: variable "i" was declared but never referenced
+pbd.c(271): warning:  #223-D: function "Read_24LC64" declared implicitly
+pbd.c(276): warning:  #223-D: function "Write_24LC64" declared implicitly
+pbd.c(280): warning:  #223-D: function "Write_24LC64" declared implicitly
+pbd.c(269): warning:  #177-D: variable "value" was declared but never referenced
+pbd.c(287): warning:  #223-D: function "Write_24LC64" declared implicitly
+pbd.c(538): warning:  #177-D: variable "lcd" was declared but never referenced
+pbd.c(539): warning:  #177-D: variable "temp" was declared but never referenced
+linking...
+Program Size: Code=3964 RO-data=224 RW-data=124 ZI-data=1236  
+User command #1: fromelf --bin ".\obj\PBD.axf" --output ".\obj\PBD.bin"
+User command #2: fromelf --text -c ".\obj\PBD.axf" --output ".\obj\PBD.txt"
+".\obj\PBD.axf" - 0 Error(s), 9 Warning(s).
+Load "C:\\Users\\ize\\Desktop\\pbd\\obj\\PBD.AXF" 
+Build target 'PBD'
+compiling pbd.c...
+pbd.c(87): warning:  #223-D: function "Read_24LC64" declared implicitly
+pbd.c(84): warning:  #177-D: variable "i" was declared but never referenced
+pbd.c(271): warning:  #223-D: function "Read_24LC64" declared implicitly
+pbd.c(276): warning:  #223-D: function "Write_24LC64" declared implicitly
+pbd.c(280): warning:  #223-D: function "Write_24LC64" declared implicitly
+pbd.c(269): warning:  #177-D: variable "value" was declared but never referenced
+pbd.c(287): warning:  #223-D: function "Write_24LC64" declared implicitly
+pbd.c(539): warning:  #177-D: variable "temp" was declared but never referenced
+linking...
+Program Size: Code=10316 RO-data=284 RW-data=1644 ZI-data=1236  
+User command #1: fromelf --bin ".\obj\PBD.axf" --output ".\obj\PBD.bin"
+User command #2: fromelf --text -c ".\obj\PBD.axf" --output ".\obj\PBD.txt"
+".\obj\PBD.axf" - 0 Error(s), 8 Warning(s).
+Load "C:\\Users\\ize\\Desktop\\pbd\\obj\\PBD.AXF" 
+Build target 'PBD'
+compiling pbd.c...
+pbd.c(87): warning:  #223-D: function "Read_24LC64" declared implicitly
+pbd.c(84): warning:  #177-D: variable "i" was declared but never referenced
+pbd.c(271): warning:  #223-D: function "Read_24LC64" declared implicitly
+pbd.c(276): warning:  #223-D: function "Write_24LC64" declared implicitly
+pbd.c(280): warning:  #223-D: function "Write_24LC64" declared implicitly
+pbd.c(269): warning:  #177-D: variable "value" was declared but never referenced
+pbd.c(287): warning:  #223-D: function "Write_24LC64" declared implicitly
+pbd.c(539): warning:  #177-D: variable "temp" was declared but never referenced
+linking...
+Program Size: Code=10316 RO-data=284 RW-data=1644 ZI-data=1236  
+User command #1: fromelf --bin ".\obj\PBD.axf" --output ".\obj\PBD.bin"
+User command #2: fromelf --text -c ".\obj\PBD.axf" --output ".\obj\PBD.txt"
+".\obj\PBD.axf" - 0 Error(s), 8 Warning(s).
+Load "C:\\Users\\ize\\Desktop\\pbd\\obj\\PBD.AXF" 
+Build target 'PBD'
+compiling pbd.c...
+pbd.c(87): warning:  #223-D: function "Read_24LC64" declared implicitly
+pbd.c(84): warning:  #177-D: variable "i" was declared but never referenced
+pbd.c(271): warning:  #223-D: function "Read_24LC64" declared implicitly
+pbd.c(276): warning:  #223-D: function "Write_24LC64" declared implicitly
+pbd.c(280): warning:  #223-D: function "Write_24LC64" declared implicitly
+pbd.c(269): warning:  #177-D: variable "value" was declared but never referenced
+pbd.c(287): warning:  #223-D: function "Write_24LC64" declared implicitly
+pbd.c(539): warning:  #177-D: variable "temp" was declared but never referenced
+linking...
+Program Size: Code=10316 RO-data=284 RW-data=1644 ZI-data=1236  
+User command #1: fromelf --bin ".\obj\PBD.axf" --output ".\obj\PBD.bin"
+User command #2: fromelf --text -c ".\obj\PBD.axf" --output ".\obj\PBD.txt"
+".\obj\PBD.axf" - 0 Error(s), 8 Warning(s).
+Load "C:\\Users\\ize\\Desktop\\pbd\\obj\\PBD.AXF" 
+Build target 'PBD'
+compiling pbd.c...
+pbd.c(87): warning:  #223-D: function "Read_24LC64" declared implicitly
+pbd.c(84): warning:  #177-D: variable "i" was declared but never referenced
+pbd.c(271): warning:  #223-D: function "Read_24LC64" declared implicitly
+pbd.c(276): warning:  #223-D: function "Write_24LC64" declared implicitly
+pbd.c(280): warning:  #223-D: function "Write_24LC64" declared implicitly
+pbd.c(269): warning:  #177-D: variable "value" was declared but never referenced
+pbd.c(287): warning:  #223-D: function "Write_24LC64" declared implicitly
+pbd.c(539): warning:  #177-D: variable "temp" was declared but never referenced
+linking...
+Program Size: Code=10312 RO-data=284 RW-data=1644 ZI-data=1236  
+User command #1: fromelf --bin ".\obj\PBD.axf" --output ".\obj\PBD.bin"
+User command #2: fromelf --text -c ".\obj\PBD.axf" --output ".\obj\PBD.txt"
+".\obj\PBD.axf" - 0 Error(s), 8 Warning(s).
+Load "C:\\Users\\ize\\Desktop\\pbd\\obj\\PBD.AXF" 
+Build target 'PBD'
+compiling pbd.c...
+pbd.c(87): warning:  #223-D: function "Read_24LC64" declared implicitly
+pbd.c(84): warning:  #177-D: variable "i" was declared but never referenced
+pbd.c(271): warning:  #223-D: function "Read_24LC64" declared implicitly
+pbd.c(276): warning:  #223-D: function "Write_24LC64" declared implicitly
+pbd.c(280): warning:  #223-D: function "Write_24LC64" declared implicitly
+pbd.c(269): warning:  #177-D: variable "value" was declared but never referenced
+pbd.c(287): warning:  #223-D: function "Write_24LC64" declared implicitly
+pbd.c(539): warning:  #177-D: variable "temp" was declared but never referenced
+linking...
+Program Size: Code=10316 RO-data=284 RW-data=1644 ZI-data=1236  
+User command #1: fromelf --bin ".\obj\PBD.axf" --output ".\obj\PBD.bin"
+User command #2: fromelf --text -c ".\obj\PBD.axf" --output ".\obj\PBD.txt"
+".\obj\PBD.axf" - 0 Error(s), 8 Warning(s).
+Load "C:\\Users\\ize\\Desktop\\pbd\\obj\\PBD.AXF" 
+Build target 'PBD'
+compiling pbd.c...
+pbd.c(87): warning:  #223-D: function "Read_24LC64" declared implicitly
+pbd.c(84): warning:  #177-D: variable "i" was declared but never referenced
+pbd.c(271): warning:  #223-D: function "Read_24LC64" declared implicitly
+pbd.c(276): warning:  #223-D: function "Write_24LC64" declared implicitly
+pbd.c(280): warning:  #223-D: function "Write_24LC64" declared implicitly
+pbd.c(269): warning:  #177-D: variable "value" was declared but never referenced
+pbd.c(287): warning:  #223-D: function "Write_24LC64" declared implicitly
+pbd.c(539): warning:  #177-D: variable "temp" was declared but never referenced
+linking...
+Program Size: Code=10316 RO-data=284 RW-data=1644 ZI-data=1236  
+User command #1: fromelf --bin ".\obj\PBD.axf" --output ".\obj\PBD.bin"
+User command #2: fromelf --text -c ".\obj\PBD.axf" --output ".\obj\PBD.txt"
+".\obj\PBD.axf" - 0 Error(s), 8 Warning(s).
+Load "C:\\Users\\ize\\Desktop\\pbd\\obj\\PBD.AXF" 
+Build target 'PBD'
+compiling pbd.c...
+pbd.c(87): warning:  #223-D: function "Read_24LC64" declared implicitly
+pbd.c(84): warning:  #177-D: variable "i" was declared but never referenced
+pbd.c(271): warning:  #223-D: function "Read_24LC64" declared implicitly
+pbd.c(276): warning:  #223-D: function "Write_24LC64" declared implicitly
+pbd.c(280): warning:  #223-D: function "Write_24LC64" declared implicitly
+pbd.c(269): warning:  #177-D: variable "value" was declared but never referenced
+pbd.c(287): warning:  #223-D: function "Write_24LC64" declared implicitly
+pbd.c(539): warning:  #177-D: variable "temp" was declared but never referenced
+linking...
+Program Size: Code=10316 RO-data=284 RW-data=1644 ZI-data=1236  
+User command #1: fromelf --bin ".\obj\PBD.axf" --output ".\obj\PBD.bin"
+User command #2: fromelf --text -c ".\obj\PBD.axf" --output ".\obj\PBD.txt"
+".\obj\PBD.axf" - 0 Error(s), 8 Warning(s).
+Load "C:\\Users\\ize\\Desktop\\pbd\\obj\\PBD.AXF" 
+Load "C:\\Users\\ize\\Desktop\\pbd\\obj\\PBD.AXF" 
+Build target 'PBD'
+compiling pbd.c...
+pbd.c(87): warning:  #223-D: function "Read_24LC64" declared implicitly
+pbd.c(84): warning:  #177-D: variable "i" was declared but never referenced
+pbd.c(271): warning:  #223-D: function "Read_24LC64" declared implicitly
+pbd.c(276): warning:  #223-D: function "Write_24LC64" declared implicitly
+pbd.c(280): warning:  #223-D: function "Write_24LC64" declared implicitly
+pbd.c(269): warning:  #177-D: variable "value" was declared but never referenced
+pbd.c(287): warning:  #223-D: function "Write_24LC64" declared implicitly
+pbd.c(539): warning:  #177-D: variable "temp" was declared but never referenced
+linking...
+Program Size: Code=10316 RO-data=284 RW-data=1644 ZI-data=1236  
+User command #1: fromelf --bin ".\obj\PBD.axf" --output ".\obj\PBD.bin"
+User command #2: fromelf --text -c ".\obj\PBD.axf" --output ".\obj\PBD.txt"
+".\obj\PBD.axf" - 0 Error(s), 8 Warning(s).
+Load "C:\\Users\\ize\\Desktop\\pbd\\obj\\PBD.AXF" 
+Build target 'PBD'
+compiling pbd.c...
+pbd.c(87): warning:  #223-D: function "Read_24LC64" declared implicitly
+pbd.c(84): warning:  #177-D: variable "i" was declared but never referenced
+pbd.c(271): warning:  #223-D: function "Read_24LC64" declared implicitly
+pbd.c(276): warning:  #223-D: function "Write_24LC64" declared implicitly
+pbd.c(280): warning:  #223-D: function "Write_24LC64" declared implicitly
+pbd.c(269): warning:  #177-D: variable "value" was declared but never referenced
+pbd.c(287): warning:  #223-D: function "Write_24LC64" declared implicitly
+pbd.c(539): warning:  #177-D: variable "temp" was declared but never referenced
+linking...
+Program Size: Code=10316 RO-data=284 RW-data=1644 ZI-data=1236  
+User command #1: fromelf --bin ".\obj\PBD.axf" --output ".\obj\PBD.bin"
+User command #2: fromelf --text -c ".\obj\PBD.axf" --output ".\obj\PBD.txt"
+".\obj\PBD.axf" - 0 Error(s), 8 Warning(s).
+Load "C:\\Users\\ize\\Desktop\\pbd\\obj\\PBD.AXF" 
+Build target 'PBD'
+compiling pbd.c...
+pbd.c(87): warning:  #223-D: function "Read_24LC64" declared implicitly
+pbd.c(84): warning:  #177-D: variable "i" was declared but never referenced
+pbd.c(271): warning:  #223-D: function "Read_24LC64" declared implicitly
+pbd.c(276): warning:  #223-D: function "Write_24LC64" declared implicitly
+pbd.c(280): warning:  #223-D: function "Write_24LC64" declared implicitly
+pbd.c(269): warning:  #177-D: variable "value" was declared but never referenced
+pbd.c(287): warning:  #223-D: function "Write_24LC64" declared implicitly
+pbd.c(539): warning:  #177-D: variable "temp" was declared but never referenced
+linking...
+Program Size: Code=10316 RO-data=284 RW-data=1644 ZI-data=1236  
+User command #1: fromelf --bin ".\obj\PBD.axf" --output ".\obj\PBD.bin"
+User command #2: fromelf --text -c ".\obj\PBD.axf" --output ".\obj\PBD.txt"
+".\obj\PBD.axf" - 0 Error(s), 8 Warning(s).
+Load "C:\\Users\\ize\\Desktop\\pbd\\obj\\PBD.AXF" 
+Build target 'PBD'
+compiling pbd.c...
+pbd.c(87): warning:  #223-D: function "Read_24LC64" declared implicitly
+pbd.c(84): warning:  #177-D: variable "i" was declared but never referenced
+pbd.c(271): warning:  #223-D: function "Read_24LC64" declared implicitly
+pbd.c(276): warning:  #223-D: function "Write_24LC64" declared implicitly
+pbd.c(280): warning:  #223-D: function "Write_24LC64" declared implicitly
+pbd.c(269): warning:  #177-D: variable "value" was declared but never referenced
+pbd.c(287): warning:  #223-D: function "Write_24LC64" declared implicitly
+pbd.c(539): warning:  #177-D: variable "temp" was declared but never referenced
+linking...
+Program Size: Code=10316 RO-data=284 RW-data=1644 ZI-data=1236  
+User command #1: fromelf --bin ".\obj\PBD.axf" --output ".\obj\PBD.bin"
+User command #2: fromelf --text -c ".\obj\PBD.axf" --output ".\obj\PBD.txt"
+".\obj\PBD.axf" - 0 Error(s), 8 Warning(s).
+Load "C:\\Users\\ize\\Desktop\\pbd\\obj\\PBD.AXF" 
+Build target 'PBD'
+compiling pbd.c...
+pbd.c(87): warning:  #223-D: function "Read_24LC64" declared implicitly
+pbd.c(84): warning:  #177-D: variable "i" was declared but never referenced
+pbd.c(271): warning:  #223-D: function "Read_24LC64" declared implicitly
+pbd.c(276): warning:  #223-D: function "Write_24LC64" declared implicitly
+pbd.c(280): warning:  #223-D: function "Write_24LC64" declared implicitly
+pbd.c(269): warning:  #177-D: variable "value" was declared but never referenced
+pbd.c(287): warning:  #223-D: function "Write_24LC64" declared implicitly
+pbd.c(539): warning:  #177-D: variable "temp" was declared but never referenced
+linking...
+Program Size: Code=10308 RO-data=284 RW-data=1644 ZI-data=1236  
+User command #1: fromelf --bin ".\obj\PBD.axf" --output ".\obj\PBD.bin"
+User command #2: fromelf --text -c ".\obj\PBD.axf" --output ".\obj\PBD.txt"
+".\obj\PBD.axf" - 0 Error(s), 8 Warning(s).
+Load "C:\\Users\\ize\\Desktop\\pbd\\obj\\PBD.AXF" 
+Build target 'PBD'
+compiling pbd.c...
+pbd.c(87): warning:  #223-D: function "Read_24LC64" declared implicitly
+pbd.c(84): warning:  #177-D: variable "i" was declared but never referenced
+pbd.c(271): warning:  #223-D: function "Read_24LC64" declared implicitly
+pbd.c(276): warning:  #223-D: function "Write_24LC64" declared implicitly
+pbd.c(280): warning:  #223-D: function "Write_24LC64" declared implicitly
+pbd.c(269): warning:  #177-D: variable "value" was declared but never referenced
+pbd.c(287): warning:  #223-D: function "Write_24LC64" declared implicitly
+pbd.c(539): warning:  #177-D: variable "temp" was declared but never referenced
+linking...
+Program Size: Code=10312 RO-data=284 RW-data=1644 ZI-data=1236  
+User command #1: fromelf --bin ".\obj\PBD.axf" --output ".\obj\PBD.bin"
+User command #2: fromelf --text -c ".\obj\PBD.axf" --output ".\obj\PBD.txt"
+".\obj\PBD.axf" - 0 Error(s), 8 Warning(s).
+Load "C:\\Users\\ize\\Desktop\\pbd\\obj\\PBD.AXF" 
+Build target 'PBD'
+compiling pbd.c...
+pbd.c(87): warning:  #223-D: function "Read_24LC64" declared implicitly
+pbd.c(84): warning:  #177-D: variable "i" was declared but never referenced
+pbd.c(271): warning:  #223-D: function "Read_24LC64" declared implicitly
+pbd.c(276): warning:  #223-D: function "Write_24LC64" declared implicitly
+pbd.c(280): warning:  #223-D: function "Write_24LC64" declared implicitly
+pbd.c(269): warning:  #177-D: variable "value" was declared but never referenced
+pbd.c(287): warning:  #223-D: function "Write_24LC64" declared implicitly
+pbd.c(539): warning:  #177-D: variable "temp" was declared but never referenced
+linking...
+Program Size: Code=10316 RO-data=284 RW-data=1644 ZI-data=1236  
+User command #1: fromelf --bin ".\obj\PBD.axf" --output ".\obj\PBD.bin"
+User command #2: fromelf --text -c ".\obj\PBD.axf" --output ".\obj\PBD.txt"
+".\obj\PBD.axf" - 0 Error(s), 8 Warning(s).
+Load "C:\\Users\\ize\\Desktop\\pbd\\obj\\PBD.AXF" 
+Build target 'PBD'
+compiling pbd.c...
+pbd.c(87): warning:  #223-D: function "Read_24LC64" declared implicitly
+pbd.c(84): warning:  #177-D: variable "i" was declared but never referenced
+pbd.c(271): warning:  #223-D: function "Read_24LC64" declared implicitly
+pbd.c(276): warning:  #223-D: function "Write_24LC64" declared implicitly
+pbd.c(280): warning:  #223-D: function "Write_24LC64" declared implicitly
+pbd.c(269): warning:  #177-D: variable "value" was declared but never referenced
+pbd.c(287): warning:  #223-D: function "Write_24LC64" declared implicitly
+pbd.c(539): warning:  #177-D: variable "temp" was declared but never referenced
+linking...
+Program Size: Code=10316 RO-data=284 RW-data=1644 ZI-data=1236  
+User command #1: fromelf --bin ".\obj\PBD.axf" --output ".\obj\PBD.bin"
+User command #2: fromelf --text -c ".\obj\PBD.axf" --output ".\obj\PBD.txt"
+".\obj\PBD.axf" - 0 Error(s), 8 Warning(s).
+Load "C:\\Users\\ize\\Desktop\\pbd\\obj\\PBD.AXF" 
+Build target 'PBD'
+compiling pbd.c...
+pbd.c(87): warning:  #223-D: function "Read_24LC64" declared implicitly
+pbd.c(84): warning:  #177-D: variable "i" was declared but never referenced
+pbd.c(271): warning:  #223-D: function "Read_24LC64" declared implicitly
+pbd.c(276): warning:  #223-D: function "Write_24LC64" declared implicitly
+pbd.c(280): warning:  #223-D: function "Write_24LC64" declared implicitly
+pbd.c(269): warning:  #177-D: variable "value" was declared but never referenced
+pbd.c(287): warning:  #223-D: function "Write_24LC64" declared implicitly
+pbd.c(539): warning:  #177-D: variable "temp" was declared but never referenced
+linking...
+Program Size: Code=10316 RO-data=284 RW-data=1644 ZI-data=1236  
+User command #1: fromelf --bin ".\obj\PBD.axf" --output ".\obj\PBD.bin"
+User command #2: fromelf --text -c ".\obj\PBD.axf" --output ".\obj\PBD.txt"
+".\obj\PBD.axf" - 0 Error(s), 8 Warning(s).
+Load "C:\\Users\\ize\\Desktop\\pbd\\obj\\PBD.AXF" 
+Build target 'PBD'
+compiling pbd.c...
+pbd.c(87): warning:  #223-D: function "Read_24LC64" declared implicitly
+pbd.c(84): warning:  #177-D: variable "i" was declared but never referenced
+pbd.c(271): warning:  #223-D: function "Read_24LC64" declared implicitly
+pbd.c(276): warning:  #223-D: function "Write_24LC64" declared implicitly
+pbd.c(280): warning:  #223-D: function "Write_24LC64" declared implicitly
+pbd.c(269): warning:  #177-D: variable "value" was declared but never referenced
+pbd.c(287): warning:  #223-D: function "Write_24LC64" declared implicitly
+pbd.c(539): warning:  #177-D: variable "temp" was declared but never referenced
+linking...
+Program Size: Code=10320 RO-data=284 RW-data=1644 ZI-data=1236  
+User command #1: fromelf --bin ".\obj\PBD.axf" --output ".\obj\PBD.bin"
+User command #2: fromelf --text -c ".\obj\PBD.axf" --output ".\obj\PBD.txt"
+".\obj\PBD.axf" - 0 Error(s), 8 Warning(s).
+Load "C:\\Users\\ize\\Desktop\\pbd\\obj\\PBD.AXF" 
+Build target 'PBD'
+compiling pbd.c...
+pbd.c(87): warning:  #223-D: function "Read_24LC64" declared implicitly
+pbd.c(84): warning:  #177-D: variable "i" was declared but never referenced
+pbd.c(271): warning:  #223-D: function "Read_24LC64" declared implicitly
+pbd.c(276): warning:  #223-D: function "Write_24LC64" declared implicitly
+pbd.c(280): warning:  #223-D: function "Write_24LC64" declared implicitly
+pbd.c(269): warning:  #177-D: variable "value" was declared but never referenced
+pbd.c(287): warning:  #223-D: function "Write_24LC64" declared implicitly
+pbd.c(539): warning:  #177-D: variable "temp" was declared but never referenced
+linking...
+Program Size: Code=10320 RO-data=284 RW-data=1644 ZI-data=1236  
+User command #1: fromelf --bin ".\obj\PBD.axf" --output ".\obj\PBD.bin"
+User command #2: fromelf --text -c ".\obj\PBD.axf" --output ".\obj\PBD.txt"
+".\obj\PBD.axf" - 0 Error(s), 8 Warning(s).
+Load "C:\\Users\\ize\\Desktop\\pbd\\obj\\PBD.AXF" 
+Build target 'PBD'
+compiling pbd.c...
+pbd.c(87): warning:  #223-D: function "Read_24LC64" declared implicitly
+pbd.c(84): warning:  #177-D: variable "i" was declared but never referenced
+pbd.c(271): warning:  #223-D: function "Read_24LC64" declared implicitly
+pbd.c(276): warning:  #223-D: function "Write_24LC64" declared implicitly
+pbd.c(280): warning:  #223-D: function "Write_24LC64" declared implicitly
+pbd.c(269): warning:  #177-D: variable "value" was declared but never referenced
+pbd.c(287): warning:  #223-D: function "Write_24LC64" declared implicitly
+pbd.c(341): warning:  #223-D: function "print_to_lcd" declared implicitly
+pbd.c(348): warning:  #223-D: function "print_to_lcd" declared implicitly
+pbd.c(360): warning:  #223-D: function "print_to_lcd" declared implicitly
+pbd.c(538): error:  #159: declaration is incompatible with previous "print_to_lcd" (declared at line 341)
+pbd.c(541): error:  #20: identifier "lcd" is undefined
+pbd.c(542): error:  #20: identifier "i" is undefined
+pbd.c(551): warning:  #177-D: variable "lcd" was declared but never referenced
+pbd.c(552): warning:  #177-D: variable "temp" was declared but never referenced
+Target not created
+Build target 'PBD'
+compiling pbd.c...
+pbd.c(87): warning:  #223-D: function "Read_24LC64" declared implicitly
+pbd.c(84): warning:  #177-D: variable "i" was declared but never referenced
+pbd.c(271): warning:  #223-D: function "Read_24LC64" declared implicitly
+pbd.c(276): warning:  #223-D: function "Write_24LC64" declared implicitly
+pbd.c(280): warning:  #223-D: function "Write_24LC64" declared implicitly
+pbd.c(269): warning:  #177-D: variable "value" was declared but never referenced
+pbd.c(287): warning:  #223-D: function "Write_24LC64" declared implicitly
+pbd.c(341): warning:  #223-D: function "print_to_lcd" declared implicitly
+pbd.c(348): warning:  #223-D: function "print_to_lcd" declared implicitly
+pbd.c(360): warning:  #223-D: function "print_to_lcd" declared implicitly
+pbd.c(540): error:  #159: declaration is incompatible with previous "print_to_lcd" (declared at line 341)
+pbd.c(544): error:  #20: identifier "i" is undefined
+Target not created
+Build target 'PBD'
+compiling pbd.c...
+pbd.c(87): warning:  #223-D: function "Read_24LC64" declared implicitly
+pbd.c(84): warning:  #177-D: variable "i" was declared but never referenced
+pbd.c(271): warning:  #223-D: function "Read_24LC64" declared implicitly
+pbd.c(276): warning:  #223-D: function "Write_24LC64" declared implicitly
+pbd.c(280): warning:  #223-D: function "Write_24LC64" declared implicitly
+pbd.c(269): warning:  #177-D: variable "value" was declared but never referenced
+pbd.c(287): warning:  #223-D: function "Write_24LC64" declared implicitly
+pbd.c(341): warning:  #223-D: function "print_to_lcd" declared implicitly
+pbd.c(348): warning:  #223-D: function "print_to_lcd" declared implicitly
+pbd.c(360): warning:  #223-D: function "print_to_lcd" declared implicitly
+pbd.c(540): error:  #159: declaration is incompatible with previous "print_to_lcd" (declared at line 341)
+Target not created
+Build target 'PBD'
+compiling pbd.c...
+pbd.c(88): warning:  #223-D: function "Read_24LC64" declared implicitly
+pbd.c(85): warning:  #177-D: variable "i" was declared but never referenced
+pbd.c(272): warning:  #223-D: function "Read_24LC64" declared implicitly
+pbd.c(277): warning:  #223-D: function "Write_24LC64" declared implicitly
+pbd.c(281): warning:  #223-D: function "Write_24LC64" declared implicitly
+pbd.c(270): warning:  #177-D: variable "value" was declared but never referenced
+pbd.c(288): warning:  #223-D: function "Write_24LC64" declared implicitly
+linking...
+Program Size: Code=10352 RO-data=284 RW-data=1644 ZI-data=1284  
+User command #1: fromelf --bin ".\obj\PBD.axf" --output ".\obj\PBD.bin"
+User command #2: fromelf --text -c ".\obj\PBD.axf" --output ".\obj\PBD.txt"
+".\obj\PBD.axf" - 0 Error(s), 7 Warning(s).
+Load "C:\\Users\\ize\\Desktop\\pbd\\obj\\PBD.AXF" 
+Build target 'PBD'
+compiling pbd.c...
+pbd.c(88): warning:  #223-D: function "Read_24LC64" declared implicitly
+pbd.c(85): warning:  #177-D: variable "i" was declared but never referenced
+pbd.c(272): warning:  #223-D: function "Read_24LC64" declared implicitly
+pbd.c(277): warning:  #223-D: function "Write_24LC64" declared implicitly
+pbd.c(281): warning:  #223-D: function "Write_24LC64" declared implicitly
+pbd.c(270): warning:  #177-D: variable "value" was declared but never referenced
+pbd.c(288): warning:  #223-D: function "Write_24LC64" declared implicitly
+linking...
+Program Size: Code=10352 RO-data=284 RW-data=1644 ZI-data=1284  
+User command #1: fromelf --bin ".\obj\PBD.axf" --output ".\obj\PBD.bin"
+User command #2: fromelf --text -c ".\obj\PBD.axf" --output ".\obj\PBD.txt"
+".\obj\PBD.axf" - 0 Error(s), 7 Warning(s).
+Load "C:\\Users\\ize\\Desktop\\pbd\\obj\\PBD.AXF" 
+Build target 'PBD'
+compiling pbd.c...
+pbd.c(88): warning:  #223-D: function "Read_24LC64" declared implicitly
+pbd.c(85): warning:  #177-D: variable "i" was declared but never referenced
+pbd.c(272): warning:  #223-D: function "Read_24LC64" declared implicitly
+pbd.c(277): warning:  #223-D: function "Write_24LC64" declared implicitly
+pbd.c(281): warning:  #223-D: function "Write_24LC64" declared implicitly
+pbd.c(270): warning:  #177-D: variable "value" was declared but never referenced
+pbd.c(288): warning:  #223-D: function "Write_24LC64" declared implicitly
+linking...
+Program Size: Code=10352 RO-data=284 RW-data=1644 ZI-data=1284  
+User command #1: fromelf --bin ".\obj\PBD.axf" --output ".\obj\PBD.bin"
+User command #2: fromelf --text -c ".\obj\PBD.axf" --output ".\obj\PBD.txt"
+".\obj\PBD.axf" - 0 Error(s), 7 Warning(s).
+Load "C:\\Users\\ize\\Desktop\\pbd\\obj\\PBD.AXF" 
+Build target 'PBD'
+compiling pbd.c...
+pbd.c(88): warning:  #223-D: function "Read_24LC64" declared implicitly
+pbd.c(85): warning:  #177-D: variable "i" was declared but never referenced
+pbd.c(272): warning:  #223-D: function "Read_24LC64" declared implicitly
+pbd.c(277): warning:  #223-D: function "Write_24LC64" declared implicitly
+pbd.c(281): warning:  #223-D: function "Write_24LC64" declared implicitly
+pbd.c(270): warning:  #177-D: variable "value" was declared but never referenced
+pbd.c(288): warning:  #223-D: function "Write_24LC64" declared implicitly
+linking...
+Program Size: Code=10352 RO-data=284 RW-data=1644 ZI-data=1284  
+User command #1: fromelf --bin ".\obj\PBD.axf" --output ".\obj\PBD.bin"
+User command #2: fromelf --text -c ".\obj\PBD.axf" --output ".\obj\PBD.txt"
+".\obj\PBD.axf" - 0 Error(s), 7 Warning(s).
+Load "C:\\Users\\ize\\Desktop\\pbd\\obj\\PBD.AXF" 
+Load "C:\\Users\\ize\\Desktop\\pbd\\obj\\PBD.AXF" 
+Build target 'PBD'
+compiling pbd.c...
+pbd.c(88): warning:  #223-D: function "Read_24LC64" declared implicitly
+pbd.c(85): warning:  #177-D: variable "i" was declared but never referenced
+pbd.c(272): warning:  #223-D: function "Read_24LC64" declared implicitly
+pbd.c(277): warning:  #223-D: function "Write_24LC64" declared implicitly
+pbd.c(281): warning:  #223-D: function "Write_24LC64" declared implicitly
+pbd.c(270): warning:  #177-D: variable "value" was declared but never referenced
+pbd.c(288): warning:  #223-D: function "Write_24LC64" declared implicitly
+linking...
+Program Size: Code=10352 RO-data=284 RW-data=1644 ZI-data=1284  
+User command #1: fromelf --bin ".\obj\PBD.axf" --output ".\obj\PBD.bin"
+User command #2: fromelf --text -c ".\obj\PBD.axf" --output ".\obj\PBD.txt"
+".\obj\PBD.axf" - 0 Error(s), 7 Warning(s).
+Load "C:\\Users\\ize\\Desktop\\pbd\\obj\\PBD.AXF" 
+Build target 'PBD'
+compiling pbd.c...
+pbd.c(88): warning:  #223-D: function "Read_24LC64" declared implicitly
+pbd.c(85): warning:  #177-D: variable "i" was declared but never referenced
+pbd.c(272): warning:  #223-D: function "Read_24LC64" declared implicitly
+pbd.c(277): warning:  #223-D: function "Write_24LC64" declared implicitly
+pbd.c(281): warning:  #223-D: function "Write_24LC64" declared implicitly
+pbd.c(270): warning:  #177-D: variable "value" was declared but never referenced
+pbd.c(288): warning:  #223-D: function "Write_24LC64" declared implicitly
+pbd.c(294): warning:  #140-D: too many arguments in function call
+linking...
+Program Size: Code=10444 RO-data=284 RW-data=1644 ZI-data=1284  
+User command #1: fromelf --bin ".\obj\PBD.axf" --output ".\obj\PBD.bin"
+User command #2: fromelf --text -c ".\obj\PBD.axf" --output ".\obj\PBD.txt"
+".\obj\PBD.axf" - 0 Error(s), 8 Warning(s).
+Build target 'PBD'
+compiling pbd.c...
+pbd.c(88): warning:  #223-D: function "Read_24LC64" declared implicitly
+pbd.c(85): warning:  #177-D: variable "i" was declared but never referenced
+pbd.c(272): warning:  #223-D: function "Read_24LC64" declared implicitly
+pbd.c(277): warning:  #223-D: function "Write_24LC64" declared implicitly
+pbd.c(281): warning:  #223-D: function "Write_24LC64" declared implicitly
+pbd.c(270): warning:  #177-D: variable "value" was declared but never referenced
+pbd.c(288): warning:  #223-D: function "Write_24LC64" declared implicitly
+linking...
+Program Size: Code=10432 RO-data=284 RW-data=1644 ZI-data=1284  
+User command #1: fromelf --bin ".\obj\PBD.axf" --output ".\obj\PBD.bin"
+User command #2: fromelf --text -c ".\obj\PBD.axf" --output ".\obj\PBD.txt"
+".\obj\PBD.axf" - 0 Error(s), 7 Warning(s).
+Load "C:\\Users\\ize\\Desktop\\pbd\\obj\\PBD.AXF" 
+Build target 'PBD'
+compiling pbd.c...
+pbd.c(88): warning:  #223-D: function "Read_24LC64" declared implicitly
+pbd.c(85): warning:  #177-D: variable "i" was declared but never referenced
+pbd.c(272): warning:  #223-D: function "Read_24LC64" declared implicitly
+pbd.c(277): warning:  #223-D: function "Write_24LC64" declared implicitly
+pbd.c(281): warning:  #223-D: function "Write_24LC64" declared implicitly
+pbd.c(270): warning:  #177-D: variable "value" was declared but never referenced
+pbd.c(288): warning:  #223-D: function "Write_24LC64" declared implicitly
+linking...
+Program Size: Code=10452 RO-data=284 RW-data=1644 ZI-data=1284  
+User command #1: fromelf --bin ".\obj\PBD.axf" --output ".\obj\PBD.bin"
+User command #2: fromelf --text -c ".\obj\PBD.axf" --output ".\obj\PBD.txt"
+".\obj\PBD.axf" - 0 Error(s), 7 Warning(s).
+Load "C:\\Users\\ize\\Desktop\\pbd\\obj\\PBD.AXF" 
+Load "C:\\Users\\ize\\Desktop\\pbd\\obj\\PBD.AXF" 
+Build target 'PBD'
+compiling pbd.c...
+pbd.c(88): warning:  #223-D: function "Read_24LC64" declared implicitly
+pbd.c(85): warning:  #177-D: variable "i" was declared but never referenced
+pbd.c(272): warning:  #223-D: function "Read_24LC64" declared implicitly
+pbd.c(277): warning:  #223-D: function "Write_24LC64" declared implicitly
+pbd.c(281): warning:  #223-D: function "Write_24LC64" declared implicitly
+pbd.c(270): warning:  #177-D: variable "value" was declared but never referenced
+pbd.c(288): warning:  #223-D: function "Write_24LC64" declared implicitly
+linking...
+Program Size: Code=10440 RO-data=284 RW-data=1644 ZI-data=1284  
+User command #1: fromelf --bin ".\obj\PBD.axf" --output ".\obj\PBD.bin"
+User command #2: fromelf --text -c ".\obj\PBD.axf" --output ".\obj\PBD.txt"
+".\obj\PBD.axf" - 0 Error(s), 7 Warning(s).
+Load "C:\\Users\\ize\\Desktop\\pbd\\obj\\PBD.AXF" 
+Build target 'PBD'
+compiling pbd.c...
+pbd.c(88): warning:  #223-D: function "Read_24LC64" declared implicitly
+pbd.c(85): warning:  #177-D: variable "i" was declared but never referenced
+pbd.c(272): warning:  #223-D: function "Read_24LC64" declared implicitly
+pbd.c(277): warning:  #223-D: function "Write_24LC64" declared implicitly
+pbd.c(281): warning:  #223-D: function "Write_24LC64" declared implicitly
+pbd.c(270): warning:  #177-D: variable "value" was declared but never referenced
+pbd.c(288): warning:  #223-D: function "Write_24LC64" declared implicitly
+linking...
+Program Size: Code=10432 RO-data=284 RW-data=1644 ZI-data=1284  
+User command #1: fromelf --bin ".\obj\PBD.axf" --output ".\obj\PBD.bin"
+User command #2: fromelf --text -c ".\obj\PBD.axf" --output ".\obj\PBD.txt"
+".\obj\PBD.axf" - 0 Error(s), 7 Warning(s).
+Load "C:\\Users\\ize\\Desktop\\pbd\\obj\\PBD.AXF" 
+Build target 'PBD'
+compiling pbd.c...
+pbd.c(88): warning:  #223-D: function "Read_24LC64" declared implicitly
+pbd.c(85): warning:  #177-D: variable "i" was declared but never referenced
+pbd.c(272): warning:  #223-D: function "Read_24LC64" declared implicitly
+pbd.c(277): warning:  #223-D: function "Write_24LC64" declared implicitly
+pbd.c(281): warning:  #223-D: function "Write_24LC64" declared implicitly
+pbd.c(270): warning:  #177-D: variable "value" was declared but never referenced
+pbd.c(288): warning:  #223-D: function "Write_24LC64" declared implicitly
+linking...
+Program Size: Code=10432 RO-data=284 RW-data=1644 ZI-data=1284  
+User command #1: fromelf --bin ".\obj\PBD.axf" --output ".\obj\PBD.bin"
+User command #2: fromelf --text -c ".\obj\PBD.axf" --output ".\obj\PBD.txt"
+".\obj\PBD.axf" - 0 Error(s), 7 Warning(s).
+Load "C:\\Users\\ize\\Desktop\\pbd\\obj\\PBD.AXF" 
+Load "C:\\Users\\ize\\Desktop\\pbd\\obj\\PBD.AXF" 
+Build target 'PBD'
+compiling pbd.c...
+pbd.c(88): warning:  #223-D: function "Read_24LC64" declared implicitly
+pbd.c(85): warning:  #177-D: variable "i" was declared but never referenced
+pbd.c(272): warning:  #223-D: function "Read_24LC64" declared implicitly
+pbd.c(277): warning:  #223-D: function "Write_24LC64" declared implicitly
+pbd.c(281): warning:  #223-D: function "Write_24LC64" declared implicitly
+pbd.c(270): warning:  #177-D: variable "value" was declared but never referenced
+pbd.c(288): warning:  #223-D: function "Write_24LC64" declared implicitly
+linking...
+Program Size: Code=10432 RO-data=284 RW-data=1644 ZI-data=1284  
+User command #1: fromelf --bin ".\obj\PBD.axf" --output ".\obj\PBD.bin"
+User command #2: fromelf --text -c ".\obj\PBD.axf" --output ".\obj\PBD.txt"
+".\obj\PBD.axf" - 0 Error(s), 7 Warning(s).
+Load "C:\\Users\\ize\\Desktop\\pbd\\obj\\PBD.AXF" 
+Build target 'PBD'
+compiling pbd.c...
+pbd.c(88): warning:  #223-D: function "Read_24LC64" declared implicitly
+pbd.c(85): warning:  #177-D: variable "i" was declared but never referenced
+pbd.c(273): warning:  #223-D: function "Read_24LC64" declared implicitly
+pbd.c(278): warning:  #223-D: function "Write_24LC64" declared implicitly
+pbd.c(282): warning:  #223-D: function "Write_24LC64" declared implicitly
+pbd.c(271): warning:  #177-D: variable "value" was declared but never referenced
+pbd.c(289): warning:  #223-D: function "Write_24LC64" declared implicitly
+linking...
+Program Size: Code=10436 RO-data=284 RW-data=1644 ZI-data=1284  
+User command #1: fromelf --bin ".\obj\PBD.axf" --output ".\obj\PBD.bin"
+User command #2: fromelf --text -c ".\obj\PBD.axf" --output ".\obj\PBD.txt"
+".\obj\PBD.axf" - 0 Error(s), 7 Warning(s).
 Load "C:\\Users\\ize\\Desktop\\pbd\\obj\\PBD.AXF" 
