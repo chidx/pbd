@@ -189,10 +189,10 @@
       <FileType>1</FileType>
       <tvExp>0</tvExp>
       <Focus>0</Focus>
-      <ColumnNumber>0</ColumnNumber>
+      <ColumnNumber>14</ColumnNumber>
       <tvExpOptDlg>0</tvExpOptDlg>
-      <TopLine>53</TopLine>
-      <CurrentLine>76</CurrentLine>
+      <TopLine>330</TopLine>
+      <CurrentLine>338</CurrentLine>
       <bDave2>0</bDave2>
       <PathWithFileName>.\pbd.c</PathWithFileName>
       <FilenameWithoutPath>pbd.c</FilenameWithoutPath>
@@ -231,10 +231,10 @@
       <FileType>1</FileType>
       <tvExp>0</tvExp>
       <Focus>0</Focus>
-      <ColumnNumber>20</ColumnNumber>
+      <ColumnNumber>5</ColumnNumber>
       <tvExpOptDlg>0</tvExpOptDlg>
-      <TopLine>1</TopLine>
-      <CurrentLine>22</CurrentLine>
+      <TopLine>26</TopLine>
+      <CurrentLine>37</CurrentLine>
       <bDave2>0</bDave2>
       <PathWithFileName>.\Src\NUC1xx-LB_002\Seven_Segment.c</PathWithFileName>
       <FilenameWithoutPath>Seven_Segment.c</FilenameWithoutPath>
@@ -261,8 +261,8 @@
       <Focus>0</Focus>
       <ColumnNumber>0</ColumnNumber>
       <tvExpOptDlg>0</tvExpOptDlg>
-      <TopLine>0</TopLine>
-      <CurrentLine>0</CurrentLine>
+      <TopLine>1</TopLine>
+      <CurrentLine>1</CurrentLine>
       <bDave2>0</bDave2>
       <PathWithFileName>.\Src\NUC1xx-LB_002\EEPROM_24LC64.c</PathWithFileName>
       <FilenameWithoutPath>EEPROM_24LC64.c</FilenameWithoutPath>
@@ -418,9 +418,21 @@
       <Documents>
         <Doc>
           <Name>.\pbd.c</Name>
+          <ColumnNumber>14</ColumnNumber>
+          <TopLine>330</TopLine>
+          <CurrentLine>338</CurrentLine>
+        </Doc>
+        <Doc>
+          <Name>.\Src\NUC1xx-LB_002\Seven_Segment.c</Name>
+          <ColumnNumber>5</ColumnNumber>
+          <TopLine>26</TopLine>
+          <CurrentLine>37</CurrentLine>
+        </Doc>
+        <Doc>
+          <Name>.\Src\NUC1xx-LB_002\EEPROM_24LC64.c</Name>
           <ColumnNumber>0</ColumnNumber>
-          <TopLine>53</TopLine>
-          <CurrentLine>76</CurrentLine>
+          <TopLine>1</TopLine>
+          <CurrentLine>1</CurrentLine>
         </Doc>
       </Documents>
     </MDIGroup>

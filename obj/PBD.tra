@@ -23,7 +23,7 @@
 ### ADS-LD Output File: '.\obj\PBD.axf'
 ### ADS-LD Command File: '.\obj\PBD.lnp'
 ### Checking for dirty Components...
-### Creating CmdFile '.\obj\PBD.lnp', Handle=0x00000F5C
+### Creating CmdFile '.\obj\PBD.lnp', Handle=0x00000AF4
 ### Writing '.lnp' file
 ### ADS-LD Command file '.\obj\PBD.lnp' is ready.
 ### ADS-LD: About to start ADS-LD Thread.
